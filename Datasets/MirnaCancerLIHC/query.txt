@@ -1,0 +1,9 @@
+#GKirc= SELECT((biospecimen_sample__sample_type == "metastatic" OR biospecimen_sample__sample_type = AND manually_curated__tumor_tag == "kirc") HG19_TCGA_rnaseq_gene;
+
+MLIHC= SELECT(manually_curated__tissue_status == "tumoral" AND biospecimen__admin__disease_code == "LIHC") GRCh38_TCGA_miRNA_expression_2018_12;
+
+#Kirc= UNION() GKirc MKirc;
+
+#CountKirc= EXTEND (num AS COUNT())Kirc;
+
+MATERIALIZE MLIHC INTO MLIHC;

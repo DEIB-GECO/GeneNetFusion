@@ -1,0 +1,12 @@
+GNoLihc=  SELECT(manually_curated__tissue_status == "normal" AND biospecimen__admin__disease_code == "LIHC") GRCh38_TCGA_gene_expression_2018_12;
+
+#MNoKirc= SELECT(biospecimen_sample__sample_type == "solid tissue normal" AND manually_curated__tumor_tag == "kirc") HG19_TCGA_mirnaseqv2_mirna;
+
+
+CountGNoLihc= EXTEND (num AS COUNT())GNoLihc;
+#CountMNoKirc= EXTEND (num AS COUNT())MNoKirc;
+
+
+
+
+MATERIALIZE CountGNoLihc INTO CountGNoLihc;

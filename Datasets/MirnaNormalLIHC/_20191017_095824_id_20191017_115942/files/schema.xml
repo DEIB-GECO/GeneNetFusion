@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gmqlSchemaCollection name= "_20191017_095824_id_20191017_115942" xmlns="http://genomic.elet.polimi.it/entities">
+	<gmqlSchema type="tab" coordinate_system="default">
+		<field type="string">chr</field>
+		<field type="integer">start</field>
+		<field type="integer">stop</field>
+		<field type="string">strand</field>
+		<field type="string">mirna_id</field>
+		<field type="double">read_count</field>
+		<field type="double">reads_per_million_mirna_mapped</field>
+		<field type="string">cross_mapped</field>
+		<field type="string">entrez_gene_id</field>
+		<field type="string">gene_symbol</field>
+	</gmqlSchema>
+</gmqlSchemaCollection>

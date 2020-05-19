@@ -1,0 +1,8 @@
+GLIHC= SELECT(manually_curated__tissue_status == "tumoral" AND biospecimen__admin__disease_code == "LIHC") GRCh38_TCGA_gene_expression_2018_12;
+#MKirc= SELECT((biospecimen_sample__sample_type == "additional - new primary" OR biospecimen_sample__sample_type == "additional metastatic" OR biospecimen_sample__sample_type == "metastatic" OR biospecimen_sample__sample_type == "primary tumor" OR biospecimen_sample__sample_type == "recurrent tumor") AND manually_curated__tumor_tag == "kirc") HG19_TCGA_mirnaseq_mirna;
+
+#Kirc= UNION() GKirc MKirc;
+
+CountLIHC= EXTEND (num AS COUNT())GLIHC;
+
+MATERIALIZE CountLIHC INTO GLIHC;

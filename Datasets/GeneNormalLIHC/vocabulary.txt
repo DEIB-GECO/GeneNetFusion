@@ -1,0 +1,3445 @@
+biospecimen__admin__batch_number
+	100.78.0	24
+	131.77.0	3
+	153.74.0	2
+	173.73.0	1
+	203.73.0	9
+	231.65.0	11
+biospecimen__admin__bcr
+	Nationwide Children's Hospital	50
+biospecimen__admin__day_of_dcc_upload
+	1	50
+biospecimen__admin__disease_code
+	LIHC	50
+biospecimen__admin__file_uuid
+	03C7FAD7-A7D5-484A-B84C-CC64F7FA5E86	1
+	095F8813-9901-4FA9-B59A-12A58D006DBB	1
+	0E22C709-9AF5-4D06-B165-8C82A3EC4B07	1
+	1B7D65FD-F35A-40B0-9935-62524D548C2E	1
+	1C5B40CB-D73A-4665-8FAC-228F1978311A	1
+	1FEEFCC1-7DEC-4B94-9951-0B803F1888B6	1
+	21E35057-CFF5-4128-8857-7BE38D4C52CD	1
+	23333242-369A-41B0-9D34-3ED88E1CB237	1
+	233A4BC7-7D94-4D13-8A52-1C3C281CCF6A	1
+	2768EA01-6367-4EFB-9CC0-72EF954313D3	1
+	2AF27B8A-F748-4802-8730-93C93B30B1BC	1
+	2C50D3AC-DB8E-412D-B3F4-22B110C0B531	1
+	35823073-A782-4B83-9CDE-ACE23B109C2C	1
+	36FC1708-4CC1-49CA-9E04-43D909FA123B	1
+	384FEB52-9631-48ED-BEB6-7FC76AB1F05F	1
+	3D7C090A-19C7-4F05-97C0-2A9C6BB441DA	1
+	4519D439-32CB-42D3-8166-1A08E8E947DC	1
+	4A79E1D5-C36E-4A07-969F-59EFD78FC2D9	1
+	4B70502C-ED96-42F1-A83E-0FC49116F60D	1
+	573FB961-5656-4DCB-A38A-CD46923122A7	1
+	5A99AF0E-78F0-4472-BE18-B230AAE0A5A8	1
+	5F48212D-0EC9-4344-B3DC-E9B0E3C7DAFC	1
+	61CA051E-ADBD-418A-9C59-51FFFE2F5105	1
+	6400C350-50B2-490C-898C-BBFB63759EC7	1
+	653A583B-B9C7-4FE3-9543-41374062B17B	1
+	6A1EF298-4784-4C88-9082-2C5D218E4E7F	1
+	741EDDF8-49A3-4585-9DB7-3417514AB8AB	1
+	74F52902-87CD-448A-927A-E788B7D6FA9A	1
+	865A2B4D-00E7-4504-9997-A70BC65721B2	1
+	89573359-CAF8-4E91-AF1A-D652D0D9EA46	1
+	8C3F5DA9-AE11-4F88-BC15-F1303D584D20	1
+	9006F1F6-E21E-45FC-9805-D7FA2C3012BC	1
+	9997C302-F2E9-42DD-A87D-725C56F87E5D	1
+	A286BB97-0D7E-4D36-BC5D-E3C853B70277	1
+	AEF9994B-1248-4E4D-9189-D59D4129346E	1
+	B1B23C61-3DAA-4573-A4E9-2C8794C95AA1	1
+	BCA1C5DA-89E7-49E7-8378-09BB9F1DE292	1
+	BE3B5892-FA52-4DB8-8C6F-BE25A736857B	1
+	BFF823F6-9F15-43D8-9D82-09DC9DB78861	1
+	C3709B03-B3FE-4658-BF7B-1700C996B61E	1
+	C51C24D8-ED6F-4D09-8075-70B24F93C396	1
+	CF154907-B5F4-423D-B670-DBA6931E1383	1
+	CF5B72BE-E171-4B2C-AE1F-6D2E6D97D1E6	1
+	D5517E59-2308-415B-98AC-00E316BA9025	1
+	E845FC47-8188-48D4-B949-06D88CDE4FE7	1
+	EAFA0167-E8E3-4972-BEEC-970F3F8A251A	1
+	EBDF7F0E-7BBA-43E4-818A-856054D86A7D	1
+	F2870C5E-9840-46C0-88A7-DCA7387C5448	1
+	F5978E95-8F3B-4A8E-806F-8B01F7367EF5	1
+	FF02623A-753B-40A1-9F19-BDDBF6ADFC0B	1
+biospecimen__admin__month_of_dcc_upload
+	7	50
+biospecimen__admin__year_of_dcc_upload
+	2016	50
+biospecimen__bio__bcr_analyte_barcode
+	TCGA-BC-A10Q-11A-11R	1
+	TCGA-BC-A10R-11A-11R	1
+	TCGA-BC-A10T-11A-11R	1
+	TCGA-BC-A10U-11A-11R	1
+	TCGA-BC-A10W-11A-11R	1
+	TCGA-BC-A10X-11A-11R	1
+	TCGA-BC-A10Y-11A-11R	1
+	TCGA-BC-A10Z-11A-11R	1
+	TCGA-BC-A110-11A-11R	1
+	TCGA-BC-A216-11A-11R	1
+	TCGA-BD-A2L6-11A-21R	1
+	TCGA-BD-A3EP-11A-12R	1
+	TCGA-DD-A113-11A-12R	1
+	TCGA-DD-A114-11A-12R	1
+	TCGA-DD-A116-11A-12R	1
+	TCGA-DD-A118-11A-11R	1
+	TCGA-DD-A119-11A-11R	1
+	TCGA-DD-A11A-11A-11R	1
+	TCGA-DD-A11B-11A-11R	1
+	TCGA-DD-A11C-11A-11R	1
+	TCGA-DD-A11D-11A-12R	1
+	TCGA-DD-A1EB-11A-11R	1
+	TCGA-DD-A1EC-11A-11R	1
+	TCGA-DD-A1EE-11A-11R	1
+	TCGA-DD-A1EG-11A-11R	1
+	TCGA-DD-A1EH-11A-11R	1
+	TCGA-DD-A1EI-11A-11R	1
+	TCGA-DD-A1EJ-11A-11R	1
+	TCGA-DD-A1EL-11A-11R	1
+	TCGA-DD-A39V-11A-11R	1
+	TCGA-DD-A39W-11A-11R	1
+	TCGA-DD-A39X-11A-11R	1
+	TCGA-DD-A39Z-11A-21R	1
+	TCGA-DD-A3A1-11A-11R	1
+	TCGA-DD-A3A2-11A-11R	1
+	TCGA-DD-A3A3-11A-11R	1
+	TCGA-DD-A3A4-11A-11R	1
+	TCGA-DD-A3A5-11A-11R	1
+	TCGA-DD-A3A6-11A-11R	1
+	TCGA-DD-A3A8-11A-11R	1
+	TCGA-EP-A12J-11A-11R	1
+	TCGA-EP-A26S-11A-12R	1
+	TCGA-EP-A3RK-11A-11R	1
+	TCGA-ES-A2HT-11A-11R	1
+	TCGA-FV-A23B-11A-11R	1
+	TCGA-FV-A2QR-11A-11R	1
+	TCGA-FV-A3I0-11A-11R	1
+	TCGA-FV-A3I1-11A-11R	1
+	TCGA-FV-A3R2-11A-11R	1
+	TCGA-G3-A3CH-11A-11R	1
+biospecimen__bio__bcr_portion_barcode
+	TCGA-BC-A10Q-11A-11	1
+	TCGA-BC-A10R-11A-11	1
+	TCGA-BC-A10T-11A-11	1
+	TCGA-BC-A10U-11A-11	1
+	TCGA-BC-A10W-11A-11	1
+	TCGA-BC-A10X-11A-11	1
+	TCGA-BC-A10Y-11A-11	1
+	TCGA-BC-A10Z-11A-11	1
+	TCGA-BC-A110-11A-11	1
+	TCGA-BC-A216-11A-11	1
+	TCGA-BD-A2L6-11A-21	1
+	TCGA-BD-A3EP-11A-12	1
+	TCGA-DD-A113-11A-12	1
+	TCGA-DD-A114-11A-12	1
+	TCGA-DD-A116-11A-12	1
+	TCGA-DD-A118-11A-11	1
+	TCGA-DD-A119-11A-11	1
+	TCGA-DD-A11A-11A-11	1
+	TCGA-DD-A11B-11A-11	1
+	TCGA-DD-A11C-11A-11	1
+	TCGA-DD-A11D-11A-12	1
+	TCGA-DD-A1EB-11A-11	1
+	TCGA-DD-A1EC-11A-11	1
+	TCGA-DD-A1EE-11A-11	1
+	TCGA-DD-A1EG-11A-11	1
+	TCGA-DD-A1EH-11A-11	1
+	TCGA-DD-A1EI-11A-11	1
+	TCGA-DD-A1EJ-11A-11	1
+	TCGA-DD-A1EL-11A-11	1
+	TCGA-DD-A39V-11A-11	1
+	TCGA-DD-A39W-11A-11	1
+	TCGA-DD-A39X-11A-11	1
+	TCGA-DD-A39Z-11A-21	1
+	TCGA-DD-A3A1-11A-11	1
+	TCGA-DD-A3A2-11A-11	1
+	TCGA-DD-A3A3-11A-11	1
+	TCGA-DD-A3A4-11A-11	1
+	TCGA-DD-A3A5-11A-11	1
+	TCGA-DD-A3A6-11A-11	1
+	TCGA-DD-A3A8-11A-11	1
+	TCGA-EP-A12J-11A-11	1
+	TCGA-EP-A26S-11A-12	1
+	TCGA-EP-A3RK-11A-11	1
+	TCGA-ES-A2HT-11A-11	1
+	TCGA-FV-A23B-11A-11	1
+	TCGA-FV-A2QR-11A-11	1
+	TCGA-FV-A3I0-11A-11	1
+	TCGA-FV-A3I1-11A-11	1
+	TCGA-FV-A3R2-11A-11	1
+	TCGA-G3-A3CH-11A-11	1
+biospecimen__bio__bcr_sample_barcode
+	TCGA-BC-A10Q-11A	1
+	TCGA-BC-A10R-11A	1
+	TCGA-BC-A10T-11A	1
+	TCGA-BC-A10U-11A	1
+	TCGA-BC-A10W-11A	1
+	TCGA-BC-A10X-11A	1
+	TCGA-BC-A10Y-11A	1
+	TCGA-BC-A10Z-11A	1
+	TCGA-BC-A110-11A	1
+	TCGA-BC-A216-11A	1
+	TCGA-BD-A2L6-11A	1
+	TCGA-BD-A3EP-11A	1
+	TCGA-DD-A113-11A	1
+	TCGA-DD-A114-11A	1
+	TCGA-DD-A116-11A	1
+	TCGA-DD-A118-11A	1
+	TCGA-DD-A119-11A	1
+	TCGA-DD-A11A-11A	1
+	TCGA-DD-A11B-11A	1
+	TCGA-DD-A11C-11A	1
+	TCGA-DD-A11D-11A	1
+	TCGA-DD-A1EB-11A	1
+	TCGA-DD-A1EC-11A	1
+	TCGA-DD-A1EE-11A	1
+	TCGA-DD-A1EG-11A	1
+	TCGA-DD-A1EH-11A	1
+	TCGA-DD-A1EI-11A	1
+	TCGA-DD-A1EJ-11A	1
+	TCGA-DD-A1EL-11A	1
+	TCGA-DD-A39V-11A	1
+	TCGA-DD-A39W-11A	1
+	TCGA-DD-A39X-11A	1
+	TCGA-DD-A39Z-11A	1
+	TCGA-DD-A3A1-11A	1
+	TCGA-DD-A3A2-11A	1
+	TCGA-DD-A3A3-11A	1
+	TCGA-DD-A3A4-11A	1
+	TCGA-DD-A3A5-11A	1
+	TCGA-DD-A3A6-11A	1
+	TCGA-DD-A3A8-11A	1
+	TCGA-EP-A12J-11A	1
+	TCGA-EP-A26S-11A	1
+	TCGA-EP-A3RK-11A	1
+	TCGA-ES-A2HT-11A	1
+	TCGA-FV-A23B-11A	1
+	TCGA-FV-A2QR-11A	1
+	TCGA-FV-A3I0-11A	1
+	TCGA-FV-A3I1-11A	1
+	TCGA-FV-A3R2-11A	1
+	TCGA-G3-A3CH-11A	1
+biospecimen__bio__biospecimen_barcode_bottom
+	0099021576	1
+	0099021579	1
+	0099021603	1
+	0108428637	1
+	0108433543	1
+	0108433544	1
+	0108433550	1
+	0108433551	1
+	0108433568	1
+	0108433569	1
+	0108433574	1
+	0108433575	1
+	0108433592	1
+	0108433593	1
+	0108433598	1
+	0108433616	1
+	0108433617	1
+	0108433622	1
+	0108433623	1
+	0108433643	1
+	0108433644	1
+	0108433668	1
+	0108433691	1
+	0108433692	1
+	0108434027	1
+	0108434028	1
+	0113416345	1
+	0113422350	1
+	0113422354	1
+	0118955526	1
+	0118955527	1
+	0118955538	1
+	0118955550	1
+	0118955552	1
+	0118955559	1
+	0118955560	1
+	0118955583	1
+	0118955584	1
+	0118955585	1
+	0118955609	1
+	0122969191	1
+	0122969192	1
+	0122969215	1
+	0122969217	1
+	0122969223	1
+	0122969238	1
+	0122969264	1
+	0122969265	1
+	0122969999	1
+	0132160644	1
+biospecimen__bio__day_of_creation
+	01	2
+	03	3
+	04	1
+	06	2
+	08	2
+	11	1
+	12	2
+	14	1
+	15	3
+	16	6
+	17	1
+	20	5
+	22	6
+	26	1
+	27	3
+	30	7
+	31	4
+biospecimen__bio__day_of_shipment
+	01	23
+	05	2
+	10	3
+	24	9
+	30	12
+	31	1
+biospecimen__bio__days_to_index
+	0	50
+biospecimen__bio__gel_image_file
+	https://sharedoc.nchri.org/tcga-bcr/default.aspx	50
+biospecimen__bio__is_derived_from_ffpe
+	NO	50
+biospecimen__bio__month_of_creation
+	01	9
+	02	2
+	03	4
+	04	2
+	06	2
+	09	7
+	10	4
+	11	16
+	12	4
+biospecimen__bio__month_of_shipment
+	01	10
+	03	23
+	05	14
+	07	2
+	08	1
+biospecimen__bio__plate_column
+	1	1
+	10	2
+	12	1
+	5	2
+	6	14
+	7	12
+	8	12
+	9	6
+biospecimen__bio__plate_id
+	A131	23
+	A155	3
+	A16W	2
+	A180	1
+	A213	9
+	A22L	11
+	A26B	1
+biospecimen__bio__plate_row
+	A	6
+	B	4
+	C	10
+	D	5
+	E	6
+	F	7
+	G	5
+	H	7
+biospecimen__bio__portion_sequence
+	1	48
+	2	2
+biospecimen__bio__quantity
+	1.95	5
+	2.08	8
+	2.21	5
+	2.34	6
+	3.74	2
+	4.01	5
+	4.27	7
+	4.54	10
+	4.81	2
+biospecimen__bio__subportion_sequence
+	1	44
+	2	6
+biospecimen__bio__vial_number
+	A	50
+biospecimen__bio__volume
+	13.00	24
+	26.70	26
+biospecimen__bio__year_of_creation
+	2010	17
+	2011	28
+	2012	5
+biospecimen__bio__year_of_shipment
+	2011	29
+	2012	20
+	2013	1
+biospecimen__shared__bcr_patient_barcode
+	TCGA-BC-A10Q	1
+	TCGA-BC-A10R	1
+	TCGA-BC-A10T	1
+	TCGA-BC-A10U	1
+	TCGA-BC-A10W	1
+	TCGA-BC-A10X	1
+	TCGA-BC-A10Y	1
+	TCGA-BC-A10Z	1
+	TCGA-BC-A110	1
+	TCGA-BC-A216	1
+	TCGA-BD-A2L6	1
+	TCGA-BD-A3EP	1
+	TCGA-DD-A113	1
+	TCGA-DD-A114	1
+	TCGA-DD-A116	1
+	TCGA-DD-A118	1
+	TCGA-DD-A119	1
+	TCGA-DD-A11A	1
+	TCGA-DD-A11B	1
+	TCGA-DD-A11C	1
+	TCGA-DD-A11D	1
+	TCGA-DD-A1EB	1
+	TCGA-DD-A1EC	1
+	TCGA-DD-A1EE	1
+	TCGA-DD-A1EG	1
+	TCGA-DD-A1EH	1
+	TCGA-DD-A1EI	1
+	TCGA-DD-A1EJ	1
+	TCGA-DD-A1EL	1
+	TCGA-DD-A39V	1
+	TCGA-DD-A39W	1
+	TCGA-DD-A39X	1
+	TCGA-DD-A39Z	1
+	TCGA-DD-A3A1	1
+	TCGA-DD-A3A2	1
+	TCGA-DD-A3A3	1
+	TCGA-DD-A3A4	1
+	TCGA-DD-A3A5	1
+	TCGA-DD-A3A6	1
+	TCGA-DD-A3A8	1
+	TCGA-EP-A12J	1
+	TCGA-EP-A26S	1
+	TCGA-EP-A3RK	1
+	TCGA-ES-A2HT	1
+	TCGA-FV-A23B	1
+	TCGA-FV-A2QR	1
+	TCGA-FV-A3I0	1
+	TCGA-FV-A3I1	1
+	TCGA-FV-A3R2	1
+	TCGA-G3-A3CH	1
+biospecimen__shared__patient_id
+	A10Q	1
+	A10R	1
+	A10T	1
+	A10U	1
+	A10W	1
+	A10X	1
+	A10Y	1
+	A10Z	1
+	A110	1
+	A113	1
+	A114	1
+	A116	1
+	A118	1
+	A119	1
+	A11A	1
+	A11B	1
+	A11C	1
+	A11D	1
+	A12J	1
+	A1EB	1
+	A1EC	1
+	A1EE	1
+	A1EG	1
+	A1EH	1
+	A1EI	1
+	A1EJ	1
+	A1EL	1
+	A216	1
+	A23B	1
+	A26S	1
+	A2HT	1
+	A2L6	1
+	A2QR	1
+	A39V	1
+	A39W	1
+	A39X	1
+	A39Z	1
+	A3A1	1
+	A3A2	1
+	A3A3	1
+	A3A4	1
+	A3A5	1
+	A3A6	1
+	A3A8	1
+	A3CH	1
+	A3EP	1
+	A3I0	1
+	A3I1	1
+	A3R2	1
+	A3RK	1
+clinical__ablation__ablation_performed_indicator
+	NO	8
+	YES	7
+clinical__ablation__ablation_type
+	Ethanol Injection	1
+	Other	1
+	Radiofrequency Ablation	5
+clinical__ablation__ablation_type_other
+	percutaneous laser ablation	1
+clinical__ablation__bcr_ablation_barcode
+	TCGA-BC-A10Q-A13754	1
+	TCGA-BC-A10R-A13748	1
+	TCGA-BC-A10U-A13749	1
+	TCGA-BC-A10Y-A13752	1
+	TCGA-DD-A113-A43738	1
+	TCGA-DD-A11D-A43743	1
+	TCGA-DD-A1EB-A42227	1
+	TCGA-DD-A1EG-A43855	1
+	TCGA-DD-A1EH-A45785	1
+	TCGA-DD-A1EJ-A42216	1
+	TCGA-DD-A1EL-A42231	1
+	TCGA-DD-A39X-A42569	1
+	TCGA-DD-A3A4-A42699	1
+	TCGA-DD-A3A5-A42572	1
+	TCGA-FV-A23B-A56106	1
+clinical__ablation__bcr_ablation_uuid
+	1BD30F5B-B70D-4E68-8C90-E6658939E2A4	1
+	23D1697E-FE5C-4B31-9308-534FE20BB62E	1
+	3171B121-F52B-4493-B41C-B53451B22CD5	1
+	38B7049A-E74F-4548-9AAE-D604D4C697BD	1
+	59CA7EF7-652C-416A-82B8-14E666059859	1
+	5BD6AA35-352F-459E-BFCB-FDD1929F1153	1
+	6CA54E88-D6C5-4F67-B456-159E16441697	1
+	7B52CE23-0D78-4CD7-BE6D-BD49B670EBE2	1
+	7DC35BE0-5FF4-4075-ADBC-348F148D5887	1
+	90DB9C36-2FC9-4029-B149-5FB11F680DB6	1
+	C5B24C75-28AD-46A1-ACEB-8F74FEED26F8	1
+	CB81B953-600C-4EA2-A887-9AC76DF2AC04	1
+	DE62BB09-B68C-42AB-B933-D4B5995B733C	1
+	E888B66F-EC27-412B-8CDF-A97F9598C732	1
+	EE8FD1C9-41B0-4929-BDE9-08321DBA7EF2	1
+clinical__ablation__days_to_ablation_performed
+	0	1
+	1039	1
+	126	1
+	1501	1
+	2351	1
+	506	1
+	614	1
+clinical__ablation__days_to_embolization_performed
+	1070	1
+	1506	1
+	165	1
+	217	1
+	231	1
+	237	1
+	260	1
+	495	1
+	527	1
+clinical__ablation__embolization_performed_indicator
+	NO	6
+	YES	9
+clinical__ablation__embolization_therapy_drug_name
+	Other	6
+clinical__ablation__embolization_therapy_drug_name_other
+	chemoembolic mixture	1
+	Doxorubicin and Mitomycin C	1
+	Doxorubicon and Mitomycin C	1
+	Mitomycin C and cis-platinum	1
+	Y90 Theraspheres	1
+clinical__ablation__embolization_type
+	Chemoembolization	7
+	Radioembolization	2
+clinical__ablation__embolizing_agent_utilized
+	Other, specify	4
+	Y-90 Therasphere	2
+clinical__ablation__embolizing_agent_utilized_other
+	chemoembolic agen	1
+	Embosphere/gelfoam	1
+	PVA particles	2
+clinical__ablation__lesions_count
+	1	2
+	2	2
+	3	1
+clinical__ablation__treatment_cycles_count
+	1	5
+	4	1
+clinical__admin__day_of_dcc_upload
+	22	50
+clinical__admin__file_uuid
+	0913A94A-7F62-49AD-9183-FB87091B9BCB	1
+	110DBAD2-5D19-41FB-9F3B-1B4F08658AD4	1
+	17AE4D15-47B4-42FA-BAFB-9BAB78965787	1
+	21387AA4-2457-4C5D-81B0-4E42466CB59E	1
+	32BBFD9D-3113-41AA-AB6C-07B9926EE731	1
+	36CDA441-B365-4F6C-9B4F-80726AFF986B	1
+	3D4E4EFA-1A2B-4D76-ADC8-B04698BC20B5	1
+	3F83EE20-FBF7-4EBF-997F-4BC273051548	1
+	48AF6375-2593-48F2-86C1-553C171D710E	1
+	4D585C54-38CA-4B9F-AC25-07B7FCBF2391	1
+	4D8CEB97-6323-494B-B23E-D046566001F1	1
+	4E47D93C-9B66-4DD3-8ACA-998D5F13BBA1	1
+	5DA866F3-6E17-4892-BDA9-9339E0AA64BE	1
+	5EF48FA1-DBFC-4ABE-92D2-611F71967966	1
+	5FF3425D-E5B9-47AB-8530-06CBE45AF614	1
+	6012DDFF-3200-473A-BD7B-3C47D8A90D59	1
+	6328BEF7-34BE-4105-BA7E-5197436CF209	1
+	63C434DD-2694-42E4-8D80-5BA4F3B0D6F9	1
+	6908AC09-D8DF-48C8-B709-ED50469172FE	1
+	69A3806A-B0A4-4D15-9E64-A04C6F472959	1
+	6BC23F99-BC34-4443-A66B-0826F6F95D07	1
+	6CB2805F-6130-4313-8319-5B3D39FD4CE9	1
+	6D50B27E-1465-428E-B48B-D8C408D8018D	1
+	708BC79F-62DE-4EBF-922F-EEBA3B47CE91	1
+	7723FB6E-145D-4E56-8544-C076A3266C42	1
+	7F4565B0-F5DD-4CA9-96C2-56604261CC57	1
+	80FAAE71-B8A6-4D55-94C5-BBEE2FF85425	1
+	88C82879-2810-4F4E-AA6E-3ABDB2A34D22	1
+	8C004128-E347-4A9A-B975-0635F19B8DFD	1
+	A16A9CFB-2A9E-4D30-BA94-4F5333B5DC02	1
+	A218CECF-7FC3-4972-981C-62074B150F2B	1
+	A5751F18-F38E-487E-8745-5D2CC15817DC	1
+	AD6283D9-F105-4240-AA77-0BBC195EC723	1
+	AF69F21B-BCFB-46E8-86C6-D36ADEE047CB	1
+	AFE90470-5F58-4D7D-84FC-C525B5BF1253	1
+	B035D1CD-2E10-47C0-A04D-B374A4162723	1
+	B256535E-F4BC-45E9-8A55-50B573E7F904	1
+	B3532B68-3C3A-4855-93DB-6301818F37CC	1
+	BCAB858D-FC00-41E0-BF26-2BA996F81245	1
+	C1D4A1FD-2CDE-47E7-8DF1-248968FE9AAA	1
+	CDD2A63A-AF46-4663-A837-39DA35EF49B2	1
+	D37525CF-B284-45DF-B83D-C9FCAA57EC11	1
+	D39F85D5-212A-49AE-B167-F9D1C1814E57	1
+	DA3B7666-BEF9-465D-88C6-955AD72EE9C2	1
+	E07A55E6-3986-4D0B-8510-A75785C49FF8	1
+	EB51FA63-A9AD-486D-A7BF-9D4361C92F74	1
+	EB8D7023-DB11-4175-8F92-0EAAE719FBC3	1
+	F42FB6C8-E119-4127-94C9-64E6B0C695A4	1
+	F845107B-E7B2-4624-AA3A-3DDE7B77E8EB	1
+	F8B3370F-7415-4F08-A191-4B38AD8C514C	1
+clinical__admin__month_of_dcc_upload
+	12	50
+clinical__admin__withdrawn
+	false	50
+clinical__chol_lihc_shared__albumin_result_lower_limit
+	0.3	1
+	3.2	1
+	3.4	3
+	3.5	32
+	3.8	2
+clinical__chol_lihc_shared__albumin_result_specified_value
+	0.3	1
+	2.7	1
+	2.8	1
+	3.0	1
+	3.1	2
+	3.2	1
+	3.3	1
+	3.4	2
+	3.5	3
+	3.6	2
+	3.7	3
+	3.8	2
+	3.9	2
+	4.0	3
+	4.1	4
+	4.2	4
+	4.3	4
+	4.4	1
+	4.40	1
+	4.5	1
+	4.7	1
+	5.1	1
+clinical__chol_lihc_shared__albumin_result_upper_limit
+	0.5	1
+	4.8	2
+	5.0	34
+	5.1	2
+clinical__chol_lihc_shared__bilirubin_lower_limit
+	0	2
+	0.0	8
+	0.1	26
+	0.2	2
+	0.3	2
+clinical__chol_lihc_shared__bilirubin_upper_limit
+	.5	1
+	0.3	3
+	0.4	6
+	0.5	8
+	0.6	5
+	0.7	5
+	0.8	2
+	0.9	2
+	1.0	3
+	1.1	1
+	1.2	1
+	1.4	1
+	1.6	2
+	2.3	1
+	2.5	1
+	3.6	1
+clinical__chol_lihc_shared__child_pugh_classification_grade
+	A	23
+	B	9
+clinical__chol_lihc_shared__creatinine_lower_level
+	0.4	1
+	0.5	3
+	0.6	9
+	0.7	9
+	0.8	13
+	0.9	6
+clinical__chol_lihc_shared__creatinine_upper_limit
+	0.9	5
+	1.1	8
+	1.2	9
+	1.3	6
+	1.4	12
+	1.5	1
+clinical__chol_lihc_shared__creatinine_value_in_mg_dl
+	0.6	3
+	0.7	5
+	0.8	5
+	0.9	9
+	1.0	6
+	1.1	5
+	1.2	6
+	1.3	2
+	3.5	1
+clinical__chol_lihc_shared__fetoprotein_outcome_lower_limit
+	0	32
+clinical__chol_lihc_shared__fetoprotein_outcome_upper_limit
+	10	5
+	20	2
+	6	22
+	8	1
+clinical__chol_lihc_shared__fetoprotein_outcome_value
+	10	1
+	10575	1
+	11	1
+	133	1
+	15	1
+	16	1
+	17	1
+	1836	1
+	18840	1
+	2	1
+	21	1
+	223	1
+	24	2
+	264	1
+	27	1
+	3	1
+	38	1
+	4	2
+	41	1
+	5	1
+	53	1
+	55	1
+	6	2
+	7	2
+	779	1
+	79	1
+	8	1
+	831	1
+	85150	1
+	94340	1
+clinical__chol_lihc_shared__fibrosis_ishak_score
+	0 - No Fibrosis	22
+	1,2 - Portal Fibrosis	4
+	3,4 - Fibrous Speta	3
+	5 - Nodular Formation and Incomplete Cirrhosis	1
+	6 - Established Cirrhosis	5
+clinical__chol_lihc_shared__hist_hepato_carc_fact
+	Alcohol consumption	8
+	Hepatitis B	7
+	Hepatitis C	5
+	No History of Primary Risk Factors	19
+	Non-Alcoholic Fatty Liver Disease	3
+	Other	5
+clinical__chol_lihc_shared__hist_hepato_carcinoma_risk
+	cirrhosis	1
+	extensive tobacco history	1
+	HBcAB total (+), HBsAg (-), HBcIgm Ab (-)	1
+	Male, IDDM for 30+years	1
+	no	1
+	Sarcoidosis	1
+	Smoking	1
+	smoking	1
+	Tobacco use	1
+clinical__chol_lihc_shared__inter_norm_ratio_lower_limit
+	0.3	1
+	0.8	2
+	0.9	5
+	8.3	3
+	8.4	14
+	9.5	2
+clinical__chol_lihc_shared__intern_norm_ratio_upper_limit
+	1.1	2
+	1.2	6
+	10.8	3
+	12.0	14
+	12.5	1
+	13.8	1
+clinical__chol_lihc_shared__platelet_result_lower_limit
+	0	1
+	140	2
+	140000	1
+	150	38
+	156	2
+clinical__chol_lihc_shared__platelet_result_upper_limit
+	369	2
+	400	2
+	415	2
+	440	9
+	440000	1
+	450	27
+	6	1
+clinical__chol_lihc_shared__prothrombin_time_result_value
+	0.9	7
+	1.0	10
+	1.1	5
+	1.2	1
+	1.4	1
+	10.2	2
+	10.4	1
+	10.8	1
+	10.9	1
+	11.0	2
+	11.2	1
+	11.4	1
+	12.6	1
+	12.9	1
+	14.3	1
+	8.7	2
+	8.8	2
+	9.1	1
+	9.3	1
+	9.8	1
+clinical__chol_lihc_shared__specimen_collection_method_name
+	Extended Lobectomy	8
+	Lobectomy	21
+	Other (specify)	3
+	Segmentectomy, Multiple	13
+	Segmentectomy, Single	5
+clinical__chol_lihc_shared__total_bilirubin_upper_limit
+	1.0	23
+	1.1	6
+	1.2	7
+	1.4	1
+	1.5	3
+clinical__chol_lihc_shared__vascular_tumor_cell_type
+	Macro	3
+	Micro	10
+	None	30
+clinical__clin_shared__age_at_initial_pathologic_diagnosis
+	20	1
+	23	2
+	29	1
+	37	1
+	40	1
+	42	1
+	43	1
+	45	1
+	46	1
+	50	1
+	51	1
+	52	1
+	53	1
+	54	1
+	55	1
+	57	1
+	62	3
+	65	1
+	66	2
+	67	1
+	68	1
+	69	3
+	70	2
+	71	1
+	72	3
+	73	3
+	75	4
+	76	5
+	77	2
+	78	1
+	81	1
+clinical__clin_shared__bcr_followup_barcode
+	TCGA-BC-A10Q-F9852	1
+	TCGA-BC-A10R-F9867	1
+	TCGA-BC-A10T-F9882	1
+	TCGA-BC-A10U-F9923	1
+	TCGA-BC-A10W-F9925	1
+	TCGA-BC-A10X-F9946	1
+	TCGA-BC-A10Y-F9955	1
+	TCGA-BC-A10Z-F9962	1
+	TCGA-BC-A110-F9979	1
+	TCGA-BC-A216-F22055	1
+	TCGA-BD-A2L6-F34562	1
+	TCGA-BD-A3EP-F68680	1
+	TCGA-DD-A113-F38777	1
+	TCGA-DD-A114-F38779	1
+	TCGA-DD-A116-F38781	1
+	TCGA-DD-A118-F38782	1
+	TCGA-DD-A119-F38783	1
+	TCGA-DD-A11A-F38784	1
+	TCGA-DD-A11B-F38785	1
+	TCGA-DD-A11C-F38786	1
+	TCGA-DD-A11D-F38787	1
+	TCGA-DD-A1EB-F42225	1
+	TCGA-DD-A1EC-F42201	1
+	TCGA-DD-A1EE-F42208	1
+	TCGA-DD-A1EG-F42003	1
+	TCGA-DD-A1EH-F42567	1
+	TCGA-DD-A1EI-F42222	1
+	TCGA-DD-A1EJ-F42209	1
+	TCGA-DD-A1EL-F42229	1
+	TCGA-DD-A39V-F42707	1
+	TCGA-DD-A39W-F42705	1
+	TCGA-DD-A39X-F42568	1
+	TCGA-DD-A39Z-F42006	1
+	TCGA-DD-A3A1-F42704	1
+	TCGA-DD-A3A2-F42706	1
+	TCGA-DD-A3A3-F42700	1
+	TCGA-DD-A3A4-F42697	1
+	TCGA-DD-A3A5-F42571	1
+	TCGA-DD-A3A6-F42703	1
+	TCGA-DD-A3A8-F42570	1
+	TCGA-EP-A12J-F18469	1
+	TCGA-EP-A26S-F19566	1
+	TCGA-EP-A3RK-F40454	1
+	TCGA-FV-A23B-F45565	1
+	TCGA-FV-A2QR-F42770	1
+	TCGA-FV-A3I0-F57854	1
+	TCGA-FV-A3I1-F42771	1
+	TCGA-FV-A3R2-F47054	1
+	TCGA-G3-A3CH-F40093	1
+clinical__clin_shared__bcr_followup_uuid
+	008714FB-854E-48F9-AA5A-6376B6ACAAFC	1
+	01D5AC9B-C9B0-4E53-81ED-A6D15C578596	1
+	03B73B3E-C325-4DAE-8980-B564EA1A0E44	1
+	08417BFB-D2A4-4757-865B-C453C3C5FB2F	1
+	08790D34-FCCB-4E11-AFEB-B47475A1C3E8	1
+	0CAC7B8C-D9DF-4D55-BBF7-7DCAF435FB86	1
+	0D3A8B0E-063C-4E95-B302-6ED5A25821E1	1
+	0E071E1E-1F66-4F17-9305-F3AABC339C88	1
+	0FEE4F43-5013-4734-81A8-7FFA4CBA00A5	1
+	1081B2A6-E407-492D-A9F6-287A664CD238	1
+	135F37D9-7890-4633-A645-875906BC10CA	1
+	24803DB2-042B-42C0-B197-6F8E25D57DDD	1
+	2B54DE46-7BF8-4E8A-902A-F85839DC3BE3	1
+	2E4FC593-392E-4FA5-BB29-30A02252D11D	1
+	2EEFD625-0E3C-4E5A-B391-C97608CA083C	1
+	2FF823AA-7C05-434E-B6E7-8F7462BEF223	1
+	307DC566-5815-4352-96AB-67938D531924	1
+	327CE090-8DE2-47AE-8134-B659AC36EA91	1
+	329F38BF-FFA2-479C-A082-40C29BCFA689	1
+	343DEC20-1DC4-4B49-802D-86E849463D82	1
+	3A7218B7-6E57-4E9E-8905-C34485B9461F	1
+	3C9E4CD1-2B50-40E4-A6FF-B08D0F112AA0	1
+	3D08E08E-0E37-42A3-8C3E-2BA6CAC05414	1
+	40B443A9-BAED-4DA5-A36C-F6A5DDE121BD	1
+	502CD80A-EC04-4DAC-8062-F8E1EBA58C23	1
+	52047B14-703B-43D5-BA06-2FA783E14E20	1
+	57BB3CF4-9602-4E0D-B75A-8FB7C4E4FAD6	1
+	643FFA7A-4953-46BF-9B9B-DEB26E2ABBB7	1
+	64D72F30-249A-4476-B0D3-4F6E215B3872	1
+	6DF49976-00D4-4E6D-936F-D3101F557BF7	1
+	70FB1925-4E06-4CD1-B9D5-A1E3001732B5	1
+	7100607E-DF74-4EB4-BB49-0BFE00C91360	1
+	791E8328-55D8-4487-9C71-8D3B2A7C5173	1
+	90900509-D9C8-46F1-ABC5-E5C6C01A03F8	1
+	94B7ECA9-3FBF-41E0-B938-1DF33B9A9857	1
+	B2EE0E18-7BB7-499A-8924-D97A6C24850E	1
+	B5CBCD8F-052A-42CB-9E3B-B3AE6A01008F	1
+	BD24B76F-33CC-4657-B6A1-01A82DCCC156	1
+	CB91DB32-A4C4-47B8-BB03-74DC8C9C9CA1	1
+	CE05DEED-067F-44DD-B929-EA2968614815	1
+	D55A4FF7-4491-47F8-B109-C4B07E5B5D02	1
+	D5A4C022-45D6-4F96-BE1E-2BD1D7DDE1AC	1
+	D8CBBFD6-88E3-477D-914A-7CF67093DC68	1
+	DCA31E33-F1CB-4598-A63E-9AE8C8BDCD62	1
+	DFF9929C-73A0-48E4-BE05-674DE1169CFD	1
+	E24498E6-B9E8-4F37-920C-9B2B2F3A33C8	1
+	EB9C8429-E4C0-498D-8722-87CD7C3938B5	1
+	EE8054A8-D08C-4CA8-BF70-7527D15F836E	1
+	FF40877E-FD66-43C0-908F-B1654F1D567F	1
+clinical__clin_shared__cancer_first_degree_relative
+	0	4
+	1	13
+	2	7
+	3	2
+	4	2
+clinical__clin_shared__day_of_form_completion
+	1	3
+	10	2
+	12	1
+	14	1
+	15	5
+	16	1
+	17	2
+	20	1
+	21	8
+	23	3
+	24	3
+	25	1
+	27	7
+	29	1
+	30	3
+	4	6
+	8	1
+	9	1
+clinical__clin_shared__days_to_initial_pathologic_diagnosis
+	0	50
+clinical__clin_shared__eastern_cancer_oncology_group
+	0	9
+	1	20
+	2	4
+clinical__clin_shared__followup_case_report_form_submission_reason
+	Scheduled Follow-up Submission	3
+clinical__clin_shared__history_prior_surgery_type_other
+	left hepatic lobectomy	1
+	R hepatic lobectomy w/ resection of L segment	1
+	Surgical Resection	1
+clinical__clin_shared__informed_consent_verified
+	YES	50
+clinical__clin_shared__lost_follow_up
+	NO	31
+	YES	6
+clinical__clin_shared__measure_of_response
+	Clinical Progressive Disease	3
+	Partial Response	2
+	Radiographic Progressive Disease	2
+clinical__clin_shared__month_of_form_completion
+	1	11
+	12	8
+	2	2
+	3	6
+	4	14
+	5	4
+	6	1
+	7	2
+	8	1
+	9	1
+clinical__clin_shared__person_neoplasm_cancer_status
+	TUMOR FREE	16
+	WITH TUMOR	22
+clinical__clin_shared__platelet_result_count
+	135	1
+	142	1
+	146	1
+	148	1
+	153	1
+	157	1
+	178	1
+	180	1
+	185	1
+	187	1
+	193	1
+	204	1
+	204000	1
+	208	1
+	209000	1
+	211000	1
+	212	1
+	222	1
+	234	2
+	239	1
+	249	1
+	251	1
+	260	1
+	276	1
+	283	1
+	287000	1
+	288	1
+	312	1
+	326	1
+	333	1
+	365	1
+	381	1
+	391	1
+	4	1
+	401	1
+	437	1
+	450000	1
+	513	1
+	556	1
+	572	1
+	602	1
+	608	1
+	90	1
+clinical__clin_shared__post_op_ablation_embolization_tx
+	NO	22
+	YES	4
+clinical__clin_shared__postoperative_rx_tx
+	NO	35
+	YES	5
+clinical__clin_shared__radiation_therapy
+	NO	40
+	YES	2
+clinical__clin_shared__regimen_indication
+	ADJUVANT	2
+	PROGRESSION	1
+clinical__clin_shared__relative_family_cancer_history
+	NO	21
+	YES	24
+clinical__clin_shared__residual_tumor
+	R0	40
+	R1	4
+	R2	1
+	RX	3
+clinical__clin_shared__tissue_prospective_collection_indicator
+	NO	43
+	YES	7
+clinical__clin_shared__tissue_retrospective_collection_indicator
+	NO	7
+	YES	43
+clinical__clin_shared__tumor_tissue_site
+	Liver	50
+clinical__clin_shared__viral_hepatitis_serology
+	Hepatitis  C Antibody	2
+	Hepatitis B Surface Antigen	18
+	Hepatitis C Virus RNA	2
+clinical__clin_shared__year_of_form_completion
+	2010	1
+	2011	13
+	2012	18
+	2013	16
+	2014	2
+clinical__clin_shared__year_of_initial_pathologic_diagnosis
+	1995	1
+	1996	2
+	1997	1
+	1998	4
+	1999	2
+	2000	3
+	2001	3
+	2002	4
+	2003	4
+	2004	2
+	2005	4
+	2006	5
+	2007	2
+	2008	4
+	2009	1
+	2010	3
+	2011	4
+	2012	1
+clinical__lihc__adjacent_hepatic_tissue_inflammation_extent_type
+	Mild	11
+	None	22
+	Severe	2
+clinical__lihc_nte__new_tumor_event_ablation_embo_tx
+	No	11
+	Yes	15
+clinical__lihc_nte__new_tumor_event_liver_transplant
+	No	26
+clinical__nte__additional_pharmaceutical_therapy
+	NO	16
+	YES	11
+clinical__nte__additional_radiation_therapy
+	NO	24
+	YES	2
+clinical__nte__days_to_new_tumor_event_additional_surgery_procedure
+	1023	1
+	1678	1
+	431	1
+	659	1
+clinical__nte__days_to_new_tumor_event_after_initial_treatment
+	1006	1
+	1032	1
+	120	1
+	1453	1
+	159	1
+	1676	1
+	199	1
+	2057	1
+	263	1
+	299	1
+	320	1
+	340	1
+	400	1
+	415	1
+	44	1
+	455	1
+	498	1
+	558	1
+	561	1
+	586	1
+	598	1
+	658	1
+	729	1
+	828	1
+	84	1
+	87	1
+clinical__nte__new_neoplasm_event_occurrence_anatomic_site
+	Liver	14
+	Lung	2
+	Other, specify	5
+	Pulmonary	1
+clinical__nte__new_neoplasm_event_type
+	Extrahepatic Recurrence	8
+	Intrahepatic Recurrence	16
+	Locoregional Recurrence	3
+	No New Tumor Event	3
+clinical__nte__new_neoplasm_occurrence_anatomic_site_text
+	anterior abdominal wall	1
+	lateral to the C-loop of the duodenum, anterior to the right  kidney	1
+	peritoneal	1
+	second or third rib posteriorly	1
+	spleen	1
+	sternum	1
+clinical__nte__new_tumor_event_additional_surgery_procedure
+	NO	23
+	YES	4
+clinical__nte__new_tumor_event_after_initial_treatment
+	NO	9
+	YES	17
+clinical__nte__residual_disease_post_new_tumor_event_margin_status
+	R0	3
+clinical__rad__anatomic_treatment_site
+	Distant Recurrence	1
+	Regional site	1
+clinical__rad__bcr_radiation_barcode
+	TCGA-DD-A116-R43737	1
+	TCGA-DD-A39V-R42708	1
+clinical__rad__bcr_radiation_uuid
+	4D4874E2-723B-4C89-9D42-AFEB0D026AAC	1
+	8AFB1417-AA43-4832-A030-84FDCF7A6348	1
+clinical__rad__days_to_radiation_therapy_end
+	444	1
+	755	1
+clinical__rad__days_to_radiation_therapy_start
+	430	1
+	755	1
+clinical__rad__numfractions
+	1	1
+clinical__rad__radiation_dosage
+	5500	1
+clinical__rad__radiation_treatment_ongoing
+	NO	2
+clinical__rad__radiation_type
+	Systemic	1
+clinical__rad__units
+	cGy	1
+clinical__rx__bcr_drug_barcode
+	TCGA-BC-A10Q-D9855	1
+	TCGA-BC-A10R-D9866	1
+	TCGA-BC-A10W-D10105	1
+	TCGA-DD-A11D-D43741	1
+	TCGA-DD-A1EC-D42203	1
+	TCGA-DD-A1EG-D43858	1
+	TCGA-DD-A1EH-D45786	1
+	TCGA-DD-A1EJ-D42213	1
+	TCGA-DD-A3A4-D42698	1
+	TCGA-FV-A3I0-D57855	1
+	TCGA-FV-A3R2-D35315	1
+	TCGA-G3-A3CH-D40096	1
+clinical__rx__bcr_drug_uuid
+	2234B152-15AA-4827-A697-FDAD95FD6285	1
+	432C8670-CC86-4488-92AC-E4C37DB72327	1
+	4BBDB795-AA63-453D-88B3-677EB922902E	1
+	55D863E7-C0D9-44E5-8BCE-EE5A1587A652	1
+	6A8F862A-4110-49E6-8866-C53975BFECBF	1
+	7F848383-13AF-41E4-890D-56CDCC89F3F2	1
+	8A7781FE-13A4-4932-BBAF-7CD42290C62D	1
+	A0F6AA78-BFC6-40A0-9127-D0F7F9AA42CF	1
+	A9E3B60E-52B2-4611-9D09-B6BC02287480	1
+	B4669B2E-E16D-482F-A73B-C4BDF8EB5278	1
+	CE83DB6D-029E-4406-84CE-771A43CC490D	1
+	DC72364F-DDFD-4B54-9477-F29E3142536B	1
+clinical__rx__clinical_trail_drug_classification
+	phase III	1
+clinical__rx__days_to_drug_therapy_end
+	1105	1
+	1310	1
+	217	1
+	237	1
+	486	1
+	586	1
+	721	1
+	85	1
+	887	1
+clinical__rx__days_to_drug_therapy_start
+	1154	1
+	1408	1
+	166	1
+	237	1
+	25	1
+	264	1
+	330	1
+	359	1
+	459	1
+	553	1
+	717	1
+	82	1
+clinical__rx__drug_name
+	adriamycin	1
+	Gemcitabine	3
+	Sorafenib	4
+	Temozolomide	1
+clinical__rx__number_cycles
+	1	2
+clinical__rx__prescribed_dose_units
+	mg	1
+clinical__rx__regimen_number
+	1	3
+clinical__rx__route_of_administration
+	IH	1
+clinical__rx__therapy_ongoing
+	NO	10
+	YES	2
+clinical__rx__therapy_type
+	Chemotherapy	10
+	Other, specify in notes	2
+clinical__rx__therapy_type_notes
+	chemoembolization	2
+clinical__rx__total_dose_units
+	mg	1
+clinical__rx__tx_on_clinical_trial
+	NO	7
+	YES	2
+clinical__shared__histological_type
+	Hepatocellular Carcinoma	49
+	Hepatocholangiocarcinoma (Mixed)	1
+clinical__shared__history_of_neoadjuvant_treatment
+	No	50
+clinical__shared__neoplasm_histologic_grade
+	G1	5
+	G2	27
+	G3	15
+clinical__shared__other_dx
+	No	46
+	Yes	4
+clinical__shared_stage__pathologic_m
+	M0	33
+	M1	1
+	MX	16
+clinical__shared_stage__pathologic_n
+	N0	31
+	N1	1
+	NX	17
+clinical__shared_stage__pathologic_t
+	T1	20
+	T2	14
+	T3	8
+	T3a	4
+	T3b	1
+	T4	3
+clinical__shared_stage__system_version
+	4th	4
+	5th	16
+	6th	21
+	7th	9
+gdc__access
+	open	50
+gdc__acl
+	open	50
+gdc__aliquots__aliquot_id
+	07401514-29ef-43a8-8a7f-a4e147852470	1
+	07653b81-7194-4348-8ef9-1a7660c95376	1
+	13d4c229-cf05-4fca-a52d-798dc7894ba1	1
+	196f7a32-4d09-4e8b-9aa4-7964baf951d7	1
+	1c2972fc-456c-4567-be96-bde9d39a0b76	1
+	1ec66ae2-e78a-4eb8-891a-7f8b6b061dca	1
+	1f1a8329-397c-4ec8-a7cc-46ec9c48fa42	1
+	2436079d-3e40-4c50-9f99-85d4a8c2ddac	1
+	3497c0d8-c7b0-43ca-92a2-30ea6cd61bde	1
+	3e1411dc-8c6d-4a87-bb4f-44ef5ff8761b	1
+	469f052a-477e-498a-ba3b-f288dcbc306f	1
+	485b184d-15f1-4858-9e06-330d5258cfff	1
+	4d49b039-f1fa-4892-8439-4155e72dd7c5	1
+	5573955b-f0ec-4cfe-ad02-4f9f91693770	1
+	58067780-a21b-4eeb-b061-caef50ea0650	1
+	5a1a1f96-bf4f-415d-b2a2-4481a72914cf	1
+	5b37433a-6415-497f-bf36-0f0b5c2ad21e	1
+	608bf540-a094-441e-9329-9e759ff5d84d	1
+	61fcdecf-52ca-465a-b8f1-262b6540117f	1
+	66811a13-8463-429b-87ae-298455ee961a	1
+	6d9b3d3a-2dd0-477e-aaf2-504ecd6c3de3	1
+	6fca2b4e-2aa2-42bb-9991-b0a69e6155cd	1
+	78eb93c7-0300-4f16-ab32-7489715e3353	1
+	809db606-7929-48aa-ae6b-c2c9597a31c7	1
+	8e48cff2-5edd-4ce6-9531-5dc594ae78ff	1
+	8e70d12c-38fd-4da2-ad1e-b7f860959aa2	1
+	92462e76-eed1-4eab-8c38-4cf9897be417	1
+	9815693f-418d-4517-9a7e-5c708c157b0c	1
+	9e3df1b0-dba1-4423-976e-99aab5b7d5e2	1
+	a3eef529-ed7d-438c-b0be-ce569a846a8f	1
+	ac77b52b-6f6c-41ec-b998-6d23250d0516	1
+	b706b36a-2bcf-405c-aa18-30cbb54fac73	1
+	b80a257d-9c8b-4c49-87bc-30f74ff9cd3e	1
+	b8e62048-d0a6-4b0f-8e57-e406b783f698	1
+	ba72262f-9361-4d4c-8fa0-cc44e26320f6	1
+	c6842e1d-4f63-458c-9287-0326c03a69c9	1
+	c8de0c98-c69a-44a1-bdf7-e6c731359aac	1
+	ce3a2fa7-905e-491d-ade0-c8d5712c4afa	1
+	cf95e020-748c-474d-baba-68ca888d2f4f	1
+	d3041275-6a41-4974-a082-9b261b65c81f	1
+	d5e3a3be-c4d9-41de-a39c-ae7aad3f3826	1
+	d5e600a3-d273-4879-ac33-1a72a02073e5	1
+	ddd83e9a-35cb-4539-8141-7557eccd3b34	1
+	dfeaa69b-72ec-4a2e-8f26-7c4d826a1aa0	1
+	e55a12d6-3ec4-4346-8849-cf7525fff740	1
+	e66b878f-0a33-4edf-ba17-e0ec9f41e589	1
+	edcc32ad-1375-4502-822e-defcea52b943	1
+	f099f7fb-f07a-4529-83dc-e7023c52a999	1
+	f847f8c8-7a39-4327-ad12-3aac2c331be8	1
+	fbeec4cf-0ad3-4e9e-bfc1-d112b1e51b3a	1
+gdc__aliquots__concentration
+	0.14	2
+	0.15	10
+	0.16	15
+	0.17	15
+	0.18	8
+gdc__aliquots__source_center
+	23	50
+gdc__aliquots__submitter_id
+	TCGA-BC-A10Q-11A-11R-A131-07	1
+	TCGA-BC-A10R-11A-11R-A131-07	1
+	TCGA-BC-A10T-11A-11R-A131-07	1
+	TCGA-BC-A10U-11A-11R-A131-07	1
+	TCGA-BC-A10W-11A-11R-A131-07	1
+	TCGA-BC-A10X-11A-11R-A131-07	1
+	TCGA-BC-A10Y-11A-11R-A131-07	1
+	TCGA-BC-A10Z-11A-11R-A131-07	1
+	TCGA-BC-A110-11A-11R-A131-07	1
+	TCGA-BC-A216-11A-11R-A155-07	1
+	TCGA-BD-A2L6-11A-21R-A213-07	1
+	TCGA-BD-A3EP-11A-12R-A22L-07	1
+	TCGA-DD-A113-11A-12R-A131-07	1
+	TCGA-DD-A114-11A-12R-A131-07	1
+	TCGA-DD-A116-11A-12R-A26B-07	1
+	TCGA-DD-A118-11A-11R-A131-07	1
+	TCGA-DD-A119-11A-11R-A131-07	1
+	TCGA-DD-A11A-11A-11R-A131-07	1
+	TCGA-DD-A11B-11A-11R-A131-07	1
+	TCGA-DD-A11C-11A-11R-A131-07	1
+	TCGA-DD-A11D-11A-12R-A131-07	1
+	TCGA-DD-A1EB-11A-11R-A131-07	1
+	TCGA-DD-A1EC-11A-11R-A131-07	1
+	TCGA-DD-A1EE-11A-11R-A131-07	1
+	TCGA-DD-A1EG-11A-11R-A213-07	1
+	TCGA-DD-A1EH-11A-11R-A131-07	1
+	TCGA-DD-A1EI-11A-11R-A131-07	1
+	TCGA-DD-A1EJ-11A-11R-A155-07	1
+	TCGA-DD-A1EL-11A-11R-A155-07	1
+	TCGA-DD-A39V-11A-11R-A213-07	1
+	TCGA-DD-A39W-11A-11R-A213-07	1
+	TCGA-DD-A39X-11A-11R-A213-07	1
+	TCGA-DD-A39Z-11A-21R-A213-07	1
+	TCGA-DD-A3A1-11A-11R-A213-07	1
+	TCGA-DD-A3A2-11A-11R-A213-07	1
+	TCGA-DD-A3A3-11A-11R-A22L-07	1
+	TCGA-DD-A3A4-11A-11R-A22L-07	1
+	TCGA-DD-A3A5-11A-11R-A22L-07	1
+	TCGA-DD-A3A6-11A-11R-A22L-07	1
+	TCGA-DD-A3A8-11A-11R-A22L-07	1
+	TCGA-EP-A12J-11A-11R-A131-07	1
+	TCGA-EP-A26S-11A-12R-A16W-07	1
+	TCGA-EP-A3RK-11A-11R-A22L-07	1
+	TCGA-ES-A2HT-11A-11R-A180-07	1
+	TCGA-FV-A23B-11A-11R-A16W-07	1
+	TCGA-FV-A2QR-11A-11R-A213-07	1
+	TCGA-FV-A3I0-11A-11R-A22L-07	1
+	TCGA-FV-A3I1-11A-11R-A22L-07	1
+	TCGA-FV-A3R2-11A-11R-A22L-07	1
+	TCGA-G3-A3CH-11A-11R-A22L-07	1
+gdc__aliquots__updated_datetime
+	2018-09-06T14:13:07.098771-05:00	50
+gdc__analysis__analysis_id
+	00fc0430-f324-4b92-947d-bb5eb80eb2e5,aa9dabc2-a831-4142-b09b-e98bc112dfbd,d832ff16-f91c-4295-af16-d7da027b7dfd	1
+	03cdadbf-f2e6-47c9-9369-8113d2a56f40,07906882-3f21-49ef-b680-c4f9d77cc675,3ab56fb5-09ca-442e-8f14-c1ef366777e1	1
+	0535465a-952e-4fd0-8dd0-385ca1128e53,d6cd77d2-8a4c-4642-bde1-be527906234e,b3633a83-b0bd-4daf-9d50-18018ce22958	1
+	10556ce3-4688-46f2-b0f0-b85f63e45d93,b4a07d03-8c19-44c1-a1ad-205c7aa928da,3bc23728-efb4-48c9-bca4-2d0fa9510a64	1
+	12f4d7e1-f7aa-48d5-a7ca-4edd667502df,1889fe2e-4fc2-4fb5-a1b4-9a5f4d7feaf7,481170a7-d7f2-42bc-a47b-b2d8866429cc	1
+	21e32398-8b34-4360-8e04-872aa42b481f,1096fa9a-4297-4c13-873d-fc183eef6093,63fc0fc2-0080-435f-afc1-eedf8b5fc94c	1
+	34176c63-cd9e-4f6a-8f66-109c9caddcea,4ca1ca58-335a-4ba8-826c-1bc966ddb1d4,8eb2e7fe-2478-4ed3-878c-7487cfb368fa	1
+	3a9ccc2e-236b-4d94-8223-167ff933e439,a49b2cd4-ef47-4953-8ea6-ff7cf5aa690f,89ca534c-a9b3-4f5e-88e7-5dc7d24b0265	1
+	3f5bee9f-83af-42f5-8616-06c150dd0ce7,9e2376b7-ba1d-4a84-a281-022131bb1fff,64395016-be07-4246-9095-03f81af5370c	1
+	40222c47-92d4-46cc-b57d-32b4b596e40b,6049820f-af35-41e5-baef-011be6cc6a39,0aef38e0-eddf-40fe-9631-6bf7d0317450	1
+	40ce9d12-ebdb-47b3-8d60-d410df914ab3,5f8962bd-962d-412c-ab04-6c245e5da3cc,e3c51fb5-dddf-405e-964b-5ae49ff8a570	1
+	45682bd2-6ddd-4b9c-8644-04bd36c62a4e,7d882973-8eae-4307-92c5-0b6a3344d7b1,9c2c4e2e-fdb7-4bec-b44f-6320cd48877e	1
+	4c8bd866-9474-4ad2-b33c-511eda220e3a,579ba86d-530d-4423-88e6-9ce1e52eb15d,f06951e8-6de8-4e4a-be9a-6b73e542396e	1
+	4d1cf67e-31c8-4102-bef3-04549080e1a5,d76c9f33-6e5a-4485-9a39-7286a2f4cfec,d6f15a5b-ad2a-4659-98b8-53cb6b98581b	1
+	4d810cca-b6cb-497f-9ae8-2d37219ca222,a30fd2e9-42b5-47b1-bb36-ce672c2a3558,50da38fb-fcef-4706-9d15-dfa10fa43da1	1
+	4d856943-c6bd-47de-85ec-816a99bf389b,ae2c19eb-1005-45e3-a62f-cc2596ea1c8c,6e1ae6be-e1a8-4910-a9ec-bef257bc4682	1
+	63a5a2ae-e49d-45c1-b903-277ec39c197b,b4d45d89-3af2-4528-8b24-f824eb1f8c09,1789acbb-62ec-46a0-98ff-14c9917d2e36	1
+	6460e4c4-2dac-4d66-be21-33a023f2f795,d12a4a04-0020-4992-9adb-cb3abe024a42,cdda338e-f896-4ce6-965d-cfb6a513be87	1
+	74198a8e-43d4-4656-85a9-b81a1139027d,10bd2c1f-d622-4ff9-87ee-21a9d89ffcf8,30f93f8a-4b36-419d-a51c-5fc9e38164ad	1
+	786bf924-2fcf-43e5-a15e-0ba4f8f27ecb,72c4f1f6-71b4-4e32-814d-c6806816b3d4,50c88002-e9da-46d1-a7f9-bd22b0449c66	1
+	7cd61bd5-d5fd-47e1-a139-a495e72a0f45,2a979ff6-e776-4481-877a-c7bf50091781,99979e81-3c69-4d69-a262-0c4c3f9e991f	1
+	7cd74e1e-975a-4cba-b9a9-261a6a6d7411,bc9035dc-14d2-485c-b7a6-6c140bddd146,96c66538-e7fe-4c47-995a-c5ea0e743033	1
+	80ab40c5-d5c9-45da-a000-0760e48721c6,a629aad4-c85f-4799-be36-39943e61f31a,2864f15f-e631-48bf-9b3a-229cf5ab6efd	1
+	9260a07f-51fa-4b42-8d09-9ab53ec78602,94271744-bf18-4ab1-b5f3-e298273d1ad0,b586aeb4-f3a2-4c98-8bd1-31e022e1372a	1
+	93350383-2fb3-4a26-beb3-ee66918d0aaf,79502b0e-99bd-4b97-b40d-80990e8f31b9,397ff5eb-c0b0-4844-a7c8-573b4899e933	1
+	98793cd1-8fce-42be-a4d0-265931d6388d,13e18de4-ca21-4de8-89ac-963e76ea1ce2,619c1e24-784e-48df-b1d1-2fb4c78f82c5	1
+	99df4fd7-f065-41c3-8aea-51372b3e5121,8e6daf40-37ec-4d13-9b0f-050ffef0e507,cb9181bf-5e45-455e-9228-6a86ce96a21b	1
+	9e1285ae-796b-4d3a-ba47-a649185e6809,046a2880-5d31-4cb5-9be4-76e0467e6c25,94e2208e-8f57-4e47-816b-73877c8e5d92	1
+	aa2bd7a5-1eda-4375-99d8-c320e0da0d7e,1f4124a1-7f9e-49b7-bdaf-b6dc9d9b4103,16e6704e-77ca-47d4-8cd6-89cb5f25a7f9	1
+	ac97afb2-a89d-4352-a7fe-bcb47d4df669,b04c69e9-b157-4bbe-858c-640b185ea333,9acc9741-30f7-4e3e-9e43-bd98b10ac32e	1
+	ad1ef369-29fa-42ce-bbc1-b7febfe5355f,69675a81-483e-4f05-8c52-1059a101d29c,bf273ed2-e8ba-49b7-a5ba-0adf2c7af026	1
+	b2d114ea-81b8-40ae-aeff-9c2f1d342ae9,5313cc4e-ce2a-43c0-ba5c-a89ac5048170,3a79ca10-39c4-4df6-b225-0130ced666b8	1
+	b625f021-4c3b-4dbd-9124-28ff2ec1f9fc,2b57970d-3c95-4adf-b44a-36040c18d9bd,f1c1c1c9-41b0-4b20-9eab-34b458611319	1
+	bc9f285e-24e6-4866-bba8-14143fc29a60,15b3267c-436a-4c42-80d2-1009aa89a11a,18c00429-6693-4a0d-b54b-3f3f3646710d	1
+	bcb57f17-3069-46a1-870a-7e44d3e7304f,e92ce943-365d-4e83-bb92-c0548c88fa19,9637933f-dd73-4783-a4ef-ba4f53198baa	1
+	c55df4b9-195d-4026-a87e-238ef88b11b3,04bf6f7d-29aa-4eb5-9643-4579a28e3ffd,faa8f30a-af1d-437e-b6d8-02b4c6191cc0	1
+	c6dc3a9a-2b3c-46f0-90aa-e1da5c361b3b,baa5fdfb-6430-4c9c-82c5-63c363776114,bad78866-7c9b-4b73-b036-894ed5d8f863	1
+	c8e93d0f-5cc3-4422-8fb7-663b3bf50d54,3faf4411-febe-443f-b2ae-361643f0dc83,acb9138f-6769-4848-ae98-f4f483050e77	1
+	caaf08e2-14dc-4853-82f8-689f2838500b,13f98e5b-ccd9-4b53-9a83-105fe5ad1921,acf82119-ed1a-43f7-a789-485f1e5889f4	1
+	cbc17310-e669-4b6e-9c84-ff59188c94a1,2a552f75-351f-40eb-8926-77cf0c72d2ce,5592ff65-5d5a-4a43-9210-cb5ca8d4c25e	1
+	d357e169-9116-49d2-99b0-00c0e14ea84d,440264b8-0986-4ebc-abc3-cb813dcca673,078d7d53-1e66-41e4-b0a5-716848aa1c12	1
+	d5b15002-839b-445c-89f7-a32bd8916cbe,26faaad0-f1ec-449e-933e-a5447e25348b,a1dca9d0-4dc6-430c-8e34-e79ed9cfca52	1
+	d7de60ac-a891-42cb-9044-fa23475ba07d,18c58d18-c542-458d-8764-fcfbad15f9de,7f261a4a-5452-4727-afa5-5bd4f8deb0ae	1
+	da58d9fb-c43f-40b1-8ae0-44db8aaee0c4,1e64244e-f017-4203-a5cf-42ed69288f6b,96a8ad75-e4df-4201-859c-d8dcb544d211	1
+	dc4c11c7-8a21-44f0-b080-15f45b92b4c3,9921bc5b-1994-4dd7-8bfa-ff95352f26a6,6943e288-67d0-4ef4-8b37-6f32b82b65b2	1
+	e84b8056-6099-4727-80cd-d21650e66591,dc5f0430-8108-4e76-a89e-e6cf1c2efc42,9f1a14bf-2527-4614-bbb7-2c775246b691	1
+	ed0d6325-b6a4-4ac8-a913-bb28ec570d36,d4e57aab-89a7-4a33-a557-34626d27247e,8580bd2c-38ca-4b69-9b44-05e4368956a1	1
+	f61134b6-f07c-4fae-ab58-9e0c75b242af,8984fdac-2403-42d4-a204-dccd56255900,5b3e234d-fdb0-46e5-94c2-6bc4e7cd9cd4	1
+	feb1350c-acc6-4945-928e-fb1ba17b9fa7,854fcc43-93da-49af-aad9-2938f8092c35,b190b700-57eb-4569-9712-e1f71a2900a6	1
+	ff7d1255-4fc0-48e6-9bdb-3abc52c42d3c,a2300503-11d6-4ea2-8c3c-fc9efdefec4f,5b2a3763-a3f1-4231-8f79-7cb990beb941	1
+gdc__analysis__workflow_link
+	https://github.com/NCI-GDC/htseq-cwl	50
+gdc__analysis__workflow_type
+	HTSeq - Counts,HTSeq - FPKM,HTSeq - FPKM-UQ	13
+	HTSeq - Counts,HTSeq - FPKM-UQ,HTSeq - FPKM	10
+	HTSeq - FPKM,HTSeq - Counts,HTSeq - FPKM-UQ	11
+	HTSeq - FPKM,HTSeq - FPKM-UQ,HTSeq - Counts	5
+	HTSeq - FPKM-UQ,HTSeq - Counts,HTSeq - FPKM	7
+	HTSeq - FPKM-UQ,HTSeq - FPKM,HTSeq - Counts	4
+gdc__analysis__workflow_version
+	v1	50
+gdc__analytes__a260_a280_ratio
+	1.34	1
+	1.37	1
+	1.74	1
+	1.75	1
+	1.76	1
+	1.77	2
+	1.78	2
+	1.79	3
+	1.8	2
+	1.81	6
+	1.82	4
+	1.83	5
+	1.85	2
+	1.86	7
+	1.87	3
+	1.88	5
+	1.89	1
+	1.9	1
+	1.95	1
+	1.96	1
+gdc__analytes__analyte_id
+	03658b33-3117-46f8-b487-b46607334176	1
+	0d7afde8-0419-490f-9b32-e9ff7fba4862	1
+	13b96c11-7722-4455-917d-8c0d43582247	1
+	283e254c-41aa-439d-b9ce-dd259fed111a	1
+	28c82222-341e-464b-b74d-d1659779d3e2	1
+	2915e8ce-2f91-4fb3-9e72-73ff2b4e4f8b	1
+	2c4dae79-c542-40a4-9964-09708cdf7d0e	1
+	2d0c56a6-6b7a-46c9-bfbc-6bbfce88fb88	1
+	2eba9725-de75-4685-8108-425ec4093db0	1
+	33cbc75a-4e44-4ff0-a2bf-baf34cc0bb9a	1
+	381194d6-340c-4284-a0be-efad72f21bda	1
+	3a4bca7c-5abe-41c1-9433-5786491b04d9	1
+	3b6d7329-f4e7-4021-80a1-1d3681ef2e48	1
+	473f4dfd-2b45-4e3e-a282-cdcec613b6b9	1
+	4afc6bfe-bb8e-4ab2-b2ab-7175da37f7f1	1
+	4cb9dcaa-3221-4823-a33f-5b9b7ebe80e5	1
+	4d4ae81b-882c-4d83-84cd-71206e8c5bd1	1
+	4ee96eac-3f66-4848-acc0-910bd2578190	1
+	54958b9c-8b63-4fe3-bc73-3d2ffdafedc3	1
+	54a52c48-0905-44b7-838f-834836fbaca1	1
+	58e2f443-65af-4bed-bbc5-146585291f75	1
+	5dc7d875-2fbe-437c-950d-18fd7e4ff7e0	1
+	618d37a5-40ab-45b6-bc24-a47451367141	1
+	6210b825-7edc-4e7c-8ce0-b435f93cc631	1
+	63941585-ad9d-44d7-971d-cff548526ea7	1
+	6d4aebe2-2467-414f-bcc6-6d250f9ed46a	1
+	702abc4e-9431-49cb-971a-dc1a31a45c16	1
+	7444b631-975e-4fe9-b4b1-f0a274624178	1
+	77baac15-56a7-4da3-94de-adb8173101ff	1
+	7ef17613-d795-46c7-8440-0a813e7bc84c	1
+	80f6896e-ab7e-4a90-b123-4d8996102702	1
+	86f9ca95-4e8d-479d-ac5e-8d89d98e2f20	1
+	893765af-8f0f-4cf8-bc7b-738c39d67775	1
+	961180a7-b93a-46e9-be6c-d02635b9ef4b	1
+	981b5d31-0514-4d78-b538-598ad0c6b1ab	1
+	99686d08-7756-4bcc-9dc0-4fb06ed0647b	1
+	a2f7fa73-63cd-4bc7-b99e-f0840693cd6f	1
+	a8a183ab-6c59-464b-a618-2f1145e00e46	1
+	af7a4e9d-a24c-47e6-bfe5-ac42fec843f5	1
+	b113dbfb-cb9f-408b-afb1-eb02a76ca014	1
+	b4644b0c-0528-4abc-9960-9a731148cfd0	1
+	b4f11391-cb10-450a-ac4d-1c65d4bd5c1c	1
+	c6831cec-60ca-47fb-93b1-bec70ef25484	1
+	c7a715d8-3f05-4c60-bdb1-b3fe8274fd0c	1
+	dbbe4939-5177-4fc6-aa74-1ece9d4729dc	1
+	e2770fb7-dd4a-44c7-a538-a51b70b5c940	1
+	ec14e287-acef-4701-9842-97d93b63c15c	1
+	ed84d05a-9786-42ef-8071-4d3da6fea457	1
+	f2d90483-35cc-405e-89a4-ad8ec1fed3e3	1
+	f8bf11e7-51e2-4725-b498-a8617aded9f9	1
+gdc__analytes__analyte_type
+	RNA	50
+gdc__analytes__analyte_type_id
+	R	50
+gdc__analytes__spectrophotometer_method
+	UV Spec	50
+gdc__case_id
+	023a1ad1-fb16-437e-9806-5063b47f76bd	1
+	02931491-f56b-4233-a079-812e08bc0c59	1
+	0bf5bbd4-d9e8-42a6-9ab5-f2c174dec12c	1
+	0d0a10b4-7b99-4043-a129-89844f258156	1
+	0ef95351-0133-4f34-a59c-90934fb161f8	1
+	13a97cee-76b0-46a1-b728-d87b2248311e	1
+	17833039-0d7e-47f0-90e6-8cabae94c124	1
+	1b1b1af0-b19b-4086-b1b7-669fa0b88235	1
+	23103931-cc29-4f89-ae9c-79d53401ecea	1
+	2854ffe8-1f77-497a-bf49-11e0189fee35	1
+	357c1c08-f368-4cae-8f20-9be241b30479	1
+	39baf24a-4032-4c23-b3fe-2c50df1881f6	1
+	3a2d7482-c246-411e-841f-71d96e353328	1
+	3acf7438-fd65-442c-8a30-68b6714537f3	1
+	3dc48ea9-a3c6-437f-af5a-88feb300cc5f	1
+	42cb60f0-1a9e-4f59-8e2e-50c25e85cb98	1
+	48d33449-b969-423a-b4e7-541809109617	1
+	4bbdbe77-f3cb-4b64-9826-72debb734784	1
+	516c8594-2973-41e5-a5ce-76d177edfa48	1
+	520a709a-87f6-4f3d-b2a2-9192e3b65c5b	1
+	52292ffc-0902-4d97-b461-20723987a177	1
+	609c82fd-eb3a-46d7-8c09-0cde281a50b3	1
+	6533648f-1353-4253-b65b-d472aacf5751	1
+	654af137-70d9-4ee4-9f69-793e352d30f8	1
+	66c6f413-b7a8-4d7c-9e1d-c4fb257b9e5c	1
+	68015cc7-d3a1-4c90-b8fb-5d14143d9960	1
+	69d6881b-9e9a-407b-8b02-bad5fc2455bf	1
+	6c79f64b-63fe-46f5-bf7b-77208231b0f2	1
+	709f1e4d-f5e8-4a0b-8254-23f037f4bae7	1
+	7d914d07-f250-4c7a-8fa2-df14e708936e	1
+	7dd3bda9-3a0a-46fa-b052-a6d24b847804	1
+	877b9f6b-9b34-40ed-933f-8fef204edf21	1
+	8a9cde9a-c38c-423e-bc14-354ee26468c9	1
+	959918d7-cb84-4745-a72f-d138176b1ecb	1
+	994347ba-3045-4ade-926f-06420fbd906c	1
+	a8c2aa08-9156-4845-ad77-5e060858c757	1
+	ab35c9f9-3040-424d-a89f-dff3a1365bc6	1
+	aeb17d2b-fa8c-4989-bf3a-d2c74b785455	1
+	b7d6621c-8bce-4a01-8588-9d7761d9372b	1
+	bfd20d71-18a5-4f01-8d56-84378ad92359	1
+	c4c4820b-6f4c-4cdd-b233-4d22f5933fd9	1
+	c95ed407-bcc2-44aa-bc59-bf7549f2d665	1
+	cab5b264-abab-4bdb-816e-9d2c0ac30629	1
+	cf028bce-d20d-42b8-8507-1ec94a391e85	1
+	d3a03f7a-3482-4548-957e-05c692b20101	1
+	d8549d23-37d4-42bd-b472-f49bbebd09b0	1
+	dd056692-4e2a-4e45-a4d0-357af9754f0e	1
+	de302b98-250d-42fe-9945-11e1b2bbd3c6	1
+	dfa15fbe-bb14-40ce-afc6-70694112e3e2	1
+	f15279dd-5d12-460b-9bd1-b4f95681ca65	1
+gdc__center__center_id
+	ee7a85b3-8177-5d60-a10c-51180eb9009c	50
+gdc__center__center_type
+	CGCC	50
+gdc__center__code
+	07	50
+gdc__center__name
+	University of North Carolina	50
+gdc__center__namespace
+	unc.edu	50
+gdc__center__short_name
+	UNC	50
+gdc__created_datetime
+	2016-05-26T21:05:57.306459-05:00,2016-05-26T21:05:57.876481-05:00,2016-05-26T21:05:57.585817-05:00	1
+	2016-05-26T21:06:08.335248-05:00,2016-05-26T21:06:09.015523-05:00,2016-05-26T21:06:08.765028-05:00	1
+	2016-05-26T21:11:03.911787-05:00,2016-05-26T21:11:03.550198-05:00,2016-05-26T21:11:03.732885-05:00	1
+	2016-05-26T21:11:33.851111-05:00,2016-05-26T21:11:34.039623-05:00,2016-05-26T21:11:34.247979-05:00	1
+	2016-05-26T21:12:23.190439-05:00,2016-05-26T21:12:22.795666-05:00,2016-05-26T21:12:22.990602-05:00	1
+	2016-05-26T21:14:52.268104-05:00,2016-05-26T21:14:52.649471-05:00,2016-05-26T21:14:52.450441-05:00	1
+	2016-05-26T21:16:37.992034-05:00,2016-05-26T21:16:38.391917-05:00,2016-05-26T21:16:38.190560-05:00	1
+	2016-05-26T21:18:25.388427-05:00,2016-05-26T21:18:25.095588-05:00,2016-05-26T21:18:25.597092-05:00	1
+	2016-05-26T21:22:16.130950-05:00,2016-05-26T21:22:16.610031-05:00,2016-05-26T21:22:15.796378-05:00	1
+	2016-05-26T21:24:48.975548-05:00,2016-05-26T21:24:49.166432-05:00,2016-05-26T21:24:49.479805-05:00	1
+	2016-05-29T10:11:28.691982-05:00,2016-05-29T10:11:29.056231-05:00,2016-05-29T10:11:28.874878-05:00	1
+	2016-05-29T10:13:46.976452-05:00,2016-05-29T10:13:46.771149-05:00,2016-05-29T10:13:47.302711-05:00	1
+	2016-05-29T10:14:11.809124-05:00,2016-05-29T10:14:12.228684-05:00,2016-05-29T10:14:12.054093-05:00	1
+	2016-05-29T10:14:34.666614-05:00,2016-05-29T10:14:34.181383-05:00,2016-05-29T10:14:34.377126-05:00	1
+	2016-05-29T10:16:19.251635-05:00,2016-05-29T10:16:18.869306-05:00,2016-05-29T10:16:19.068892-05:00	1
+	2016-05-29T10:19:30.101551-05:00,2016-05-29T10:19:29.911290-05:00,2016-05-29T10:19:29.576945-05:00	1
+	2016-05-29T10:23:13.921457-05:00,2016-05-29T10:23:13.494713-05:00,2016-05-29T10:23:14.126525-05:00	1
+	2016-05-29T10:24:50.847435-05:00,2016-05-29T10:24:50.516277-05:00,2016-05-29T10:24:50.677342-05:00	1
+	2016-05-29T10:27:58.518786-05:00,2016-05-29T10:27:58.100762-05:00,2016-05-29T10:27:58.310732-05:00	1
+	2016-05-29T10:28:22.247181-05:00,2016-05-29T10:28:22.023604-05:00,2016-05-29T10:28:21.790174-05:00	1
+	2016-05-29T10:28:26.221485-05:00,2016-05-29T10:28:26.804242-05:00,2016-05-29T10:28:26.474381-05:00	1
+	2016-05-29T10:36:58.318994-05:00,2016-05-29T10:36:58.817028-05:00,2016-05-29T10:36:58.593046-05:00	1
+	2016-05-29T10:39:48.085273-05:00,2016-05-29T10:39:48.314529-05:00,2016-05-29T10:39:47.824626-05:00	1
+	2016-05-29T10:39:50.564338-05:00,2016-05-29T10:39:50.356009-05:00,2016-05-29T10:39:50.018730-05:00	1
+	2016-05-29T10:40:38.802003-05:00,2016-05-29T10:40:38.521782-05:00,2016-05-29T10:40:38.305435-05:00	1
+	2016-05-29T10:41:23.103753-05:00,2016-05-29T10:41:23.342440-05:00,2016-05-29T10:41:22.907855-05:00	1
+	2016-05-29T10:42:26.096572-05:00,2016-05-29T10:42:26.542090-05:00,2016-05-29T10:42:26.337752-05:00	1
+	2016-05-29T10:46:38.840158-05:00,2016-05-29T10:46:39.048134-05:00,2016-05-29T10:46:39.239224-05:00	1
+	2016-05-29T10:48:40.434216-05:00,2016-05-29T10:48:40.258258-05:00,2016-05-29T10:48:40.644706-05:00	1
+	2016-05-29T10:56:18.295982-05:00,2016-05-29T10:56:18.722728-05:00,2016-05-29T10:56:18.483828-05:00	1
+	2016-05-29T11:01:06.118556-05:00,2016-05-29T11:01:06.329926-05:00,2016-05-29T11:01:06.546059-05:00	1
+	2016-05-29T11:05:40.608824-05:00,2016-05-29T11:05:40.799012-05:00,2016-05-29T11:05:40.982358-05:00	1
+	2016-05-29T11:08:33.333043-05:00,2016-05-29T11:08:33.148300-05:00,2016-05-29T11:08:33.518868-05:00	1
+	2016-05-29T11:09:15.800889-05:00,2016-05-29T11:09:15.564651-05:00,2016-05-29T11:09:16.081816-05:00	1
+	2016-05-29T11:10:23.370312-05:00,2016-05-29T11:10:22.886879-05:00,2016-05-29T11:10:23.165494-05:00	1
+	2016-05-30T18:16:54.338480-05:00,2016-05-30T18:16:54.003292-05:00,2016-05-30T18:16:54.165879-05:00	1
+	2016-05-30T18:18:49.804910-05:00,2016-05-30T18:18:50.130231-05:00,2016-05-30T18:18:49.972832-05:00	1
+	2016-05-30T18:25:22.477486-05:00,2016-05-30T18:25:22.291969-05:00,2016-05-30T18:25:22.638091-05:00	1
+	2016-05-30T18:25:31.971325-05:00,2016-05-30T18:25:32.182692-05:00,2016-05-30T18:25:32.394838-05:00	1
+	2016-05-30T18:28:58.284701-05:00,2016-05-30T18:28:57.937165-05:00,2016-05-30T18:28:58.098069-05:00	1
+	2016-05-30T18:30:58.477023-05:00,2016-05-30T18:30:58.673201-05:00,2016-05-30T18:30:58.860116-05:00	1
+	2016-05-30T18:38:46.141508-05:00,2016-05-30T18:38:45.738551-05:00,2016-05-30T18:38:45.963537-05:00	1
+	2016-05-30T18:40:11.391857-05:00,2016-05-30T18:40:11.188708-05:00,2016-05-30T18:40:10.994488-05:00	1
+	2016-05-30T18:42:48.098467-05:00,2016-05-30T18:42:48.497930-05:00,2016-05-30T18:42:48.298910-05:00	1
+	2016-05-30T18:45:08.367921-05:00,2016-05-30T18:45:07.829239-05:00,2016-05-30T18:45:08.039014-05:00	1
+	2016-05-30T18:47:20.811611-05:00,2016-05-30T18:47:21.162141-05:00,2016-05-30T18:47:20.997999-05:00	1
+	2016-05-30T18:48:02.600985-05:00,2016-05-30T18:48:02.909042-05:00,2016-05-30T18:48:03.118061-05:00	1
+	2016-05-30T18:50:23.083930-05:00,2016-05-30T18:50:23.256231-05:00,2016-05-30T18:50:23.435465-05:00	1
+	2016-05-30T18:52:12.626563-05:00,2016-05-30T18:52:12.810366-05:00,2016-05-30T18:52:12.448693-05:00	1
+	2016-05-30T19:00:11.814125-05:00,2016-05-30T19:00:12.008879-05:00,2016-05-30T19:00:12.226136-05:00	1
+gdc__data_category
+	Transcriptome Profiling	50
+gdc__data_format
+	TXT	50
+gdc__data_type
+	Gene Expression Quantification	50
+gdc__demographic__demographic_id
+	03c85898-40d4-555d-99c8-4a76600490e9	1
+	0b978cda-7e4f-54df-89d4-77b304ea1d0f	1
+	107e3c21-1a10-5ed0-9f2e-a85bb371ef6e	1
+	115b8a69-5641-5d2b-a225-9333ce309565	1
+	11acc0ec-455a-5ef3-b1da-8cf71a8f6b45	1
+	14285756-ee92-5321-baf4-7baeb57fcd3d	1
+	2531e8c6-27c2-5a38-928e-144065b40fdd	1
+	282e3807-6835-52db-bb8d-f9b4b7857335	1
+	2f81e314-1ffd-5b24-b4ba-06aaa9680e6b	1
+	37da8f10-1df1-5744-9241-3da1b200392f	1
+	3d91cd54-9f1b-5418-ae1c-f1f73cb550c4	1
+	3f938cba-40bb-57dd-9a8d-e502a861925c	1
+	40b9e642-18d5-5633-a7d9-9ccd013a24a2	1
+	43390a46-18b2-5d41-bbb0-b0fa6c07fae4	1
+	44d5eaf0-d376-590c-930b-7ee64a43dfcf	1
+	476cb668-6754-5233-a801-8a658a9d24f5	1
+	49a85814-36a4-5600-bc82-7674afbf7007	1
+	49ab2865-f2f4-5d68-9240-f2e12b628c26	1
+	4ae6eea5-99dd-5ded-b2b7-93753c29d2c4	1
+	4afbc555-5b5f-52ef-8a2f-2e72d0458722	1
+	4d670fdc-dd3a-5042-b450-b0ef565ab00c	1
+	4dee23bb-3958-531e-8e2d-9cbfb9176343	1
+	51c453f9-b377-5077-af3c-640cf955f317	1
+	52006106-e643-5fe6-956c-6882c3a90603	1
+	5cc4f1c4-81ba-5d05-a6a1-0040464dbdad	1
+	5f516eb8-c408-54f1-b582-80c275f8a8f7	1
+	618089d3-91c9-5efa-b785-80cfbeecedae	1
+	6356c0e9-032b-56fb-bc48-a4084d590520	1
+	6562249e-de78-5013-9410-2e96a0249796	1
+	690e2dd1-aa31-54af-b56f-39feacaa7ecf	1
+	77c18747-87e6-5d35-8f07-12a2950d7ed6	1
+	7ffd44cb-63d0-5336-b9a5-c39043864110	1
+	87696326-e4ca-5eea-bc6f-37bab4e03549	1
+	8d334800-c998-53b0-aef0-1d38d31b7cc5	1
+	8dcd4cdd-cf30-56b9-b51c-de453b9238a1	1
+	9bec5f4c-ae0f-578b-a4a4-6f546c27d502	1
+	9d5bb55c-9078-5fe7-9b62-e181bcae6a52	1
+	a49576c7-6187-5e9a-9ce1-0ee2a603e886	1
+	a6643770-d005-5be6-a1cb-fda458e647cc	1
+	b44ee0db-1f7f-5fcb-b27a-5fcc680c7cba	1
+	bff2643f-6fb9-556c-9bcb-b6a9f0d91f69	1
+	c2990492-cd81-5c52-9a37-6c9a600eade3	1
+	c39ea615-5fce-5cfe-943d-11d25aee73bd	1
+	d7402e34-87fe-536a-9b38-8b1c06018a3f	1
+	dfaafadc-03ba-5380-83ca-4a21f7a03254	1
+	e2768e76-8431-5e60-98e3-c6cbbf0f0084	1
+	effdef70-549b-5bca-8f66-ef1848127b8e	1
+	f01e182f-75b1-5175-8300-f88362eaf7f8	1
+	f20d4db1-449f-59f2-96a1-f6f3a36077a8	1
+	f3156e8e-02cf-517e-b665-40bcf923c69c	1
+gdc__demographic__ethnicity
+	not hispanic or latino	45
+	not reported	5
+gdc__demographic__gender
+	female	22
+	male	28
+gdc__demographic__race
+	asian	6
+	black or african american	7
+	not reported	3
+	white	34
+gdc__demographic__year_of_birth
+	1920	1
+	1922	1
+	1923	1
+	1924	1
+	1925	1
+	1926	4
+	1929	1
+	1930	3
+	1931	3
+	1932	1
+	1933	2
+	1934	1
+	1935	3
+	1936	1
+	1937	3
+	1939	1
+	1941	2
+	1942	1
+	1946	1
+	1948	1
+	1949	1
+	1950	1
+	1951	1
+	1952	2
+	1953	2
+	1954	1
+	1957	1
+	1961	1
+	1962	1
+	1963	2
+	1966	1
+	1984	1
+	1985	1
+	1986	1
+gdc__demographic__year_of_death
+	1997	2
+	1999	2
+	2000	1
+	2001	4
+	2002	4
+	2003	4
+	2004	2
+	2005	3
+	2006	1
+	2007	1
+	2008	3
+	2010	3
+gdc__diagnoses__age_at_diagnosis
+	10699	1
+	13739	1
+	14613	1
+	15410	1
+	15930	1
+	16708	1
+	17097	1
+	18562	1
+	18951	1
+	19140	1
+	19473	1
+	20023	1
+	20188	1
+	21003	1
+	22913	1
+	22968	1
+	22997	1
+	24046	1
+	24274	1
+	24288	1
+	24646	1
+	24934	1
+	25305	1
+	25403	1
+	25489	1
+	25677	1
+	25788	1
+	26009	1
+	26319	1
+	26400	1
+	26471	1
+	26857	1
+	26858	1
+	26985	1
+	27524	1
+	27530	1
+	27756	1
+	27930	1
+	27944	1
+	28049	1
+	28101	1
+	28108	1
+	28254	1
+	28406	1
+	28528	1
+	7363	1
+	8499	1
+	8573	1
+gdc__diagnoses__classification_of_tumor
+	not reported	50
+gdc__diagnoses__days_to_birth
+	-10699.0	1
+	-13739.0	1
+	-14613.0	1
+	-15410.0	1
+	-15930.0	1
+	-16708.0	1
+	-17097.0	1
+	-18562.0	1
+	-18951.0	1
+	-19140.0	1
+	-19473.0	1
+	-20023.0	1
+	-20188.0	1
+	-21003.0	1
+	-22913.0	1
+	-22968.0	1
+	-22997.0	1
+	-24046.0	1
+	-24274.0	1
+	-24288.0	1
+	-24646.0	1
+	-24934.0	1
+	-25305.0	1
+	-25403.0	1
+	-25489.0	1
+	-25677.0	1
+	-25788.0	1
+	-26009.0	1
+	-26319.0	1
+	-26400.0	1
+	-26471.0	1
+	-26857.0	1
+	-26858.0	1
+	-26985.0	1
+	-27524.0	1
+	-27530.0	1
+	-27756.0	1
+	-27930.0	1
+	-27944.0	1
+	-28049.0	1
+	-28101.0	1
+	-28108.0	1
+	-28254.0	1
+	-28406.0	1
+	-28528.0	1
+	-7363.0	1
+	-8499.0	1
+	-8573.0	1
+gdc__diagnoses__days_to_death
+	1005.0	1
+	11.0	1
+	1135.0	1
+	1149.0	1
+	1372.0	1
+	14.0	1
+	1560.0	1
+	1622.0	1
+	1694.0	1
+	1852.0	1
+	194.0	1
+	2116.0	1
+	2131.0	1
+	223.0	1
+	233.0	1
+	247.0	1
+	308.0	1
+	3125.0	1
+	3258.0	1
+	34.0	1
+	349.0	1
+	415.0	1
+	438.0	1
+	535.0	1
+	581.0	1
+	601.0	1
+	612.0	1
+	643.0	1
+	711.0	1
+	770.0	1
+	827.0	1
+	837.0	2
+	91.0	1
+gdc__diagnoses__days_to_last_follow_up
+	0.0	1
+	1351.0	1
+	1363.0	1
+	1495.0	1
+	183.0	1
+	2017.0	1
+	204.0	1
+	2425.0	1
+	3437.0	1
+	363.0	1
+	409.0	1
+	570.0	1
+	602.0	1
+	608.0	1
+	662.0	1
+	780.0	1
+	79.0	1
+	848.0	1
+	887.0	1
+	987.0	1
+gdc__diagnoses__diagnosis_id
+	0048391f-a4d5-5c21-8c16-a43e85567785	1
+	05abf7b4-1b17-5a89-bb20-822e6774c375	1
+	0bcae4a4-2b6b-5b68-ae6d-fc5ed358bdae	1
+	10597541-ae09-5bab-843d-f721dfc42b5c	1
+	13c9e344-5617-5303-bb5c-10dc72144dc8	1
+	158560c6-156d-5bd8-8f68-b849f97902f4	1
+	187f81dc-ca2a-53f3-be82-7336fcbf5f03	1
+	1d3adbb8-abe8-5fac-8c6b-a1fe482bbaa4	1
+	1ea4c227-7bbc-5f1b-9377-e5b12aba1286	1
+	217f7f7f-eafb-52e8-aa2a-89a4501d2ffe	1
+	262d2169-69bc-541d-a413-2aabdbbf98a8	1
+	2d47515a-f371-58fc-8001-d398dd8cbe4d	1
+	2ef28518-924b-56a3-b02a-c0a32962c5fb	1
+	31bf39df-c90d-5081-9358-9f8a31a168b1	1
+	377a3ca9-565d-521d-8e4f-4bc903b501d9	1
+	54b01d17-db54-5911-a087-ba19fda5469e	1
+	5edf7919-8f0f-5e3b-931c-006350ea3f72	1
+	61369d5f-2073-5967-9e95-2abbbe878aa2	1
+	6ae73e07-3dcb-56ad-ac46-3752cf20f759	1
+	706e9fae-f413-519c-aaaf-5e93ce23a24c	1
+	7471d1f5-900b-597b-b005-7bc783a12dd1	1
+	760e64c9-3c83-5bbc-b602-ca298fa0f5e1	1
+	77b36f6d-6dcb-54d7-9d8e-b0c02a8b62e8	1
+	794dc197-6a95-53d8-9e51-df4934a63641	1
+	7af78546-c17e-56cd-980a-72480096fd79	1
+	7c057e0a-5e49-5214-bee7-db7152cb2688	1
+	7d79704f-013a-5cd8-8b88-5e628c48e98c	1
+	845abc19-3b90-5fdd-8f96-fa8f27e7590e	1
+	88ead5d2-db40-5913-8675-ada85007c3f2	1
+	8b63bf23-2c22-5ee5-89b4-0be69c1ea61a	1
+	9a7ffda7-b281-5b8a-9657-6b66f8425768	1
+	9e5fdaec-867f-5e80-9abb-f0993ef1ceb7	1
+	aa10e7eb-a1e4-55c0-98ba-9f8568e2fb36	1
+	ac512a2f-0513-5d5f-b2ea-f351dd56ae09	1
+	b04764ed-fadf-5f28-aefc-ba455bbdd1bb	1
+	b5173e9f-0981-5bca-9f26-b6e9d0edd9ae	1
+	b5925a40-cb9f-5954-9cfb-c7ab86404e60	1
+	b59e5416-fbab-5072-a1d5-78d15f9178c2	1
+	b632c3e5-9066-50c6-939d-6b9825e68bca	1
+	bb23023f-782a-51c3-bb36-ed7952793897	1
+	c14bc45b-84f3-58ec-a7e3-e93d8c769b7d	1
+	c896279a-640a-57f8-91c5-4d1b674cdcca	1
+	cab20d99-084b-5327-9457-c7f7898a4254	1
+	cb8c076e-ce34-5eb6-aef5-b419f3b73d98	1
+	cf4d5896-daef-5ce7-bfa1-87a1d9bb7006	1
+	d4d14df0-f983-59a7-960a-6ba4c4ba534b	1
+	ef53ae43-7ab9-546f-b40c-71018f4bf37a	1
+	f3dc64ae-6b29-5d17-b705-d9cb1e6a8b66	1
+	feae1f48-47c4-5e60-9ec9-8cc4d951b7db	1
+	ffe4bce7-2bf3-5406-a014-04becdc91140	1
+gdc__diagnoses__last_known_disease_status
+	not reported	50
+gdc__diagnoses__morphology
+	8170/3	49
+	8180/3	1
+gdc__diagnoses__primary_diagnosis
+	Combined hepatocellular carcinoma and cholangiocarcinoma	1
+	Hepatocellular carcinoma NOS	49
+gdc__diagnoses__prior_malignancy
+	not reported	50
+gdc__diagnoses__progression_or_recurrence
+	not reported	50
+gdc__diagnoses__site_of_resection_or_biopsy
+	Liver	50
+gdc__diagnoses__tissue_or_organ_of_origin
+	Liver	50
+gdc__diagnoses__tumor_grade
+	not reported	50
+gdc__diagnoses__tumor_stage
+	not reported	8
+	stage i	18
+	stage ii	11
+	stage iii	3
+	stage iiia	8
+	stage iiic	1
+	stage iv	1
+gdc__diagnoses__vital_status
+	alive	16
+	dead	34
+gdc__disease_type
+	Adenomas and Adenocarcinomas	50
+gdc__experimental_strategy
+	RNA-Seq	50
+gdc__exposures__bmi
+	14.526643990929704	1
+	16.302378939741576	1
+	16.979591836734695	1
+	18.196579043139888	1
+	20.069204152249135	1
+	20.28479857195018	1
+	20.775623268698062	1
+	21.19274241522903	1
+	21.847008520333322	1
+	22.405876951331496	1
+	22.53061224489796	1
+	22.65625	1
+	22.79035792549306	1
+	23.355636914530994	1
+	23.61275088547816	1
+	23.620287912158062	1
+	23.836734693877553	1
+	24.725182932941294	1
+	25.142857142857142	2
+	25.155895691609977	1
+	25.458065904119906	1
+	26.09327520147972	1
+	26.259584748433177	1
+	26.42356982428326	1
+	26.82742078020452	1
+	26.986001011975038	1
+	27.475629493018175	1
+	27.531229454306374	1
+	29.05328798185941	1
+	31.600114909508758	1
+	31.877288221184195	1
+	35.55324314949705	1
+	37.87721123829344	1
+	38.97392290249433	1
+	40.90229235981808	1
+	56.142177275431294	1
+gdc__exposures__exposure_id
+	1b60cbdb-6440-5f79-8944-b135c62c0df0	1
+	2212de3c-6d02-5ef7-b848-7d9f2ad701ba	1
+	260938b3-0c46-569d-a868-9b893064f0c7	1
+	28f4c6e2-7d17-5603-9ef3-d6d5d269785f	1
+	295e8a6f-0145-5984-8022-aa899fb6ecf2	1
+	2f909c92-574c-5f99-822a-a79dbc1369fc	1
+	2fb7e983-ab95-5435-b690-537228ccf1eb	1
+	3991f016-a7e3-5060-bdd5-d42d5965641a	1
+	3b81066e-482d-5b14-a1e4-f240832e2ff9	1
+	3ce894cc-3a1e-5c19-8f3d-a7477203cd75	1
+	41801e4c-8d70-5266-82ae-382fc1dd4a20	1
+	426eaa18-c4a7-5317-bbaa-4f73dd0203df	1
+	465c7820-cd9d-5ec4-9597-ba47c835c81f	1
+	47395bcb-f8b4-5664-a281-407908ca8afb	1
+	47f36dd3-1a68-5596-a206-ea227e5d4632	1
+	4815984f-b33f-5d1c-bf5c-d53d185cfb2d	1
+	496093aa-a923-5b8d-a3fe-b4d074ffc05c	1
+	4afe51e1-5a16-5bfd-b321-cde40437bce8	1
+	4fda3f68-9b8e-5d56-bed3-f43ea0a89174	1
+	58cd392b-d4c9-5988-b5cf-d498669a9160	1
+	67d62d6e-d099-52ed-be8d-64c89a53f55a	1
+	6bd6e8fd-765a-56ac-9317-b5b5f729fa9b	1
+	7bd3a61a-500a-5202-8353-2efc8de2693d	1
+	84abd4cc-9b7e-517b-b8e6-fbfbfc9d31f9	1
+	86f3e9c4-6400-5a5c-84dd-3f0ed9a58a4c	1
+	8afca472-d9f6-52ef-84ba-6d15ff892c2e	1
+	8b7fcab9-fe9f-569c-8a6f-c0f58a91a8f5	1
+	8fe9460f-7584-51ff-b931-e123399df01b	1
+	976b0b28-1fc0-5384-9864-0cecbcc68e4b	1
+	9fb8f552-c9b4-5038-a087-70072f255fd4	1
+	a083b8d5-19d0-5984-aa04-508be690a433	1
+	a1d6658a-accb-5864-a6b2-31e176486998	1
+	a7d840a4-8e56-53e1-a2f7-5c91c93a5e55	1
+	b3520b5e-7eb7-52e7-9d50-157758e410f3	1
+	c18d5a4f-a015-5cb6-a019-beee086486d4	1
+	c6675c30-aa51-514f-8b32-8ba472b6b60b	1
+	cc69281e-647a-5a4a-a2d9-d05f22a409e3	1
+	d0df670c-0d78-5151-8898-a2fc06518fc1	1
+	d17d5f9e-bcd9-5955-baaa-f03189d6006a	1
+	d2e49098-2775-5a76-8f31-897a85c03670	1
+	d5264f0e-fdcb-51be-b23a-f64cac4c6ac2	1
+	d817eb19-fb48-5d3c-b57b-112f053b5410	1
+	dcb053b7-0b8d-5ba4-8d43-cbb9d495f58f	1
+	df139265-be4a-589c-84e7-320cd98fef3d	1
+	e37b38f3-7d37-5ecb-bb94-7aff47f14a46	1
+	e4cd7d38-18b4-516e-8fd4-d9c0306c2826	1
+	ed773614-2a93-5ce7-a093-5d2375f664f5	1
+	f9ff566c-83cd-5781-9acb-772154b5a450	1
+	fca283f3-61a1-5d5c-b817-229d09e7710a	1
+	fd775070-953a-5299-aa18-e325061eb140	1
+gdc__exposures__height
+	152.0	1
+	154.0	2
+	155.0	1
+	156.0	1
+	157.0	1
+	160.0	1
+	163.0	1
+	164.0	2
+	165.0	1
+	167.0	1
+	168.0	4
+	169.0	1
+	170.0	1
+	173.0	2
+	174.0	2
+	175.0	5
+	177.0	2
+	178.0	3
+	179.0	1
+	181.0	1
+	182.0	1
+	185.0	1
+	186.0	1
+	189.0	1
+gdc__exposures__weight
+	101.0	1
+	110.0	1
+	123.0	1
+	134.0	1
+	151.0	1
+	41.0	1
+	48.0	1
+	50.0	1
+	52.0	1
+	54.0	1
+	56.0	1
+	57.0	1
+	58.0	2
+	61.0	1
+	64.0	1
+	65.0	2
+	67.0	1
+	69.0	1
+	70.0	1
+	71.0	3
+	73.0	2
+	74.0	3
+	75.0	2
+	77.0	2
+	78.0	1
+	79.0	2
+	80.0	1
+	82.0	1
+	85.0	1
+	86.0	1
+	91.0	1
+	99.0	1
+gdc__file_id
+	061c8d3c-1130-45d6-80e7-1fdb81abe934,74b43e88-67ff-4bc9-bc68-356e9dfe6fcb,bcd388d6-4c58-4945-b3b4-e4c7c870ce6d	1
+	0cdc9d01-3f5f-4cc1-aa74-b14082c0f446,96daf97d-3b90-4dd9-9cf9-6b3c3a9f3a06,f29dd092-a451-461a-bdbf-b6a1cf23e440	1
+	1041e935-7d51-48d3-8a4d-cede77c020d0,0c45e976-d1db-4ce4-ad87-e18b405c927b,8ffdb893-8f35-4122-99ee-400a1613780f	1
+	10de4282-01e0-4990-9f89-9cf643a7c9d1,1734c4f6-d6a3-4aab-9ee4-39f5010a077d,344254ce-6ae0-4889-9fdc-13332085f8b0	1
+	2855d1ac-3e04-4402-bcab-2e4b1d3e204f,fdce2c14-4e69-4468-b409-062702643ffa,8714eedb-9a8e-4379-a03b-c2188db5927c	1
+	2a79050b-9bb9-4111-a8aa-9ebcb9d79138,40f47a81-68ee-47da-babc-8f5714dacc26,5b2fff39-6492-4629-a0f4-d135612bee72	1
+	2c229ae0-c08e-43fa-8661-4229157ee6b2,256785ac-02f7-4c0f-9b97-a652a1ab2864,35572ac5-6f08-4a3d-baec-f507ae74ff53	1
+	3066c600-6ee9-4bfa-b168-932389d4fde7,d1fd2ecb-0d67-4a9d-a2eb-e6d5b8d2416c,a36c36e4-5105-42dc-9f53-c5c24f671889	1
+	318c1a53-4636-496f-849b-5e73c89c840e,2677e16a-a959-453e-905e-954a0feb3136,42502979-40c4-42bb-8d35-144395d54a73	1
+	36f33329-2571-4630-b035-96bcc1b35753,1f11de37-b6a8-418f-a761-845b529f9645,372f8beb-b3fe-45ab-aa39-21b5ceac87b5	1
+	3a32fde3-5f08-4090-9c2e-27f6ef765513,586d0b0c-ba64-4009-a790-9537bc660fa0,18bb9ec6-31ca-4b55-9e29-3f4f952d69a4	1
+	3e9e3bc0-7865-43dc-8dcf-7b732b868e7b,4053c358-8546-433d-81bb-9a8961692de7,054ee4ee-c382-409d-819c-f4c99d2b52ff	1
+	405b2663-9223-46c8-bcaf-41f0d5b13b2c,cfd2cab1-9159-4c7d-9c01-4bb566f17799,e4d327c0-0daf-46d4-bc92-1fd4c4a51f86	1
+	413699fb-48c1-4330-bb5f-bb120f4e0006,b8dc0a91-58bb-4581-9d06-dd9c830aaac3,6b4f46b5-475d-4b14-a535-c55b35485b11	1
+	452e9637-9c48-4614-b977-b7fd66fa37f8,6e023451-138e-41c2-a765-9b72350666d2,08fd3f65-4354-4750-a9b9-a688ee6eb8d0	1
+	486d31a0-08b8-4617-b797-10120ab676ff,3ba3e0c8-bc50-4de7-8cf6-e5e510758a89,01a3c0d9-5ac6-4387-b47a-59945dacbd16	1
+	5612b94c-0f03-47a7-998b-64655e7fc260,1c67899d-4811-4976-b70a-1b086208f42a,1a8f9728-600d-47e0-bd41-e5d874af9278	1
+	603771bc-4e5b-4052-857f-9f55493affb2,348c9f2a-7623-4556-bb19-2136e974ed66,8ee517a7-da19-407f-8514-0816215c30bd	1
+	60495dcb-10f1-4d3c-8030-57311d3e294f,dda3010e-26e1-4d54-8667-1025f815a4d8,06461669-7363-4feb-abb6-8ddb934f5721	1
+	6462acc6-16b9-4cca-8e42-87ed34055f62,86778f2f-c614-4bea-8dad-1dd0d5e6daed,a3137536-9091-45b6-a0b4-8493389495f7	1
+	6bbb38e9-b019-464f-bdf5-1dc176c3007e,57a9bffd-3236-4af5-bba2-63cc05733613,3b1d5eea-be1c-4f04-9f47-ce6eba44f750	1
+	6ccb9c15-5080-4fdd-96af-8d3b7f86288e,b7300bc9-723c-4186-8205-6d6522d03ce4,6695e738-2ca1-46ee-a09f-f15848467bd8	1
+	6da70122-3b08-487a-ab4c-23639dafe316,952aa685-d51b-44ea-88e9-5b07d041fbae,03c803d8-e799-45a1-b50a-4d729381b2e9	1
+	6e679a0d-70fc-497c-ad7d-164ab2ebbf1e,af0d0f52-e65f-4157-b750-d1ca113279c1,1c161565-bcbe-4258-8167-940bad0d4b79	1
+	7f78024c-a6a1-4bcb-ad9d-72bfb6d2cd61,5cfc475e-2df0-4a9a-b413-87f05a8c61b3,144b7cf6-ab55-4ca0-b095-1d8bdfea2176	1
+	812669ca-242a-49b1-b541-2630849e89a4,dbd74691-ca28-49c6-aa6a-3a852f03b90c,9e95d141-0f3f-4360-8d1d-79eb75b7421e	1
+	817562f0-e325-4f0a-8ac3-5f990fc00fe0,6b1148a4-b3f0-4700-99a4-d960d2f586cd,d70431b9-f2b9-4622-978c-9cd515e470f7	1
+	8a5532d6-57b6-4dd3-8fa3-22b7623b7863,3f51b39f-0c26-41b1-b46f-13a6cfb0e414,3559acd8-7c76-44a4-9832-8cf2e4c784d4	1
+	8d8c295a-9a07-414e-8f4c-3a0f6575e2fe,0b766e80-e81b-46c7-bd2d-567a65735a5c,b103483f-ff77-4f2f-b809-12807d0a4673	1
+	926417aa-62f9-42ac-afd8-f9b677fdefc7,a0153320-d5fd-49f2-8a8d-3a35697ff306,abf6eaf4-3ce3-4d38-884b-ac456dd0b4bf	1
+	9b1915a9-ef4f-4da5-b1d8-ac60aca62444,c01ccefa-72b8-40c9-a49d-8ac7ba274e9e,a5377808-8976-4d64-9375-ca744138e266	1
+	9b8bb78f-51aa-46a8-96c2-fb6a11891158,9eff1d31-abdd-4493-a0a0-f0111ac67746,6e0a134a-99ed-457e-bdb2-91e99131a36f	1
+	a2f7863b-cf3e-4353-91ed-a9f938eb0cb7,977df773-ae5a-4263-a873-e615c75c7bb1,3cae2ab7-9220-4855-97e4-eaf94df44492	1
+	a4b778a2-440f-46f8-825d-10ceeffb4f7d,95e6e420-6b86-4034-aa6c-369c38c8840a,6a8255c1-a9f4-4e0c-b27a-d192040ac5f5	1
+	a8759a0b-a87d-4a41-b126-29191c47c33d,59d69723-e961-4682-80d7-286a194fc60d,f1a708e7-0f8c-4716-81d4-0d4db5d191c6	1
+	ab80e501-44c2-4e85-8fba-b47c669524b5,9127e11a-14e9-42cb-8202-89ec0ec630d3,bdceef06-5a67-4ff5-a5fe-dfeb9e5cc334	1
+	ad58051a-a7d1-4fa6-bb15-336b7cdc0112,1c2ca1c5-e3c7-4816-94ca-e5142794ffb3,bdc25560-d03c-48a2-b6dd-a2ee414b29b2	1
+	b028f855-a0f9-4e3c-bca7-a1a9b9fb7ff7,809a5d7a-35ae-4c4a-9b83-92eead7ea699,391ab969-b468-4450-b5af-8488909f42b7	1
+	b684dfa1-1da8-493e-876a-d8cd9998584a,48584301-2f93-48ec-8231-abb6ba9bb5a7,cf8ca7fa-d935-4462-85e1-68a9789391d4	1
+	bead64ab-3233-49df-a254-660ebc4e8928,fc167d91-5ea2-4221-b233-185abbf3798d,58decc16-9b39-423e-9c2a-f4ba46e72b26	1
+	bfdf6b0d-2161-4e9d-9f71-0fc368739ea6,c64bb408-1b1e-4a02-b796-c40654e4145c,c2c53579-ce74-4754-8ee7-8b6c80e0523b	1
+	c55fa799-7e15-4671-8239-48ef517d8ce1,05ee6e57-5846-419e-a38b-82940894642f,73c36ddf-847c-4866-b5c4-26071ed49ef9	1
+	c6fbc477-2757-4b55-86b6-49a7c651e97c,35ab9243-d2f1-4d68-90af-c8d518b6b64c,a5c577c1-6ac9-48ad-8ac4-3d0afcad2d8e	1
+	c7f3853a-c55f-4ddc-96d7-bd7bbd81c633,3686aec6-7e4c-4168-af34-a2a3a40b08cf,70024d54-6ec6-4ac2-973c-929d80f38696	1
+	da9964ce-1aaf-45ef-87f1-53a2e7ce47c0,39f214d3-f993-49b6-ac77-5f85bab27945,b68a9a14-2031-44c7-b711-eb4d1eab71b3	1
+	e4ba2fde-97a9-41e6-ad74-2c362f6f41b5,6ef37131-9573-4605-b459-a5ee48eae255,e93fddcd-5bf6-494c-8b08-8fb2573c38d3	1
+	e5773a09-ae50-4cc6-b8bb-aff36f9cd557,b2eb4ed1-34ca-4275-adc2-6b1eca096793,d0dd7b1b-e643-4579-af6f-2c30084ba401	1
+	f32799b9-af93-40fd-bebe-dcfb22203bed,59d28f40-64fd-447e-a3c6-3da9bd5cde4b,5ee55394-e498-4391-a9bc-086fa5fdf8b0	1
+	fba5da83-71ed-4c9f-b251-481bb6c928b8,6b12687f-7d12-4537-9bd4-67b05cfc88d8,970afe0e-6988-4938-98eb-cf2afbaf0a92	1
+	fd27d631-a58f-45a5-af6f-36753d84a157,f2d3f06f-d400-4c20-8b32-b46525f43098,2437cfb6-577e-492c-9993-3a7863a8007f	1
+gdc__file_name
+	15a44c9d-7c84-4170-96a1-358dd796aa65.htseq.counts.gz,15a44c9d-7c84-4170-96a1-358dd796aa65.FPKM.txt.gz,15a44c9d-7c84-4170-96a1-358dd796aa65.FPKM-UQ.txt.gz	1
+	160aee04-df36-4e94-90c5-b01b2991ba48.FPKM.txt.gz,160aee04-df36-4e94-90c5-b01b2991ba48.FPKM-UQ.txt.gz,160aee04-df36-4e94-90c5-b01b2991ba48.htseq.counts.gz	1
+	1d86dc66-1a62-4cbc-9973-ae63ab754d6a.htseq.counts.gz,1d86dc66-1a62-4cbc-9973-ae63ab754d6a.FPKM.txt.gz,1d86dc66-1a62-4cbc-9973-ae63ab754d6a.FPKM-UQ.txt.gz	1
+	2b8bf629-3c22-4dcb-a9a5-ec01c5099167.FPKM-UQ.txt.gz,2b8bf629-3c22-4dcb-a9a5-ec01c5099167.htseq.counts.gz,2b8bf629-3c22-4dcb-a9a5-ec01c5099167.FPKM.txt.gz	1
+	2cc2e3ce-68cd-4690-9fff-5ecf86c2f57a.htseq.counts.gz,2cc2e3ce-68cd-4690-9fff-5ecf86c2f57a.FPKM.txt.gz,2cc2e3ce-68cd-4690-9fff-5ecf86c2f57a.FPKM-UQ.txt.gz	1
+	2d40e20c-bee4-48f2-a8b0-cdf8dff75dc3.htseq.counts.gz,2d40e20c-bee4-48f2-a8b0-cdf8dff75dc3.FPKM-UQ.txt.gz,2d40e20c-bee4-48f2-a8b0-cdf8dff75dc3.FPKM.txt.gz	1
+	31b85c24-5bb4-4886-9870-406bbefa7a80.FPKM.txt.gz,31b85c24-5bb4-4886-9870-406bbefa7a80.htseq.counts.gz,31b85c24-5bb4-4886-9870-406bbefa7a80.FPKM-UQ.txt.gz	1
+	323f9334-d360-4bb5-925c-8750bd1b20d2.FPKM-UQ.txt.gz,323f9334-d360-4bb5-925c-8750bd1b20d2.htseq.counts.gz,323f9334-d360-4bb5-925c-8750bd1b20d2.FPKM.txt.gz	1
+	358f2893-02b2-4d36-9c76-b818c28b6027.FPKM.txt.gz,358f2893-02b2-4d36-9c76-b818c28b6027.FPKM-UQ.txt.gz,358f2893-02b2-4d36-9c76-b818c28b6027.htseq.counts.gz	1
+	38ed53de-d5bc-4c94-8f5d-c2b8e8e65782.FPKM-UQ.txt.gz,38ed53de-d5bc-4c94-8f5d-c2b8e8e65782.htseq.counts.gz,38ed53de-d5bc-4c94-8f5d-c2b8e8e65782.FPKM.txt.gz	1
+	481e95c0-3a19-48fe-a119-3245ffe4f83f.FPKM-UQ.txt.gz,481e95c0-3a19-48fe-a119-3245ffe4f83f.htseq.counts.gz,481e95c0-3a19-48fe-a119-3245ffe4f83f.FPKM.txt.gz	1
+	491e50ed-21d3-4dc6-ae6c-e56f94e22ca4.FPKM.txt.gz,491e50ed-21d3-4dc6-ae6c-e56f94e22ca4.FPKM-UQ.txt.gz,491e50ed-21d3-4dc6-ae6c-e56f94e22ca4.htseq.counts.gz	1
+	49c3a507-5de7-454e-a5e0-38ee916449f8.htseq.counts.gz,49c3a507-5de7-454e-a5e0-38ee916449f8.FPKM-UQ.txt.gz,49c3a507-5de7-454e-a5e0-38ee916449f8.FPKM.txt.gz	1
+	4d3842d1-c643-4659-98e9-8d613144fa91.htseq.counts.gz,4d3842d1-c643-4659-98e9-8d613144fa91.FPKM-UQ.txt.gz,4d3842d1-c643-4659-98e9-8d613144fa91.FPKM.txt.gz	1
+	53735683-e9b2-4745-809d-5cba358f5b41.FPKM.txt.gz,53735683-e9b2-4745-809d-5cba358f5b41.FPKM-UQ.txt.gz,53735683-e9b2-4745-809d-5cba358f5b41.htseq.counts.gz	1
+	5745ce68-bb15-4d52-9132-4b4f6241af73.htseq.counts.gz,5745ce68-bb15-4d52-9132-4b4f6241af73.FPKM.txt.gz,5745ce68-bb15-4d52-9132-4b4f6241af73.FPKM-UQ.txt.gz	1
+	576fda32-4e0c-414d-b54c-259f2503fc11.FPKM.txt.gz,576fda32-4e0c-414d-b54c-259f2503fc11.htseq.counts.gz,576fda32-4e0c-414d-b54c-259f2503fc11.FPKM-UQ.txt.gz	1
+	58957ce0-4efa-4194-a3e6-37984ac010c7.FPKM.txt.gz,58957ce0-4efa-4194-a3e6-37984ac010c7.htseq.counts.gz,58957ce0-4efa-4194-a3e6-37984ac010c7.FPKM-UQ.txt.gz	1
+	5f94c33f-588b-4b6a-9c13-4505b0f94403.htseq.counts.gz,5f94c33f-588b-4b6a-9c13-4505b0f94403.FPKM-UQ.txt.gz,5f94c33f-588b-4b6a-9c13-4505b0f94403.FPKM.txt.gz	1
+	63294b99-6ab0-4d56-9cef-a3f09ccc7186.htseq.counts.gz,63294b99-6ab0-4d56-9cef-a3f09ccc7186.FPKM.txt.gz,63294b99-6ab0-4d56-9cef-a3f09ccc7186.FPKM-UQ.txt.gz	1
+	65989e95-b9e2-4972-b75b-ea22969d59cb.htseq.counts.gz,65989e95-b9e2-4972-b75b-ea22969d59cb.FPKM-UQ.txt.gz,65989e95-b9e2-4972-b75b-ea22969d59cb.FPKM.txt.gz	1
+	67371e85-cdad-4b17-ad23-19ef39fdc2c6.FPKM-UQ.txt.gz,67371e85-cdad-4b17-ad23-19ef39fdc2c6.htseq.counts.gz,67371e85-cdad-4b17-ad23-19ef39fdc2c6.FPKM.txt.gz	1
+	6892a129-ae07-49df-a018-30c63c4d3bd7.htseq.counts.gz,6892a129-ae07-49df-a018-30c63c4d3bd7.FPKM-UQ.txt.gz,6892a129-ae07-49df-a018-30c63c4d3bd7.FPKM.txt.gz	1
+	6cd9b90b-0c6c-44bd-8536-5a93553a7730.FPKM.txt.gz,6cd9b90b-0c6c-44bd-8536-5a93553a7730.htseq.counts.gz,6cd9b90b-0c6c-44bd-8536-5a93553a7730.FPKM-UQ.txt.gz	1
+	6e146a57-21b2-4587-b888-01ed03ea9498.htseq.counts.gz,6e146a57-21b2-4587-b888-01ed03ea9498.FPKM-UQ.txt.gz,6e146a57-21b2-4587-b888-01ed03ea9498.FPKM.txt.gz	1
+	7a3a131b-883d-4f82-8b3b-ede7733f68d8.htseq.counts.gz,7a3a131b-883d-4f82-8b3b-ede7733f68d8.FPKM.txt.gz,7a3a131b-883d-4f82-8b3b-ede7733f68d8.FPKM-UQ.txt.gz	1
+	7bb9e61e-2d41-4503-9751-009a9da74206.htseq.counts.gz,7bb9e61e-2d41-4503-9751-009a9da74206.FPKM.txt.gz,7bb9e61e-2d41-4503-9751-009a9da74206.FPKM-UQ.txt.gz	1
+	81aa1c27-94c7-4898-b69c-77d81c63fb37.htseq.counts.gz,81aa1c27-94c7-4898-b69c-77d81c63fb37.FPKM.txt.gz,81aa1c27-94c7-4898-b69c-77d81c63fb37.FPKM-UQ.txt.gz	1
+	84e37eb7-3a48-4115-803a-481080a0a4f9.FPKM.txt.gz,84e37eb7-3a48-4115-803a-481080a0a4f9.FPKM-UQ.txt.gz,84e37eb7-3a48-4115-803a-481080a0a4f9.htseq.counts.gz	1
+	8bf84ab0-7a48-4d98-bfc0-88537003ecd0.htseq.counts.gz,8bf84ab0-7a48-4d98-bfc0-88537003ecd0.FPKM-UQ.txt.gz,8bf84ab0-7a48-4d98-bfc0-88537003ecd0.FPKM.txt.gz	1
+	90e6d83e-fb1b-44e9-8180-8c449c3de211.FPKM-UQ.txt.gz,90e6d83e-fb1b-44e9-8180-8c449c3de211.FPKM.txt.gz,90e6d83e-fb1b-44e9-8180-8c449c3de211.htseq.counts.gz	1
+	9abf327b-d44f-435d-986d-09107bcd2643.htseq.counts.gz,9abf327b-d44f-435d-986d-09107bcd2643.FPKM.txt.gz,9abf327b-d44f-435d-986d-09107bcd2643.FPKM-UQ.txt.gz	1
+	a9123cf0-c6c0-42e7-b546-f11dfac355ce.FPKM.txt.gz,a9123cf0-c6c0-42e7-b546-f11dfac355ce.htseq.counts.gz,a9123cf0-c6c0-42e7-b546-f11dfac355ce.FPKM-UQ.txt.gz	1
+	b275a5d0-b9fe-4838-adb0-34db16a246af.htseq.counts.gz,b275a5d0-b9fe-4838-adb0-34db16a246af.FPKM-UQ.txt.gz,b275a5d0-b9fe-4838-adb0-34db16a246af.FPKM.txt.gz	1
+	ba17648f-b788-458a-a78c-2bb20970d94b.FPKM-UQ.txt.gz,ba17648f-b788-458a-a78c-2bb20970d94b.htseq.counts.gz,ba17648f-b788-458a-a78c-2bb20970d94b.FPKM.txt.gz	1
+	bc4f3a78-39a4-4a92-ad83-df251c5bf994.htseq.counts.gz,bc4f3a78-39a4-4a92-ad83-df251c5bf994.FPKM-UQ.txt.gz,bc4f3a78-39a4-4a92-ad83-df251c5bf994.FPKM.txt.gz	1
+	c57dcbfa-e011-42a6-ab36-2658a0f64370.FPKM-UQ.txt.gz,c57dcbfa-e011-42a6-ab36-2658a0f64370.FPKM.txt.gz,c57dcbfa-e011-42a6-ab36-2658a0f64370.htseq.counts.gz	1
+	cbb0232c-8d2d-4bc7-947f-738914fdaa3c.FPKM.txt.gz,cbb0232c-8d2d-4bc7-947f-738914fdaa3c.htseq.counts.gz,cbb0232c-8d2d-4bc7-947f-738914fdaa3c.FPKM-UQ.txt.gz	1
+	d0000779-67f0-46d6-9e09-546f32a80700.FPKM.txt.gz,d0000779-67f0-46d6-9e09-546f32a80700.htseq.counts.gz,d0000779-67f0-46d6-9e09-546f32a80700.FPKM-UQ.txt.gz	1
+	d2141823-4f44-42d5-ad67-08a28d31eb63.htseq.counts.gz,d2141823-4f44-42d5-ad67-08a28d31eb63.FPKM.txt.gz,d2141823-4f44-42d5-ad67-08a28d31eb63.FPKM-UQ.txt.gz	1
+	d630e09e-ba2b-48b2-a046-6e1b851ad630.FPKM.txt.gz,d630e09e-ba2b-48b2-a046-6e1b851ad630.htseq.counts.gz,d630e09e-ba2b-48b2-a046-6e1b851ad630.FPKM-UQ.txt.gz	1
+	db1aad6b-c984-4aa2-b6b3-63b3ba8c25cf.FPKM.txt.gz,db1aad6b-c984-4aa2-b6b3-63b3ba8c25cf.htseq.counts.gz,db1aad6b-c984-4aa2-b6b3-63b3ba8c25cf.FPKM-UQ.txt.gz	1
+	e53766a6-aff2-4785-a0d0-8dfdbe6d139a.htseq.counts.gz,e53766a6-aff2-4785-a0d0-8dfdbe6d139a.FPKM.txt.gz,e53766a6-aff2-4785-a0d0-8dfdbe6d139a.FPKM-UQ.txt.gz	1
+	e76fdeee-f996-4140-9dea-66794183e0ad.FPKM.txt.gz,e76fdeee-f996-4140-9dea-66794183e0ad.htseq.counts.gz,e76fdeee-f996-4140-9dea-66794183e0ad.FPKM-UQ.txt.gz	1
+	ec8fb205-0d42-4a66-b8ec-5bdd5da8a23b.FPKM.txt.gz,ec8fb205-0d42-4a66-b8ec-5bdd5da8a23b.htseq.counts.gz,ec8fb205-0d42-4a66-b8ec-5bdd5da8a23b.FPKM-UQ.txt.gz	1
+	ee9c5d88-69be-4863-9e80-95ebd10fe530.FPKM-UQ.txt.gz,ee9c5d88-69be-4863-9e80-95ebd10fe530.FPKM.txt.gz,ee9c5d88-69be-4863-9e80-95ebd10fe530.htseq.counts.gz	1
+	f254ad56-4768-4062-8e2c-e9442d64fb09.FPKM-UQ.txt.gz,f254ad56-4768-4062-8e2c-e9442d64fb09.htseq.counts.gz,f254ad56-4768-4062-8e2c-e9442d64fb09.FPKM.txt.gz	1
+	f43699d8-3acc-445d-8ab2-9475194ebbc9.htseq.counts.gz,f43699d8-3acc-445d-8ab2-9475194ebbc9.FPKM.txt.gz,f43699d8-3acc-445d-8ab2-9475194ebbc9.FPKM-UQ.txt.gz	1
+	fa7877bb-9e46-4ecb-8c47-501893ce2410.htseq.counts.gz,fa7877bb-9e46-4ecb-8c47-501893ce2410.FPKM.txt.gz,fa7877bb-9e46-4ecb-8c47-501893ce2410.FPKM-UQ.txt.gz	1
+	fe506b98-0733-43c9-943a-be9b12f1c2fb.FPKM-UQ.txt.gz,fe506b98-0733-43c9-943a-be9b12f1c2fb.FPKM.txt.gz,fe506b98-0733-43c9-943a-be9b12f1c2fb.htseq.counts.gz	1
+gdc__file_size
+	237232,458964,461221	1
+	238686,458092,459356	1
+	240100,466184,464959	1
+	240709,480398,479955	1
+	240809,469735,471433	1
+	241874,473946,472095	1
+	242542,477501,476189	1
+	242705,475111,476730	1
+	242717,472175,470843	1
+	243040,477882,476267	1
+	243340,477162,476044	1
+	243510,477231,478507	1
+	243538,482987,484786	1
+	244634,482232,483722	1
+	244999,483517,485540	1
+	245145,490657,488952	1
+	245607,490510,492000	1
+	246389,489662,488272	1
+	247152,496766,497560	1
+	247340,497162,498544	1
+	247930,497993,496413	1
+	248028,499064,500758	1
+	249218,502729,505038	1
+	444181,235996,444597	1
+	462067,239428,463812	1
+	463397,239188,462161	1
+	463410,240080,464746	1
+	465010,239512,463471	1
+	465122,240580,466904	1
+	465791,466967,241282	1
+	466111,238988,464278	1
+	468908,471159,240443	1
+	471364,240908,469865	1
+	475173,243091,474074	1
+	475876,241804,473655	1
+	477298,479287,242010	1
+	479005,242483,480452	1
+	480537,243891,482465	1
+	482741,481337,243257	1
+	482997,245041,483929	1
+	483553,244241,485026	1
+	484385,486177,244200	1
+	485166,243432,486807	1
+	485701,242771,487124	1
+	487700,489122,246229	1
+	488364,486773,245839	1
+	490406,488974,245792	1
+	491313,244299,489400	1
+	491450,246984,492777	1
+	492127,490004,245225	1
+gdc__input_files__data_category
+	Raw Sequencing Data	50
+gdc__input_files__data_format
+	BAM	50
+gdc__input_files__data_type
+	Aligned Reads	50
+gdc__input_files__experimental_strategy
+	RNA-Seq	50
+gdc__input_files__platform
+	Illumina	50
+gdc__md5sum
+	00bde31c3ed4ad5b5116f78a6471b78a,c9a054df616bd745f895037276d27874,246e64fd94490b6da79e3eac539881d6	1
+	0c2d0512a4be2f4af1deffb95764d3c8,f27e8c919c3ffe56a539a1f8c06c1f39,aa42ca696729765edc2e8ae89f224ad5	1
+	0d24f6d96763c98e32d5282da47da20f,da3409e89cc4775670882aa5d3bbd458,b0eb24e33ba1e2c89b0bcc272266ca2f	1
+	0dd1f92ce52d49a5e49f263688101a05,4e3003f65927c731aa85476e02c5d199,69511e96b7385e0b90d4ef3ae58a6916	1
+	15940f2dfb4717d390c31165851c0558,e02a8b3efce0f44d566425d36b05a02d,195c1b2289c6b3bc1c95febcef421de6	1
+	17496e123e94e11dcc272bdda3f571c2,baee448034635a90119b81042078ddf2,d5742d3ff427d24972ee93bcd572d031	1
+	19f29df7d8cde80eb06067a9cd79e56c,5080c6772e45ffff7c8a5c72359bde3e,e21db1a30a4480602151105fd3f0092f	1
+	1fa932ae7de6ab6d7b7142fb060d206a,e1a55a253e31633b68b483b1370d8e41,818dcb77a6b44f1193a800a5e64e2926	1
+	241b6ef65d3ebac8952f570e375cb632,d076acb2534872f10af8c893923c9a9b,bf82146b1529b2f340f16ca5c8d83844	1
+	2ec3b759fb3646fdd33d18a984b5afa9,f6690227d8365e6488a4fbf9b7ef7420,ed4b61ed77b420094206bc03016665ba	1
+	3537ee2b5450294f1c2c85a10965e505,e9b8be82256851dc4347aa3da27927b7,a2a7c7d41c940210c36159a939d44940	1
+	3611d6f35b3a059c9b16651bd81dd5de,8994c6235a60c89b610f02707bc7118f,04d1f0f48b86cd121eb70a743d37d71d	1
+	3a1700e035a2f7fe399650ba9bedda46,59265961e5115cb91d55f61491360f2e,aec1ec24a9c7030c5bc364b190685830	1
+	3f7799b99a3ff669c60361b5d9fdb8e6,bdc04c0fb5ad1d17d7b910f0e96ffae1,5f5faa51f7ff32c6bc1e14633490660f	1
+	4631e0ab993b92c134fe94f5e6b7477e,bea0875465373b4fba54b7fb4f954fd7,2bd82acf2de337344ce149ab9a1086b3	1
+	4f06460b6f46115fe0896d8decaecf9a,8000a07fc1e11b7ee669255c4f1b6ea2,6ae17158ab78a6248dd1aabdc649e23f	1
+	523caea1e7a9f75508c951999f171b8d,8de4af3c82eda6da050e1ba53eb44e46,a2e7f39e0152eeb67652cdc94734dee8	1
+	53290799ac516fd9a41817464e3ab0b9,b172eac6ae19a6d86c0d5adf5e7c8eb0,198695e311895e223474e658149d0718	1
+	5bd42004a9153afaa3186fa8053fd83b,4a179727249e9269e084e7faa4a7aa59,aca73a09999f863624f6528b99fed4cd	1
+	5bd990275cd898fea4e7752865394b23,333e7b2a89ef79aa1b16c9a3ff5342e0,016709d868d6250b6ca1b798526f4d97	1
+	604f907423ff669e803ee07fa6aa1b12,54b9e15a7676841e65232b03fc0c7f56,ad23f06e5db5af778712f4130da5d94b	1
+	6aa8a58fa0d729d5c587ab79791d743a,ac95d67d0f802273cf75965b8ad4fca8,b9b164aac1bc232479be0d51412a3173	1
+	7b1d993a9ad5a0ad808196acdf168d6a,25980853711860d0ad740abb511b81ce,209ac8861b838cb116435a3307947733	1
+	8294196a459d66872a2a614f018a3a10,6bab73f7b0be0be2133c80b68839ed2b,82398a3483b2f2d2bcd97f751ae3863c	1
+	8725d7f83d121acab1c23c719ce216b1,cd0ea38f4af03a5cdd0d4a441ad859cd,d9940ac4b8d59b0f29180f657a631592	1
+	8c8835cfc595387d15eddded756db4b7,53e5373bcf8f88b2359f3fee4bafb837,388e850630b48ebc307bb6dd7eff5167	1
+	8e46704f1a41e654f91da0a82d6e2fce,e0c2cfdce54e0ac2bc5a11f8acedddf7,fe4fd5f6b97c9cf488848df2c77e8cfd	1
+	9787f76fbf93fec6ce26b25d0d84360c,a33d93da70f78ab1d4cb5dc969fee6ae,42b446db2c832e8237e24a4c79e688f0	1
+	9df1ebc204d68ba1fe690ab052d09b71,34dbaa24469e2470f9412673674c994b,e16b4d5dbe0ecbe54bef0e6226140e7e	1
+	a4ec058a9ca763980c00815798e26284,aa558c91dbd45b4cecb89acf98f22549,8104ef3ac288a507d4b4756b9fd333ad	1
+	b197de1ff7dc563603b1b3de5a16b319,4236f0ecf8a7af278c015868ef48a762,42b6a8b4b5fe992d864a2303a9b9ed9b	1
+	b211ffca17d63cd607f04e2493d55ce1,556acd65630ca72ed5ed048d6921979d,ace37ead2e9181f8cb47623bd76fe3c0	1
+	b72b39517b46e756c02639dce38a8bc9,f831d1daa1c676e8239cd32cc4588367,daeb5a9d7c349c23fe76f6109124a5f1	1
+	c1567f726f0e6d1c8816f28018814f16,33007f17a44c55b9c686ed5c2a418fad,3129005ae543ae58c21af8b10bd3bc19	1
+	c9b680cb675f625575a83d99cd2c0240,5fe7672f00889feb15c2f29f97fd9a12,a8df2b79da12b82edc9b719f605c06d8	1
+	cebdb77cf6b0b43cf84bcff71cf4e5e7,31aabf37825518e00848589757bd4ee0,b895c6120be7b9ef5bdb0ac9a6683027	1
+	cf76c9f6dc5115d36b5441815e75ae3d,5e05bd033fa698402b2216dc04826052,4061504611c06c73509fee2c419b78ec	1
+	d8b54454212fbc0af77ef361733c9478,5a621b6fc391fb56ae24e09aced67bf7,72f3578584d3a960fa54f118fd9024f8	1
+	df983ce2d358ab63e163a113eff34163,0eb8d9f518ff275df7fb9cc4f0674008,74890e1613bf130cecc837671f344c05	1
+	e2f1d99effe2b09c1609cacf8cc236f9,2b08fb063c36627203bef7701e5bb694,baf9e731e8af903583b53fb8266d4677	1
+	e7323596e58cbd87c6d22f3388eafba3,680a247b62f96611a9a44d6035ca0145,8d207389c5b35f7f68e91d2e2bc796d2	1
+	ec5ee2c14cfcb0f854378af9df065fd0,de7a2d44758fd0289e791437df8e967f,7decfbbd36f0a72aa1e7b35245ad40d9	1
+	ee78e765985a2c876689318d769180d0,a500d22fe0ad0e4ac3a6e62cbe3abdaf,c566a1c501a87a874c5381174a289662	1
+	f4598f6a4e96cbcba51be42f4a859b0a,7538f05f2fa61f46caa32204855e8fdc,068922cad2e56a6c7f5a1d3bf39da2a2	1
+	f6fd8e977e4b627cc35fdfdec3eddd37,98640c4e1cb3bc3508f3a456e12475c4,0f127adb17eddc96348d94dc4340effd	1
+	f968d01b994bb183c7ce1296ba386bb5,058be0e24f02efd1bf8d319e2c73f3a4,ddadfb829732a25aa0b6338db859299c	1
+	fc708a9cf0dc69420808a6b04db07e7e,196e8ad592c181472fa25bc32de9f3d0,aaebc0af7a03f740949deaa09bcb7375	1
+	fcbe14267ce7d8703f1391d033000ce2,79024f6cbbd230c71ef065c7c9d284a8,c7aef0e36398174f6d843c7ba96a384a	1
+	fe77061eb7de9b5466fb3ffe44e2a0f0,1dff3ec7787cb0e84860988eff02d292,5bfcf565af4f386185075822468a0d7a	1
+	ff1cf18c47655f7e57976db75d07b29b,7447e07d3a6cbc1b9822fe03e37af692,c1bcc5bf2df2883291535876d2df028f	1
+gdc__portions__is_ffpe
+	false	50
+gdc__portions__portion_id
+	0066953e-b0e6-4f3c-93ca-d5ea4466634c	1
+	01cce7a4-9acd-47dd-ab32-5c415d60b2cb	1
+	0212d00a-2523-42c3-921b-1d27b1bb6e2b	1
+	102c29c1-a3c6-4fdf-bf12-e16f3f72eaf1	1
+	12cb9865-18a3-4fb2-829b-9b97e3a2022c	1
+	15cb84f0-3b97-4daa-97c6-ace17a9da770	1
+	18e0219b-931f-470a-9fd2-51b69bc1b808	1
+	1c8242ca-fbd4-4c14-944c-4660b651f79b	1
+	1db7c328-49c6-44d7-877e-513dee60ba2d	1
+	1dd80423-23ef-47d5-829e-730fb13db4d2	1
+	1ff0f220-97fa-41fe-a9a8-e34c0dd00229	1
+	257b6c9f-4b4c-4a3b-a854-883576526ef8	1
+	273c0623-bb4f-4b40-8cb6-c5f5e75ac780	1
+	289d4bb8-98ec-4086-814e-a813f6d8424d	1
+	36de1a7a-d4da-4151-9c5f-4928d5522a99	1
+	3b2eeafb-11fc-4f98-8750-59ad0f439907	1
+	3f8fbe8d-c3ad-40e6-9a08-c1eb0cd330e9	1
+	47343e98-4834-4662-b598-ff45c5d5fb6a	1
+	4bb9d57c-a214-49f9-8df8-5cee3fc293c2	1
+	4cdf063d-c1be-4252-9d24-211e1909a957	1
+	5b49946a-4def-46e3-a3cb-269ec82a1e18	1
+	60a9c7f0-b7bd-4458-8303-b0841149f2a3	1
+	65d08654-2f30-43d8-b8a4-8eeef4463709	1
+	6d2e3070-aaa5-4c1c-9d22-28d50a35230e	1
+	72de74d9-2b4f-4d57-9c04-a24847158069	1
+	7525b6ee-34c1-4099-8486-cc8c061d6b2e	1
+	758b0dec-533a-47ad-b67e-ead753f40aa1	1
+	7f9bad21-fe08-40fe-bb25-c978432ea0c1	1
+	8204ceed-6dfb-4beb-a426-7f516f3aa0da	1
+	8225c24a-4bd8-4ac7-9b1f-4c70af316e6d	1
+	8759bf7e-3b75-4fc0-93e1-a3af7fa3e9a4	1
+	89a14fd0-85ee-4adc-8c6f-f363b96fc7ec	1
+	92860296-26fd-4767-b8d3-6373be080745	1
+	9adf82ab-7b3e-4aea-b33c-4c5d45a98faa	1
+	a0a4922f-e689-41d3-91cb-b8e2c101d43b	1
+	a1504b4f-219c-427d-8da3-6655244b0d0e	1
+	a5521e26-4c6b-46da-b28e-ac49e176fc6b	1
+	aabc6293-4901-43b5-927c-74452cadf4b8	1
+	b585dc5e-e120-4293-af83-d7d51d5377e4	1
+	bbbe7991-cba9-4327-a218-c65c1c052493	1
+	ca1f7b54-683f-4f0f-a829-3acd9b16ec1d	1
+	ce36e2c3-0e9d-4142-a09b-5cb4d48f940d	1
+	ceadf104-26c1-4d2b-9f6e-7ad686a5b896	1
+	d209695a-09fe-49cc-bdb2-0cff89f1c9a1	1
+	d2d96ad4-a13e-4355-b497-6ca0eefc53bc	1
+	e416b493-db78-4b78-abd6-030e3fb36c36	1
+	ead64dd6-793c-4b1e-84ea-8d868b15616e	1
+	f413e27a-1ce9-4e36-9c8a-cc62b8a9e1af	1
+	f9e99447-febf-4cc5-be8d-dc0ad80d1b65	1
+	fd3fdd38-379f-4b06-ba22-d8f7bb4fafe5	1
+gdc__portions__portion_number
+	11	42
+	12	6
+	21	2
+gdc__portions__weight
+	10.0	2
+	20.0	1
+	30.0	47
+gdc__primary_site
+	Liver and intrahepatic bile ducts	50
+gdc__program__dbgap_accession_number
+	phs000178	50
+gdc__program__name
+	TCGA	50
+gdc__program__program_id
+	b80aa962-9650-5110-b3eb-bd087da808db	50
+gdc__project__disease_type
+	Liver Hepatocellular Carcinoma	50
+gdc__project__primary_site
+	Liver	50
+gdc__project__project_id
+	TCGA-LIHC	50
+gdc__project__releasable
+	false	50
+gdc__project__released
+	true	50
+gdc__samples__days_to_collection
+	1052	1
+	1386	1
+	1392	1
+	14	1
+	148	1
+	1521	1
+	1650	1
+	1703	1
+	1731	1
+	1764	1
+	1975	1
+	2030	1
+	2063	1
+	2184	1
+	2254	1
+	2555	1
+	2629	1
+	2652	1
+	2738	1
+	2854	1
+	2961	1
+	3080	1
+	3100	1
+	3208	1
+	3538	1
+	3645	1
+	3660	1
+	3708	1
+	3753	1
+	398	1
+	4180	1
+	4316	1
+	4397	1
+	4437	1
+	444	1
+	4705	1
+	4776	1
+	4962	1
+	5304	1
+	5538	1
+	5728	1
+	577	1
+	59	1
+	6014	1
+	70	1
+	76	1
+	909	1
+	91	1
+	926	1
+	933	1
+gdc__samples__initial_weight
+	1130.0	1
+	1140.0	1
+	120.0	2
+	130.0	1
+	140.0	2
+	160.0	5
+	1620.0	1
+	170.0	3
+	180.0	2
+	190.0	3
+	20.0	1
+	210.0	2
+	220.0	1
+	230.0	1
+	240.0	5
+	30.0	1
+	300.0	2
+	310.0	1
+	320.0	1
+	330.0	1
+	340.0	1
+	390.0	1
+	40.0	1
+	410.0	1
+	430.0	2
+	480.0	1
+	50.0	1
+	60.0	1
+	70.0	1
+	80.0	1
+	880.0	1
+	90.0	1
+gdc__samples__oct_embedded
+	false	37
+	true	13
+gdc__samples__sample_id
+	055e602f-5d95-432d-afcc-627f1f032464	1
+	0cfc44e7-7450-4815-ac7c-414003a7d6df	1
+	0e4ced27-5d8e-4c6f-bb6e-583d5ef4d5a1	1
+	1079b0a9-f74e-4d0a-bed0-22aad6ea64e2	1
+	118cbeed-8dee-4253-9850-f2ba7e589a0d	1
+	13576f15-4fba-4ea4-b682-32271d2768b5	1
+	1a528b30-2444-4d9f-a6d6-1c43a175cbba	1
+	1ea00561-3d1d-49d0-a3f7-d34eb8fec235	1
+	2378318c-5cf4-419f-ac5c-64d40cb7e753	1
+	2969dd04-f315-48ae-b92c-995bd3fc59c4	1
+	297d707f-df19-4e78-9008-b2f568068eb4	1
+	3811dc8f-a2bb-402f-a631-090773c27786	1
+	3e439275-1fcb-4bed-a34b-883baa5151e1	1
+	47e4251c-0035-411a-b2dc-ddbae8ee757a	1
+	48f02d39-0821-4a45-87a1-11349283e105	1
+	4b14715b-84e2-4ff9-9db6-998f42fe9fa8	1
+	50d807b1-a8cb-4299-a597-0d3f8dd98692	1
+	52bca35c-ecf3-4e3c-8e98-596622b4adfd	1
+	5d3bf988-3331-4412-bc17-b8f4650a8623	1
+	5e0097a1-7d93-48b7-aad7-5f6c7af55596	1
+	6049cd94-d7bf-4d5e-8f78-6aab65c58fa4	1
+	617875bb-9eaf-4436-ac52-7b23e526df90	1
+	6b915dde-b8ac-4cc6-839b-e226e914b499	1
+	7029f596-0988-4b9a-9c87-56fd5ce60ea2	1
+	708114ce-2aa0-48f9-a23f-780add9da784	1
+	723a470f-6855-409a-aad4-d6b933313239	1
+	759a494f-c699-4dd6-9553-45265c667dae	1
+	7da50944-297e-46ab-8e8e-20631c68d010	1
+	88af1e79-aa6c-46fb-b087-bb4ce8aeb1ad	1
+	8a77f4b1-8b1d-419b-8d1e-73bf2041303a	1
+	8c47698b-2797-4343-9a22-7f5094fddd72	1
+	91614e15-a2e1-4025-9974-7802db70a6f3	1
+	aa8d7157-7345-4255-84d4-c4b6747e3a72	1
+	b24629ef-b23a-4c2b-879c-6a8a2fd58973	1
+	b25d09df-dc59-4a79-8e1b-38e525232901	1
+	b3ddee9b-04d5-4fa3-94c1-754bcc2a0f5d	1
+	ba0e5d15-cdac-4fc0-97e7-ef81d921d5d4	1
+	bb746b3c-ef5d-405c-96c3-876207a965a2	1
+	bee5bcfe-cbfd-4cfc-8214-dc83f557c678	1
+	cf3e04fe-9fc4-4293-a7c0-b46510f590e9	1
+	d41b3e1e-885e-4e68-b6e7-d2ce582e9c2b	1
+	d746f333-a5dd-4464-a091-84e9cf9665b8	1
+	d9735f12-76c0-4f95-9ce5-91ca885862b4	1
+	d9fd7e08-27aa-4081-96fe-86b7ec06d3df	1
+	db3d6662-eebb-4396-93e3-b5f1022c90d2	1
+	dc9a2f36-3f59-4744-a2f8-f2017c16f3d9	1
+	e0fd6db2-23ce-44eb-87a2-1f8e3cee2d64	1
+	f070e7db-1215-4864-9293-c778f161ae68	1
+	f115356f-bccb-4718-9fd1-73bca239cbe4	1
+	f7b6ba23-4351-406d-a6a6-59bf8616184a	1
+gdc__samples__sample_type
+	Solid Tissue Normal	50
+gdc__samples__sample_type_id
+	11	50
+gdc__slides__percent_lymphocyte_infiltration
+	0.0	14
+	1.0	12
+	10.0	3
+	2.0	3
+	25.0	1
+	3.0	6
+	4.0	1
+	5.0	7
+	7.0	2
+	8.0	1
+gdc__slides__percent_monocyte_infiltration
+	0.0	40
+	1.0	8
+	2.0	1
+	3.0	1
+gdc__slides__percent_necrosis
+	0.0	50
+gdc__slides__percent_neutrophil_infiltration
+	0.0	46
+	1.0	4
+gdc__slides__percent_normal_cells
+	100.0	15
+	60.0	1
+	70.0	6
+	75.0	2
+	80.0	6
+	85.0	5
+	90.0	9
+	92.0	1
+	95.0	4
+	97.0	1
+gdc__slides__percent_stromal_cells
+	0.0	15
+	10.0	9
+	15.0	5
+	20.0	6
+	25.0	2
+	3.0	1
+	30.0	6
+	40.0	1
+	5.0	4
+	8.0	1
+gdc__slides__percent_tumor_cells
+	0.0	50
+gdc__slides__percent_tumor_nuclei
+	0.0	50
+gdc__slides__section_location
+	TOP	50
+gdc__slides__slide_id
+	08bd00bd-2b69-448f-80e9-fa0bae6b37ca	1
+	15941d99-f55b-494a-a730-da7d68792680	1
+	18d0f54b-8d7e-4c94-984b-30c6fe588133	1
+	2254cd96-238f-4ed6-8985-f7bde1e684d6	1
+	2364b1ce-6cd0-4687-a771-cadcbcb891bc	1
+	237aba64-5148-4d39-a977-09c07fc55108	1
+	2c007308-0cc7-48d8-b582-c9a68f5b0321	1
+	2d09dff9-be79-4ca8-b119-807b1742a179	1
+	40ca02b0-cbf2-40a0-9265-6765685b5818	1
+	459e75e9-20fe-4e3b-8a49-62ffe4d37991	1
+	4a81c1fe-c566-4a53-86eb-697d4c085815	1
+	4e77b15f-eb57-4cf6-ba54-d83725325708	1
+	53ae8fae-76c8-4df8-a7a4-d2d7341ad540	1
+	5c14418b-c934-43e6-ab38-c7c00e4bebb8	1
+	631ac2ee-22b2-4bae-b40e-32ad82d19758	1
+	6911c6d5-28f7-4d83-b77b-bdcab5fadd3d	1
+	6b3a2e2d-dee8-40c6-b4ab-a782e177dfe7	1
+	6c33ecbf-c190-4514-bef9-95144905f3b8	1
+	6e800183-4e67-4fbf-a07a-c1973dc5a18f	1
+	7221d4a1-8d53-47dc-986f-04f8bb9f7616	1
+	7488f30d-cd32-41cc-ad96-a87e1f180509	1
+	798c5c72-3162-4763-bdcb-d6662be615e2	1
+	7e6f0bbb-fc7e-42f7-9f85-063057b2f417	1
+	81c40b2f-1516-4800-b865-d30fc84d11f0	1
+	8fce413e-bd5d-487b-a3bd-9230a6f5348b	1
+	9b6a9496-d505-4bcf-96c5-72e2ff81c88d	1
+	a10e3fb3-3138-4be4-88c8-8c9caf6e93df	1
+	a3e3c6e7-764e-4735-8dfa-4b120742a6a9	1
+	a87e9d5c-c643-4cb6-be09-1dcf58b27a60	1
+	adaa8b6e-c7db-4eb9-a0ec-250f9ea9b96e	1
+	b1103028-122a-485a-b65b-25285dbca8e5	1
+	b5a50812-e525-4410-adb1-61e884b093ec	1
+	b6245994-3f7b-4b07-a587-27001dcdbed4	1
+	baf87ed8-d96c-481a-9d30-0a20a8b60803	1
+	bbf9b80b-e057-47b5-b54f-c6cbebe76221	1
+	bcd0de1f-cf1e-465e-ba64-c7ec2d4f4c62	1
+	c795fc59-9efa-439c-8a41-fa26dfc50163	1
+	c8fbc9d2-e344-4efd-91b6-bfa81cd5efee	1
+	cbeb048c-0334-4eb2-9cd8-b2aee00f519e	1
+	cd0068fc-d624-483b-bf49-6c79b1fa1a68	1
+	da5246f5-24b2-4e7c-8136-d88bf848737c	1
+	de5ed1ec-9773-43f6-82cd-afbad634c52a	1
+	de8f9703-b70c-4c31-8f04-f8a2246737b9	1
+	e46f4279-8772-4cad-b234-5e2687d60acb	1
+	e84c8c07-e86d-406d-bf9d-96dde32b6ec7	1
+	e8579a62-faf0-4483-b94d-e11b0c8608e6	1
+	eea8d7d9-27a4-41f9-b501-9e3911187847	1
+	f37d6139-cd3f-4b74-a79b-f549b190affa	1
+	f5202ad9-cd74-4ec2-8330-0cba1af5258e	1
+	fe054099-7b44-4a87-84c3-00a0b421719e	1
+gdc__submitter_id
+	15a44c9d-7c84-4170-96a1-358dd796aa65_count,15a44c9d-7c84-4170-96a1-358dd796aa65_fpkm,15a44c9d-7c84-4170-96a1-358dd796aa65_uqfpkm	1
+	160aee04-df36-4e94-90c5-b01b2991ba48_fpkm,160aee04-df36-4e94-90c5-b01b2991ba48_uqfpkm,160aee04-df36-4e94-90c5-b01b2991ba48_count	1
+	1d86dc66-1a62-4cbc-9973-ae63ab754d6a_count,1d86dc66-1a62-4cbc-9973-ae63ab754d6a_fpkm,1d86dc66-1a62-4cbc-9973-ae63ab754d6a_uqfpkm	1
+	2b8bf629-3c22-4dcb-a9a5-ec01c5099167_uqfpkm,2b8bf629-3c22-4dcb-a9a5-ec01c5099167_count,2b8bf629-3c22-4dcb-a9a5-ec01c5099167_fpkm	1
+	2cc2e3ce-68cd-4690-9fff-5ecf86c2f57a_count,2cc2e3ce-68cd-4690-9fff-5ecf86c2f57a_fpkm,2cc2e3ce-68cd-4690-9fff-5ecf86c2f57a_uqfpkm	1
+	2d40e20c-bee4-48f2-a8b0-cdf8dff75dc3_count,2d40e20c-bee4-48f2-a8b0-cdf8dff75dc3_uqfpkm,2d40e20c-bee4-48f2-a8b0-cdf8dff75dc3_fpkm	1
+	31b85c24-5bb4-4886-9870-406bbefa7a80_fpkm,31b85c24-5bb4-4886-9870-406bbefa7a80_count,31b85c24-5bb4-4886-9870-406bbefa7a80_uqfpkm	1
+	323f9334-d360-4bb5-925c-8750bd1b20d2_uqfpkm,323f9334-d360-4bb5-925c-8750bd1b20d2_count,323f9334-d360-4bb5-925c-8750bd1b20d2_fpkm	1
+	358f2893-02b2-4d36-9c76-b818c28b6027_fpkm,358f2893-02b2-4d36-9c76-b818c28b6027_uqfpkm,358f2893-02b2-4d36-9c76-b818c28b6027_count	1
+	38ed53de-d5bc-4c94-8f5d-c2b8e8e65782_uqfpkm,38ed53de-d5bc-4c94-8f5d-c2b8e8e65782_count,38ed53de-d5bc-4c94-8f5d-c2b8e8e65782_fpkm	1
+	481e95c0-3a19-48fe-a119-3245ffe4f83f_uqfpkm,481e95c0-3a19-48fe-a119-3245ffe4f83f_count,481e95c0-3a19-48fe-a119-3245ffe4f83f_fpkm	1
+	491e50ed-21d3-4dc6-ae6c-e56f94e22ca4_fpkm,491e50ed-21d3-4dc6-ae6c-e56f94e22ca4_uqfpkm,491e50ed-21d3-4dc6-ae6c-e56f94e22ca4_count	1
+	49c3a507-5de7-454e-a5e0-38ee916449f8_count,49c3a507-5de7-454e-a5e0-38ee916449f8_uqfpkm,49c3a507-5de7-454e-a5e0-38ee916449f8_fpkm	1
+	4d3842d1-c643-4659-98e9-8d613144fa91_count,4d3842d1-c643-4659-98e9-8d613144fa91_uqfpkm,4d3842d1-c643-4659-98e9-8d613144fa91_fpkm	1
+	53735683-e9b2-4745-809d-5cba358f5b41_fpkm,53735683-e9b2-4745-809d-5cba358f5b41_uqfpkm,53735683-e9b2-4745-809d-5cba358f5b41_count	1
+	5745ce68-bb15-4d52-9132-4b4f6241af73_count,5745ce68-bb15-4d52-9132-4b4f6241af73_fpkm,5745ce68-bb15-4d52-9132-4b4f6241af73_uqfpkm	1
+	576fda32-4e0c-414d-b54c-259f2503fc11_fpkm,576fda32-4e0c-414d-b54c-259f2503fc11_count,576fda32-4e0c-414d-b54c-259f2503fc11_uqfpkm	1
+	58957ce0-4efa-4194-a3e6-37984ac010c7_fpkm,58957ce0-4efa-4194-a3e6-37984ac010c7_count,58957ce0-4efa-4194-a3e6-37984ac010c7_uqfpkm	1
+	5f94c33f-588b-4b6a-9c13-4505b0f94403_count,5f94c33f-588b-4b6a-9c13-4505b0f94403_uqfpkm,5f94c33f-588b-4b6a-9c13-4505b0f94403_fpkm	1
+	63294b99-6ab0-4d56-9cef-a3f09ccc7186_count,63294b99-6ab0-4d56-9cef-a3f09ccc7186_fpkm,63294b99-6ab0-4d56-9cef-a3f09ccc7186_uqfpkm	1
+	65989e95-b9e2-4972-b75b-ea22969d59cb_count,65989e95-b9e2-4972-b75b-ea22969d59cb_uqfpkm,65989e95-b9e2-4972-b75b-ea22969d59cb_fpkm	1
+	67371e85-cdad-4b17-ad23-19ef39fdc2c6_uqfpkm,67371e85-cdad-4b17-ad23-19ef39fdc2c6_count,67371e85-cdad-4b17-ad23-19ef39fdc2c6_fpkm	1
+	6892a129-ae07-49df-a018-30c63c4d3bd7_count,6892a129-ae07-49df-a018-30c63c4d3bd7_uqfpkm,6892a129-ae07-49df-a018-30c63c4d3bd7_fpkm	1
+	6cd9b90b-0c6c-44bd-8536-5a93553a7730_fpkm,6cd9b90b-0c6c-44bd-8536-5a93553a7730_count,6cd9b90b-0c6c-44bd-8536-5a93553a7730_uqfpkm	1
+	6e146a57-21b2-4587-b888-01ed03ea9498_count,6e146a57-21b2-4587-b888-01ed03ea9498_uqfpkm,6e146a57-21b2-4587-b888-01ed03ea9498_fpkm	1
+	7a3a131b-883d-4f82-8b3b-ede7733f68d8_count,7a3a131b-883d-4f82-8b3b-ede7733f68d8_fpkm,7a3a131b-883d-4f82-8b3b-ede7733f68d8_uqfpkm	1
+	7bb9e61e-2d41-4503-9751-009a9da74206_count,7bb9e61e-2d41-4503-9751-009a9da74206_fpkm,7bb9e61e-2d41-4503-9751-009a9da74206_uqfpkm	1
+	81aa1c27-94c7-4898-b69c-77d81c63fb37_count,81aa1c27-94c7-4898-b69c-77d81c63fb37_fpkm,81aa1c27-94c7-4898-b69c-77d81c63fb37_uqfpkm	1
+	84e37eb7-3a48-4115-803a-481080a0a4f9_fpkm,84e37eb7-3a48-4115-803a-481080a0a4f9_uqfpkm,84e37eb7-3a48-4115-803a-481080a0a4f9_count	1
+	8bf84ab0-7a48-4d98-bfc0-88537003ecd0_count,8bf84ab0-7a48-4d98-bfc0-88537003ecd0_uqfpkm,8bf84ab0-7a48-4d98-bfc0-88537003ecd0_fpkm	1
+	90e6d83e-fb1b-44e9-8180-8c449c3de211_uqfpkm,90e6d83e-fb1b-44e9-8180-8c449c3de211_fpkm,90e6d83e-fb1b-44e9-8180-8c449c3de211_count	1
+	9abf327b-d44f-435d-986d-09107bcd2643_count,9abf327b-d44f-435d-986d-09107bcd2643_fpkm,9abf327b-d44f-435d-986d-09107bcd2643_uqfpkm	1
+	a9123cf0-c6c0-42e7-b546-f11dfac355ce_fpkm,a9123cf0-c6c0-42e7-b546-f11dfac355ce_count,a9123cf0-c6c0-42e7-b546-f11dfac355ce_uqfpkm	1
+	b275a5d0-b9fe-4838-adb0-34db16a246af_count,b275a5d0-b9fe-4838-adb0-34db16a246af_uqfpkm,b275a5d0-b9fe-4838-adb0-34db16a246af_fpkm	1
+	ba17648f-b788-458a-a78c-2bb20970d94b_uqfpkm,ba17648f-b788-458a-a78c-2bb20970d94b_count,ba17648f-b788-458a-a78c-2bb20970d94b_fpkm	1
+	bc4f3a78-39a4-4a92-ad83-df251c5bf994_count,bc4f3a78-39a4-4a92-ad83-df251c5bf994_uqfpkm,bc4f3a78-39a4-4a92-ad83-df251c5bf994_fpkm	1
+	c57dcbfa-e011-42a6-ab36-2658a0f64370_uqfpkm,c57dcbfa-e011-42a6-ab36-2658a0f64370_fpkm,c57dcbfa-e011-42a6-ab36-2658a0f64370_count	1
+	cbb0232c-8d2d-4bc7-947f-738914fdaa3c_fpkm,cbb0232c-8d2d-4bc7-947f-738914fdaa3c_count,cbb0232c-8d2d-4bc7-947f-738914fdaa3c_uqfpkm	1
+	d0000779-67f0-46d6-9e09-546f32a80700_fpkm,d0000779-67f0-46d6-9e09-546f32a80700_count,d0000779-67f0-46d6-9e09-546f32a80700_uqfpkm	1
+	d2141823-4f44-42d5-ad67-08a28d31eb63_count,d2141823-4f44-42d5-ad67-08a28d31eb63_fpkm,d2141823-4f44-42d5-ad67-08a28d31eb63_uqfpkm	1
+	d630e09e-ba2b-48b2-a046-6e1b851ad630_fpkm,d630e09e-ba2b-48b2-a046-6e1b851ad630_count,d630e09e-ba2b-48b2-a046-6e1b851ad630_uqfpkm	1
+	db1aad6b-c984-4aa2-b6b3-63b3ba8c25cf_fpkm,db1aad6b-c984-4aa2-b6b3-63b3ba8c25cf_count,db1aad6b-c984-4aa2-b6b3-63b3ba8c25cf_uqfpkm	1
+	e53766a6-aff2-4785-a0d0-8dfdbe6d139a_count,e53766a6-aff2-4785-a0d0-8dfdbe6d139a_fpkm,e53766a6-aff2-4785-a0d0-8dfdbe6d139a_uqfpkm	1
+	e76fdeee-f996-4140-9dea-66794183e0ad_fpkm,e76fdeee-f996-4140-9dea-66794183e0ad_count,e76fdeee-f996-4140-9dea-66794183e0ad_uqfpkm	1
+	ec8fb205-0d42-4a66-b8ec-5bdd5da8a23b_fpkm,ec8fb205-0d42-4a66-b8ec-5bdd5da8a23b_count,ec8fb205-0d42-4a66-b8ec-5bdd5da8a23b_uqfpkm	1
+	ee9c5d88-69be-4863-9e80-95ebd10fe530_uqfpkm,ee9c5d88-69be-4863-9e80-95ebd10fe530_fpkm,ee9c5d88-69be-4863-9e80-95ebd10fe530_count	1
+	f254ad56-4768-4062-8e2c-e9442d64fb09_uqfpkm,f254ad56-4768-4062-8e2c-e9442d64fb09_count,f254ad56-4768-4062-8e2c-e9442d64fb09_fpkm	1
+	f43699d8-3acc-445d-8ab2-9475194ebbc9_count,f43699d8-3acc-445d-8ab2-9475194ebbc9_fpkm,f43699d8-3acc-445d-8ab2-9475194ebbc9_uqfpkm	1
+	fa7877bb-9e46-4ecb-8c47-501893ce2410_count,fa7877bb-9e46-4ecb-8c47-501893ce2410_fpkm,fa7877bb-9e46-4ecb-8c47-501893ce2410_uqfpkm	1
+	fe506b98-0733-43c9-943a-be9b12f1c2fb_uqfpkm,fe506b98-0733-43c9-943a-be9b12f1c2fb_fpkm,fe506b98-0733-43c9-943a-be9b12f1c2fb_count	1
+gdc__tissue_source_site__bcr_id
+	NCH	50
+gdc__tissue_source_site__code
+	BC	10
+	BD	2
+	DD	28
+	EP	3
+	ES	1
+	FV	5
+	G3	1
+gdc__tissue_source_site__name
+	Alberta Health Services	1
+	Christiana Healthcare	3
+	International Genomics Consortium	5
+	Mayo Clinic - Rochester	28
+	UNC	10
+	University of Florida	1
+	University of Pittsburgh	2
+gdc__tissue_source_site__tissue_source_site_id
+	29bb87f7-7e08-54b6-9bf8-b321a9926f80	1
+	735fda57-1a46-5afd-a1c0-99af9115c0af	10
+	86f2ecb2-6c8a-51da-943d-4acb6d72576d	2
+	98428b7d-30e7-5283-b22d-450c17717d09	5
+	addd7b04-91a3-5179-99a5-cbff20df6bb4	1
+	c2eb5c30-93cc-5a99-b9e4-f676e35ed7f8	28
+	dbcb7cb8-b22c-5a78-9d41-b93e7eb08f05	3
+gdc__treatments__treatment_id
+	07969d69-fdd5-57e2-8fa1-88bcbf5329ef	1
+	08db6312-9201-5583-a74b-4d2de4bd4a12	1
+	0adb4177-d2bd-5424-8265-cb55fd54d181	1
+	0b306b4e-2d9f-5afb-bf41-c0c766add590	1
+	0c6b43df-dc04-5911-b332-f93bb65f9033	1
+	0daad81b-336e-5a44-9d3b-06de833bb922	1
+	0e12e16a-26cb-5e60-9c10-a1d6cb790835	1
+	0e47ee6f-8c69-533d-b353-950707df1beb	1
+	111ffd20-041c-55e6-aa1c-f91c980a3dde	1
+	139cc8d8-a15c-5dd1-b748-1fcb553a93bc	1
+	14b781f8-693f-5dfb-b8f8-ab36bc298115	1
+	2208c7b6-c873-5343-b032-3ec71b9c5678	1
+	29c8bab7-c749-525c-bfca-6a78513a2a38	1
+	2a67254d-799c-5ee3-888b-a94a2d7e25e8	1
+	33576c92-165e-577c-bb0d-2fc2ad6b163d	1
+	37b16fdb-a34c-5118-a19a-2e7aaee0a907	1
+	3b1f506e-b45f-51a6-93ce-81c1b56520c0	1
+	3c88b7c6-5a66-5208-a63a-772cdb17d7a9	1
+	43f9345b-7292-5ae8-b845-058559c8b552	1
+	47b407a1-18eb-5505-b45f-0ccf1a6bbe10	1
+	4e6e64ff-7899-594e-b4bd-a8530a3eb001	1
+	56bd90cc-9bfb-57fc-8950-e858523aabb7	1
+	5c94c953-a5e4-5236-8451-963da8869e50	1
+	6b9076cc-5c08-5fa6-af8a-aa5280add163	1
+	8f281926-ea8f-552c-bdd2-5be8ab9604d8	1
+	96b8deb2-528f-548e-802b-35bfa7ee06fc	1
+	9b33ca58-cb03-5830-befe-59d6294d30e2	1
+	9ce3806d-9bb0-568c-90af-7a567b000301	1
+	a2de1238-94b5-5d52-8181-80bdcc58079f	1
+	a958aa64-dd4d-5a52-86f7-8737054ee861	1
+	ac6b67a0-6c22-5cc6-abcf-45286d3c78d3	1
+	b07ac05e-d44a-590f-b9df-06141eb194c2	1
+	b6c5c4dd-1297-5411-a868-a52f0f6e5d0a	1
+	ba00b738-75a1-582d-a257-92af67d21cc6	1
+	ba842480-3ef3-5544-b3f4-6dbda2c440ce	1
+	bb893238-0303-5d04-881b-78667891847d	1
+	c0b9c23f-7323-5e0d-993c-a5cac4f6e6ca	1
+	c6950321-e76b-5549-abc5-e7154dde561e	1
+	c8734913-6072-5814-8106-4c5aa436bafc	1
+	dd54ffb7-b816-53ce-a9bd-f767f245ba95	1
+	e898b5c8-acba-5e06-bad8-6ca6db03ac44	1
+	eb96e3e2-a930-5945-9c10-0d75aa9be49e	1
+	f44ad2d1-7794-5942-9e06-239049fca86a	1
+	f542dc46-8865-5c98-b14b-a0023c3d6b22	1
+	f6811cde-dd6d-54f1-9a1d-ab1adc193bfb	1
+	f80a1377-df50-5e86-ab3c-a9ee271a388b	1
+	f84bf328-9e82-57c1-9f91-0136dcd101c1	1
+	f9d9cd5a-71ca-5f74-9510-d6b65aa9dde0	1
+	fc18cfe5-ba14-52a8-a8d8-2fb296c85365	1
+	fc2fd4d1-6729-53fa-b628-a5f0526a77b6	1
+gdc__type
+	gene_expression	50
+gdc__updated_datetime
+	2018-09-08T13:43:34.032262+00:00	50
+manually_curated__data_format
+	BED	50
+manually_curated__download_date
+	2018-11-06T08:04:52.779+01:00	1
+	2018-11-06T08:04:53.799+01:00	1
+	2018-11-06T08:05:16.505+01:00	1
+	2018-11-06T08:05:26.778+01:00	1
+	2018-11-06T08:05:29.789+01:00	1
+	2018-11-06T08:05:36.215+01:00	1
+	2018-11-06T08:05:38.333+01:00	1
+	2018-11-06T08:05:49.828+01:00	1
+	2018-11-06T08:06:15.740+01:00	1
+	2018-11-06T08:06:33.127+01:00	1
+	2018-11-06T08:06:51.626+01:00	1
+	2018-11-06T08:06:54.730+01:00	1
+	2018-11-06T08:07:01.029+01:00	1
+	2018-11-06T08:07:13.451+01:00	1
+	2018-11-06T08:07:19.495+01:00	1
+	2018-11-06T08:07:21.587+01:00	1
+	2018-11-06T08:07:25.631+01:00	1
+	2018-11-06T08:07:36.125+01:00	1
+	2018-11-06T08:07:38.206+01:00	1
+	2018-11-06T08:07:45.341+01:00	1
+	2018-11-06T08:08:01.749+01:00	1
+	2018-11-06T08:08:06.993+01:00	1
+	2018-11-06T08:08:15.287+01:00	1
+	2018-11-06T08:08:26.554+01:00	1
+	2018-11-06T08:08:56.536+01:00	1
+	2018-11-06T08:08:57.612+01:00	1
+	2018-11-06T08:09:04.750+01:00	1
+	2018-11-06T08:09:17.169+01:00	1
+	2018-11-06T08:09:27.677+01:00	1
+	2018-11-06T08:09:34.927+01:00	1
+	2018-11-06T08:09:45.321+01:00	1
+	2018-11-06T08:10:06.781+01:00	1
+	2018-11-06T08:10:08.780+01:00	1
+	2018-11-06T08:10:09.756+01:00	1
+	2018-11-06T08:10:11.891+01:00	1
+	2018-11-06T08:10:34.746+01:00	1
+	2018-11-06T08:10:37.785+01:00	1
+	2018-11-06T08:10:53.345+01:00	1
+	2018-11-06T08:10:55.427+01:00	1
+	2018-11-06T08:10:59.621+01:00	1
+	2018-11-06T08:11:03.740+01:00	1
+	2018-11-06T08:11:04.692+01:00	1
+	2018-11-06T08:11:18.228+01:00	1
+	2018-11-06T08:11:19.276+01:00	1
+	2018-11-06T08:11:35.634+01:00	1
+	2018-11-06T08:11:38.797+01:00	1
+	2018-11-06T08:11:47.079+01:00	1
+	2018-11-06T08:11:50.226+01:00	1
+	2018-11-06T08:11:55.225+01:00	1
+	2018-11-06T08:11:57.292+01:00	1
+manually_curated__exp_data_bed_url
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/07401514-29ef-43a8-8a7f-a4e147852470-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/07653b81-7194-4348-8ef9-1a7660c95376-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/13d4c229-cf05-4fca-a52d-798dc7894ba1-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/196f7a32-4d09-4e8b-9aa4-7964baf951d7-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/1c2972fc-456c-4567-be96-bde9d39a0b76-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/1ec66ae2-e78a-4eb8-891a-7f8b6b061dca-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/1f1a8329-397c-4ec8-a7cc-46ec9c48fa42-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/2436079d-3e40-4c50-9f99-85d4a8c2ddac-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/3497c0d8-c7b0-43ca-92a2-30ea6cd61bde-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/3e1411dc-8c6d-4a87-bb4f-44ef5ff8761b-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/469f052a-477e-498a-ba3b-f288dcbc306f-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/485b184d-15f1-4858-9e06-330d5258cfff-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/4d49b039-f1fa-4892-8439-4155e72dd7c5-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/5573955b-f0ec-4cfe-ad02-4f9f91693770-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/58067780-a21b-4eeb-b061-caef50ea0650-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/5a1a1f96-bf4f-415d-b2a2-4481a72914cf-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/5b37433a-6415-497f-bf36-0f0b5c2ad21e-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/608bf540-a094-441e-9329-9e759ff5d84d-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/61fcdecf-52ca-465a-b8f1-262b6540117f-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/66811a13-8463-429b-87ae-298455ee961a-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/6d9b3d3a-2dd0-477e-aaf2-504ecd6c3de3-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/6fca2b4e-2aa2-42bb-9991-b0a69e6155cd-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/78eb93c7-0300-4f16-ab32-7489715e3353-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/809db606-7929-48aa-ae6b-c2c9597a31c7-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/8e48cff2-5edd-4ce6-9531-5dc594ae78ff-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/8e70d12c-38fd-4da2-ad1e-b7f860959aa2-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/92462e76-eed1-4eab-8c38-4cf9897be417-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/9815693f-418d-4517-9a7e-5c708c157b0c-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/9e3df1b0-dba1-4423-976e-99aab5b7d5e2-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/a3eef529-ed7d-438c-b0be-ce569a846a8f-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/ac77b52b-6f6c-41ec-b998-6d23250d0516-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/b706b36a-2bcf-405c-aa18-30cbb54fac73-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/b80a257d-9c8b-4c49-87bc-30f74ff9cd3e-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/b8e62048-d0a6-4b0f-8e57-e406b783f698-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/ba72262f-9361-4d4c-8fa0-cc44e26320f6-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/c6842e1d-4f63-458c-9287-0326c03a69c9-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/c8de0c98-c69a-44a1-bdf7-e6c731359aac-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/ce3a2fa7-905e-491d-ade0-c8d5712c4afa-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/cf95e020-748c-474d-baba-68ca888d2f4f-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/d3041275-6a41-4974-a082-9b261b65c81f-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/d5e3a3be-c4d9-41de-a39c-ae7aad3f3826-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/d5e600a3-d273-4879-ac33-1a72a02073e5-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/ddd83e9a-35cb-4539-8141-7557eccd3b34-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/dfeaa69b-72ec-4a2e-8f26-7c4d826a1aa0-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/e55a12d6-3ec4-4346-8849-cf7525fff740-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/e66b878f-0a33-4edf-ba17-e0ec9f41e589-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/edcc32ad-1375-4502-822e-defcea52b943-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/f099f7fb-f07a-4529-83dc-e7023c52a999-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/f847f8c8-7a39-4327-ad12-3aac2c331be8-geq.bed	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/fbeec4cf-0ad3-4e9e-bfc1-d112b1e51b3a-geq.bed	1
+manually_curated__exp_metadata_url
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/07401514-29ef-43a8-8a7f-a4e147852470-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/07653b81-7194-4348-8ef9-1a7660c95376-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/13d4c229-cf05-4fca-a52d-798dc7894ba1-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/196f7a32-4d09-4e8b-9aa4-7964baf951d7-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/1c2972fc-456c-4567-be96-bde9d39a0b76-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/1ec66ae2-e78a-4eb8-891a-7f8b6b061dca-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/1f1a8329-397c-4ec8-a7cc-46ec9c48fa42-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/2436079d-3e40-4c50-9f99-85d4a8c2ddac-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/3497c0d8-c7b0-43ca-92a2-30ea6cd61bde-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/3e1411dc-8c6d-4a87-bb4f-44ef5ff8761b-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/469f052a-477e-498a-ba3b-f288dcbc306f-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/485b184d-15f1-4858-9e06-330d5258cfff-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/4d49b039-f1fa-4892-8439-4155e72dd7c5-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/5573955b-f0ec-4cfe-ad02-4f9f91693770-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/58067780-a21b-4eeb-b061-caef50ea0650-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/5a1a1f96-bf4f-415d-b2a2-4481a72914cf-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/5b37433a-6415-497f-bf36-0f0b5c2ad21e-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/608bf540-a094-441e-9329-9e759ff5d84d-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/61fcdecf-52ca-465a-b8f1-262b6540117f-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/66811a13-8463-429b-87ae-298455ee961a-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/6d9b3d3a-2dd0-477e-aaf2-504ecd6c3de3-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/6fca2b4e-2aa2-42bb-9991-b0a69e6155cd-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/78eb93c7-0300-4f16-ab32-7489715e3353-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/809db606-7929-48aa-ae6b-c2c9597a31c7-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/8e48cff2-5edd-4ce6-9531-5dc594ae78ff-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/8e70d12c-38fd-4da2-ad1e-b7f860959aa2-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/92462e76-eed1-4eab-8c38-4cf9897be417-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/9815693f-418d-4517-9a7e-5c708c157b0c-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/9e3df1b0-dba1-4423-976e-99aab5b7d5e2-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/a3eef529-ed7d-438c-b0be-ce569a846a8f-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/ac77b52b-6f6c-41ec-b998-6d23250d0516-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/b706b36a-2bcf-405c-aa18-30cbb54fac73-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/b80a257d-9c8b-4c49-87bc-30f74ff9cd3e-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/b8e62048-d0a6-4b0f-8e57-e406b783f698-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/ba72262f-9361-4d4c-8fa0-cc44e26320f6-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/c6842e1d-4f63-458c-9287-0326c03a69c9-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/c8de0c98-c69a-44a1-bdf7-e6c731359aac-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/ce3a2fa7-905e-491d-ade0-c8d5712c4afa-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/cf95e020-748c-474d-baba-68ca888d2f4f-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/d3041275-6a41-4974-a082-9b261b65c81f-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/d5e3a3be-c4d9-41de-a39c-ae7aad3f3826-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/d5e600a3-d273-4879-ac33-1a72a02073e5-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/ddd83e9a-35cb-4539-8141-7557eccd3b34-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/dfeaa69b-72ec-4a2e-8f26-7c4d826a1aa0-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/e55a12d6-3ec4-4346-8849-cf7525fff740-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/e66b878f-0a33-4edf-ba17-e0ec9f41e589-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/edcc32ad-1375-4502-822e-defcea52b943-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/f099f7fb-f07a-4529-83dc-e7023c52a999-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/f847f8c8-7a39-4327-ad12-3aac2c331be8-geq.bed.meta	1
+	ftp://bioinformatics.iasi.cnr.it/opengdc/bed/tcga/tcga-lihc/gene_expression_quantification/fbeec4cf-0ad3-4e9e-bfc1-d112b1e51b3a-geq.bed.meta	1
+manually_curated__genome_built
+	GRCh38	50
+manually_curated__local_file_size
+	4910393	1
+	4953376	1
+	4953528	1
+	4962831	1
+	4964053	1
+	4970030	1
+	4970175	1
+	4970525	1
+	4973376	1
+	4973850	1
+	4977772	1
+	4985447	1
+	4988697	1
+	4989694	1
+	4994652	1
+	4996820	1
+	5001532	1
+	5002814	1
+	5004660	1
+	5007564	1
+	5009262	1
+	5009528	1
+	5013374	1
+	5013616	1
+	5016703	1
+	5017274	1
+	5021118	1
+	5024457	1
+	5029089	1
+	5029514	1
+	5029715	1
+	5031191	1
+	5031984	1
+	5034266	1
+	5036887	1
+	5037068	1
+	5041254	1
+	5042304	1
+	5044863	1
+	5047127	1
+	5048881	1
+	5049642	1
+	5050621	1
+	5051206	1
+	5056943	1
+	5073138	1
+	5073158	1
+	5073955	1
+	5079357	1
+	5090970	1
+manually_curated__local_md5
+	12f0754494398cc4087916655b7ce751	1
+	13ef487fcfc4c88448bc978f89048c1a	1
+	140734e612808c2757d98bf6b9d66184	1
+	155312ae560165b64dd3a536430ea179	1
+	1811609c9e47f21287f298974ba2cb58	1
+	203e953c451a403c49e3a9994a1a6527	1
+	245f60daf1ce2dae237e4af57058ddcb	1
+	275b6b51c3ccd68b10db8bbc1bd7f2f1	1
+	2ef19beb5643e40f753cd9a21b8204bd	1
+	36cc23cf47a8dd7351b4d78d0f0ff486	1
+	37114fbb75be6676759169dac8ba5ac2	1
+	38bb5d6bab3bfeb7daa36cc35d82859a	1
+	3be00f141f29cf77f64c2f19f8c2b63f	1
+	405c4320a75d213ad7cc587f4df6a58c	1
+	453ae4a896e1ded80060b836d9ab9f99	1
+	4c0b2d2752f2372b1fd6ccdc37daf48b	1
+	4e70da17694328d5ea59de8128b4de4e	1
+	510b113141713f739c56fb09527d2715	1
+	521da0b0a350cbe521f187e7fee2c328	1
+	529b8a86b479217317a3891986077702	1
+	55a8096f413beeddbb96dd838d67a0b6	1
+	5871b6ef7e43c00cc1bff28675696061	1
+	6d399d7684f7154cb85fcc8b2bc0ef86	1
+	6d6c79e4d333a7d410c8c988a1140aab	1
+	6f5d5b496fcbc9d7bf9b8de06074c61f	1
+	721b904483a259ececd90f1b4f3eb063	1
+	78bc9a0d56fb4f8bb346942a789efb9a	1
+	7a818a480e1511317356676140b049ce	1
+	7ae3cb53d7ef7028c36ab9ad74081aea	1
+	80d570131ee7b78fa53c93846fbbf142	1
+	88caea3e6e4aa9a7cb5b84704f9861ca	1
+	932a5f7dde7f6ad766f4c2e31d248e5e	1
+	94b3a56826692959ca39f157df3ca055	1
+	95877b9591951510e71866d8c8451b05	1
+	97895bfc690e0aa6164897ec6ba55843	1
+	9a199f51bc0bf4e045109c82c6663999	1
+	a5b93cd2efdea3b2152efb9d95cc7b8c	1
+	b6ba7a9eddcfab5f1b71ed802e4bd9ce	1
+	bb6cca83346a97e006ee69d4ecd5e118	1
+	bfade33cb2c4878e7eb0b77721f9bc8b	1
+	c054f0103e30b750e4cc491bfb9d185f	1
+	d60fc9289e47657b57c5de35ed57dc42	1
+	de11c502f04170ec72739b616d438c9f	1
+	df7637a85aaa18b8a143d7e180471dd3	1
+	e1fcb2fdaefbdeeb5714986f8f21e77c	1
+	e2bf6d91c19e15a5aca36e70c21fb35c	1
+	e40c21fe84911aa6b2d9fc02eb1136f1	1
+	ed5e7b66981035da8b720d8b32aeb172	1
+	f0940b6fa01c51fd194fd3307846f8ba	1
+	fa4f0cb85a2bccef31aee30364ea4521	1
+manually_curated__opengdc_download_date
+	2018-10-15T16:18:18.000296+02:00	1
+	2018-10-15T16:18:26.000062+02:00	1
+	2018-10-15T16:18:38.000246+02:00	1
+	2018-10-15T16:18:52.000468+02:00	1
+	2018-10-15T16:19:26.000974+02:00	1
+	2018-10-15T16:19:27.000541+02:00	1
+	2018-10-15T16:19:38.000539+02:00	1
+	2018-10-15T16:19:42.000692+02:00	1
+	2018-10-15T16:19:55.000322+02:00	1
+	2018-10-15T16:20:02.000595+02:00	1
+	2018-10-15T16:20:08.000503+02:00	1
+	2018-10-15T16:20:11.000427+02:00	1
+	2018-10-15T16:20:17.000972+02:00	1
+	2018-10-15T16:20:38.000909+02:00	1
+	2018-10-15T16:20:45.000422+02:00	1
+	2018-10-15T16:20:48.000800+02:00	1
+	2018-10-15T16:21:10.000564+02:00	1
+	2018-10-15T16:21:19.000339+02:00	1
+	2018-10-15T16:21:26.000512+02:00	1
+	2018-10-15T16:21:27.000559+02:00	1
+	2018-10-15T16:21:49.000064+02:00	1
+	2018-10-15T16:22:15.000967+02:00	1
+	2018-10-15T16:22:22.000852+02:00	1
+	2018-10-15T16:22:45.000156+02:00	1
+	2018-10-15T16:23:12.000194+02:00	1
+	2018-10-15T16:23:21.000577+02:00	1
+	2018-10-15T16:24:33.000308+02:00	1
+	2018-10-15T16:24:50.000368+02:00	1
+	2018-10-15T16:25:05.000824+02:00	1
+	2018-10-15T16:25:20.000845+02:00	1
+	2018-10-15T16:25:29.000695+02:00	1
+	2018-10-15T16:25:50.000881+02:00	1
+	2018-10-15T16:26:17.000785+02:00	1
+	2018-10-15T16:26:52.000613+02:00	1
+	2018-10-15T16:27:00.000708+02:00	1
+	2018-10-15T16:27:27.000276+02:00	1
+	2018-10-15T16:27:41.000201+02:00	1
+	2018-10-15T16:27:41.000767+02:00	1
+	2018-10-15T16:28:00.000950+02:00	1
+	2018-10-15T16:28:26.000749+02:00	1
+	2018-10-15T16:28:27.000884+02:00	1
+	2018-10-15T16:28:37.000515+02:00	1
+	2018-10-15T16:28:46.000354+02:00	1
+	2018-10-15T16:29:01.000872+02:00	1
+	2018-10-15T16:29:16.000079+02:00	1
+	2018-10-15T16:29:41.000298+02:00	1
+	2018-10-15T16:29:54.000759+02:00	1
+	2018-10-15T16:29:55.000788+02:00	1
+	2018-10-15T16:30:15.000244+02:00	1
+	2018-10-15T16:30:16.000531+02:00	1
+manually_curated__opengdc_file_md5
+	05379541330d4e2eb74757b7052b1423	1
+	0a6fb6dc5e659ff18047adc7f047b438	1
+	0dbd3a803ec27d9bcc72b05f06bedfe7	1
+	1182f07cef1c67b4b13d99d8694bdefe	1
+	161ad284efbfdb39196c90f22c5de432	1
+	25004f90b1ee0476995c2a19a83c9292	1
+	257ebc406eddfb7cefe79f525dd041b4	1
+	267a9a62e0e9dd91566059dc345c5831	1
+	2c0769793a16a4e7d79c374107889daf	1
+	2e143ca9d89976ef87d034c3019aa5ec	1
+	308b463722a2656e89536a998a26e086	1
+	3507afe6560be6e95f9d0fd503fc4d8c	1
+	3594e649af5672f96100f7062f212206	1
+	3cea2ed160155896eb1ab9344dea51b3	1
+	40087650fbcc190e4e596ce7cad1db7a	1
+	47da192dd0a8ce1ba9ab8c9591da3c9f	1
+	4e9438413ab55fb91bbd3bd4e7426049	1
+	503cf368024d2e080a78c3c62f8e192f	1
+	525233f01a2d87cc94adb2c82c30600a	1
+	540b09b2c57e1ba0abdaea818a87a5e4	1
+	54644a4fbce0bdb97f77c48108988e6a	1
+	593e7dac0c2db129479828eca129973a	1
+	59f596fcda435d2e2139c313517b90ea	1
+	64b26f87e8ffc01240ced7037343bbff	1
+	6a6609f052502b2450cf49df492e6c77	1
+	6e6d4aa4e3be5852825a41f6a50c3909	1
+	703abcff7bed2c2fdd67cdab3b043d94	1
+	784284281aaf0a022a8935cf3c4b824a	1
+	7c6eafaf806205bad36e1ef7dfe8a3e2	1
+	7f3601d1ff15e60d3952bacffd73bb2d	1
+	88e681ad95660dd032d8e3fcfe1cf0c9	1
+	9a27a40339e0fdfa4422954ef83bad3d	1
+	9c5e383a10f36b0e304f130a8ca491ca	1
+	aaa2a6fde6f8c787eaa0e798bf01018e	1
+	acaf038fb8dbcd8a3a2aed42c025c586	1
+	b2c0b1e0daaa7082b14184bcc66daa48	1
+	bb9afe9648a31c8d2c9bd83512dc75ab	1
+	c776c0732c82adb7ec1f2749aa095a77	1
+	c9cd3a056176704eb0a1aae8863f0488	1
+	cf2a1242c1ade783058731d6f4a0ace3	1
+	cff5798707feec71890c139ea878f41d	1
+	d2cae433cad4c311bdda3902ae854f94	1
+	d3eb3c848bc240d921fb5f31b2468262	1
+	eaae91537a5d241c1ca9ce34c049f381	1
+	eec349d7c9004412d47d6ec79e1cf3e0	1
+	f1fb81061732e01e9ec8e4343f912c33	1
+	f2825924fbf8fa1ea7652d30c0ed1907	1
+	f85875df19048ffc8b16d06924b0e7b1	1
+	f8e151ea46f98fe53b780543ca370998	1
+	fe9d47734a20f6795f0b0c9bf9edecab	1
+manually_curated__opengdc_file_size
+	1249231	1
+	1251769	1
+	1253483	1
+	1253618	1
+	1254062	1
+	1254522	1
+	1254687	1
+	1255591	1
+	1255769	1
+	1255952	1
+	1256997	1
+	1257287	1
+	1257414	1
+	1258450	1
+	1576716	1
+	1579704	1
+	1581851	1
+	1583704	1
+	1584530	1
+	1585919	1
+	1599915	1
+	1602896	1
+	1604639	1
+	1604974	1
+	1605957	1
+	1607584	1
+	1611324	1
+	1615138	1
+	1615938	1
+	1616539	1
+	1617944	1
+	1619312	1
+	1619820	1
+	1621668	1
+	1622056	1
+	1625288	1
+	1627681	1
+	1628415	1
+	1628728	1
+	1628849	1
+	1632838	1
+	1636340	1
+	1638395	1
+	1639435	1
+	1640187	1
+	1640670	1
+	1644159	1
+	1644744	1
+	1648983	1
+	1660169	1
+manually_curated__opengdc_id
+	07401514-29ef-43a8-8a7f-a4e147852470-geq	1
+	07653b81-7194-4348-8ef9-1a7660c95376-geq	1
+	13d4c229-cf05-4fca-a52d-798dc7894ba1-geq	1
+	196f7a32-4d09-4e8b-9aa4-7964baf951d7-geq	1
+	1c2972fc-456c-4567-be96-bde9d39a0b76-geq	1
+	1ec66ae2-e78a-4eb8-891a-7f8b6b061dca-geq	1
+	1f1a8329-397c-4ec8-a7cc-46ec9c48fa42-geq	1
+	2436079d-3e40-4c50-9f99-85d4a8c2ddac-geq	1
+	3497c0d8-c7b0-43ca-92a2-30ea6cd61bde-geq	1
+	3e1411dc-8c6d-4a87-bb4f-44ef5ff8761b-geq	1
+	469f052a-477e-498a-ba3b-f288dcbc306f-geq	1
+	485b184d-15f1-4858-9e06-330d5258cfff-geq	1
+	4d49b039-f1fa-4892-8439-4155e72dd7c5-geq	1
+	5573955b-f0ec-4cfe-ad02-4f9f91693770-geq	1
+	58067780-a21b-4eeb-b061-caef50ea0650-geq	1
+	5a1a1f96-bf4f-415d-b2a2-4481a72914cf-geq	1
+	5b37433a-6415-497f-bf36-0f0b5c2ad21e-geq	1
+	608bf540-a094-441e-9329-9e759ff5d84d-geq	1
+	61fcdecf-52ca-465a-b8f1-262b6540117f-geq	1
+	66811a13-8463-429b-87ae-298455ee961a-geq	1
+	6d9b3d3a-2dd0-477e-aaf2-504ecd6c3de3-geq	1
+	6fca2b4e-2aa2-42bb-9991-b0a69e6155cd-geq	1
+	78eb93c7-0300-4f16-ab32-7489715e3353-geq	1
+	809db606-7929-48aa-ae6b-c2c9597a31c7-geq	1
+	8e48cff2-5edd-4ce6-9531-5dc594ae78ff-geq	1
+	8e70d12c-38fd-4da2-ad1e-b7f860959aa2-geq	1
+	92462e76-eed1-4eab-8c38-4cf9897be417-geq	1
+	9815693f-418d-4517-9a7e-5c708c157b0c-geq	1
+	9e3df1b0-dba1-4423-976e-99aab5b7d5e2-geq	1
+	a3eef529-ed7d-438c-b0be-ce569a846a8f-geq	1
+	ac77b52b-6f6c-41ec-b998-6d23250d0516-geq	1
+	b706b36a-2bcf-405c-aa18-30cbb54fac73-geq	1
+	b80a257d-9c8b-4c49-87bc-30f74ff9cd3e-geq	1
+	b8e62048-d0a6-4b0f-8e57-e406b783f698-geq	1
+	ba72262f-9361-4d4c-8fa0-cc44e26320f6-geq	1
+	c6842e1d-4f63-458c-9287-0326c03a69c9-geq	1
+	c8de0c98-c69a-44a1-bdf7-e6c731359aac-geq	1
+	ce3a2fa7-905e-491d-ade0-c8d5712c4afa-geq	1
+	cf95e020-748c-474d-baba-68ca888d2f4f-geq	1
+	d3041275-6a41-4974-a082-9b261b65c81f-geq	1
+	d5e3a3be-c4d9-41de-a39c-ae7aad3f3826-geq	1
+	d5e600a3-d273-4879-ac33-1a72a02073e5-geq	1
+	ddd83e9a-35cb-4539-8141-7557eccd3b34-geq	1
+	dfeaa69b-72ec-4a2e-8f26-7c4d826a1aa0-geq	1
+	e55a12d6-3ec4-4346-8849-cf7525fff740-geq	1
+	e66b878f-0a33-4edf-ba17-e0ec9f41e589-geq	1
+	edcc32ad-1375-4502-822e-defcea52b943-geq	1
+	f099f7fb-f07a-4529-83dc-e7023c52a999-geq	1
+	f847f8c8-7a39-4327-ad12-3aac2c331be8-geq	1
+	fbeec4cf-0ad3-4e9e-bfc1-d112b1e51b3a-geq	1
+manually_curated__origin_file_size
+	4910393	1
+	4953376	1
+	4953528	1
+	4962831	1
+	4964053	1
+	4970030	1
+	4970175	1
+	4970525	1
+	4973376	1
+	4973850	1
+	4977772	1
+	4985447	1
+	4988697	1
+	4989694	1
+	4994652	1
+	4996820	1
+	5001532	1
+	5002814	1
+	5004660	1
+	5007564	1
+	5009262	1
+	5009528	1
+	5013374	1
+	5013616	1
+	5016703	1
+	5017274	1
+	5021118	1
+	5024457	1
+	5029089	1
+	5029514	1
+	5029715	1
+	5031191	1
+	5031984	1
+	5034266	1
+	5036887	1
+	5037068	1
+	5041254	1
+	5042304	1
+	5044863	1
+	5047127	1
+	5048881	1
+	5049642	1
+	5050621	1
+	5051206	1
+	5056943	1
+	5073138	1
+	5073158	1
+	5073955	1
+	5079357	1
+	5090970	1
+manually_curated__origin_last_modified_date
+	Mon Oct 15 16:34:00 CEST 2018	8
+	Mon Oct 15 16:35:00 CEST 2018	6
+	Mon Oct 15 16:36:00 CEST 2018	8
+	Mon Oct 15 16:37:00 CEST 2018	7
+	Mon Oct 15 16:38:00 CEST 2018	8
+	Mon Oct 15 16:39:00 CEST 2018	3
+	Mon Oct 15 16:40:00 CEST 2018	8
+	Mon Oct 15 16:41:00 CEST 2018	2
+manually_curated__origin_md5
+	12f0754494398cc4087916655b7ce751	1
+	13ef487fcfc4c88448bc978f89048c1a	1
+	140734e612808c2757d98bf6b9d66184	1
+	155312ae560165b64dd3a536430ea179	1
+	1811609c9e47f21287f298974ba2cb58	1
+	203e953c451a403c49e3a9994a1a6527	1
+	245f60daf1ce2dae237e4af57058ddcb	1
+	275b6b51c3ccd68b10db8bbc1bd7f2f1	1
+	2ef19beb5643e40f753cd9a21b8204bd	1
+	36cc23cf47a8dd7351b4d78d0f0ff486	1
+	37114fbb75be6676759169dac8ba5ac2	1
+	38bb5d6bab3bfeb7daa36cc35d82859a	1
+	3be00f141f29cf77f64c2f19f8c2b63f	1
+	405c4320a75d213ad7cc587f4df6a58c	1
+	453ae4a896e1ded80060b836d9ab9f99	1
+	4c0b2d2752f2372b1fd6ccdc37daf48b	1
+	4e70da17694328d5ea59de8128b4de4e	1
+	510b113141713f739c56fb09527d2715	1
+	521da0b0a350cbe521f187e7fee2c328	1
+	529b8a86b479217317a3891986077702	1
+	55a8096f413beeddbb96dd838d67a0b6	1
+	5871b6ef7e43c00cc1bff28675696061	1
+	6d399d7684f7154cb85fcc8b2bc0ef86	1
+	6d6c79e4d333a7d410c8c988a1140aab	1
+	6f5d5b496fcbc9d7bf9b8de06074c61f	1
+	721b904483a259ececd90f1b4f3eb063	1
+	78bc9a0d56fb4f8bb346942a789efb9a	1
+	7a818a480e1511317356676140b049ce	1
+	7ae3cb53d7ef7028c36ab9ad74081aea	1
+	80d570131ee7b78fa53c93846fbbf142	1
+	88caea3e6e4aa9a7cb5b84704f9861ca	1
+	932a5f7dde7f6ad766f4c2e31d248e5e	1
+	94b3a56826692959ca39f157df3ca055	1
+	95877b9591951510e71866d8c8451b05	1
+	97895bfc690e0aa6164897ec6ba55843	1
+	9a199f51bc0bf4e045109c82c6663999	1
+	a5b93cd2efdea3b2152efb9d95cc7b8c	1
+	b6ba7a9eddcfab5f1b71ed802e4bd9ce	1
+	bb6cca83346a97e006ee69d4ecd5e118	1
+	bfade33cb2c4878e7eb0b77721f9bc8b	1
+	c054f0103e30b750e4cc491bfb9d185f	1
+	d60fc9289e47657b57c5de35ed57dc42	1
+	de11c502f04170ec72739b616d438c9f	1
+	df7637a85aaa18b8a143d7e180471dd3	1
+	e1fcb2fdaefbdeeb5714986f8f21e77c	1
+	e2bf6d91c19e15a5aca36e70c21fb35c	1
+	e40c21fe84911aa6b2d9fc02eb1136f1	1
+	ed5e7b66981035da8b720d8b32aeb172	1
+	f0940b6fa01c51fd194fd3307846f8ba	1
+	fa4f0cb85a2bccef31aee30364ea4521	1
+manually_curated__tissue_status
+	normal	50
+num
+	60483	50

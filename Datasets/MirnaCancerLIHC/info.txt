@@ -1,0 +1,8 @@
+Average region length	81.87
+Created by	sarapid
+Creation date	2019/10/17 08:53:23
+Execution time	00:02:30
+Number of regions	705375
+Number of samples	375
+Query name	MiRNACancer_LIHC
+Size	49.31 MB

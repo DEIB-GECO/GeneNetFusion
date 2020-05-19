@@ -1,0 +1,8 @@
+Average region length	29006.37
+Created by	sarapid
+Creation date	2019/10/17 07:17:54
+Execution time	00:06:33
+Number of regions	22620642
+Number of samples	374
+Query name	GeneCancer_LIHC
+Size	1804.48 MB

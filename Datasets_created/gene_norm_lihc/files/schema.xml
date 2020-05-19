@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gmqlSchemaCollection name="GeneNormalLIHC" xmlns="http://genomic.elet.polimi.it/entities">
+	<gmqlSchema type="Peak" coordinate_system="default">
+		<field type="STRING">chr</field>
+		<field type="LONG">left</field>
+		<field type="LONG">right</field>
+		<field type="CHAR">strand</field>
+		<field type="STRING">ensembl_gene_id</field>
+		<field type="STRING">entrez_gene_id</field>
+		<field type="STRING">gene_symbol</field>
+		<field type="STRING">type</field>
+		<field type="DOUBLE">htseq_count</field>
+		<field type="DOUBLE">fpkm_uq</field>
+		<field type="DOUBLE">fpkm</field>
+	</gmqlSchema>
+</gmqlSchemaCollection>

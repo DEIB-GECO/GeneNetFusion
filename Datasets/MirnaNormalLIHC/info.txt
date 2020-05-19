@@ -1,0 +1,8 @@
+Average region length	81.87
+Created by	sarapid
+Creation date	2019/10/17 09:30:31
+Execution time	00:01:10
+Number of regions	94050
+Number of samples	50
+Query name	MiRNANormal_LIHC
+Size	6.58 MB

@@ -10,15 +10,15 @@ This repository contains all data, scripts and results related to LIHC tumor.
 In particular, you will find:
 - 4 .py files which contain the main steps of the process,
 - two folders Datasets and Datasets_created that contains the data retrieved from GMQL and PyGMQL,
-- one folder Matrices that contains the matrices computed after having executed preprocessing.py,
-- one folder Networks that contains the networks built with creation_matrices.py and fusion_networks.py,
 - one folder Graphs that contains the graph of the network in the format required by Gephi,
 - one folder Extracted that contains the data regarding all the genes extracted with the pipeline,
+- one folder Auc_acc_f1 that contains the tables with the performances values after having executed extraction_classification.py,
+- one folder Boxplots that contains the boxplots with the comparisons of the performances of the classification,
 - one file matrix_GTypeGName.xlsx that contains the correspondances between the gene symbols and the gene type.
 - one folder Results containing the gene symbols of the LIHC fused network, the IC gene symbols and the PubMed evaluation results presentd in Knowledge-based evaluation of the results.ipynb.
 - one folder Supplementary data containing the DB_pharmacologically_active.csv file downloaded from DrugBank to be used in the DrugBank evaluation part of Knowledge-based evaluation of the results.ipynb. 
 
-#How to run the notebook
+# How to run the notebook
 pip install -r requirements.txt
 
 Execute the jupyter notebook Pipeline.ipynb until the part 'After extraction of communities with Gephi'.

@@ -2,24 +2,24 @@
 
 This repository has been created to present the work done on computational analysis of fused co-expression networks for the identification of candidate cancer gene biomarkers. 
 
-The jupyther notebook Pipeline.ipynb contains the complete pipeline for the construction of the fused co-expression networks and for the extraction of relevant gene biomarkers.
-The jupyter notebook Knowledge-based evaluation of the results.ipynb contains systematic and statistic evalution the the extracted genes (here called IC genes). 
+The jupyter notebook [Pipeline.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Pipeline.ipynb) contains the complete pipeline for the construction of the fused co-expression networks and the extraction of relevant gene biomarkers.
+The jupyter notebook [Knowledge-based evaluation of the results.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Knowledge-based%20evaluation%20of%20the%20results.ipynb) contains systematic and statistic evaluation of the extracted genes (here called IC genes). 
 
-# What can you find in this repository?
+### What can you find in this repository?
 This repository contains all data, scripts and results related to LIHC tumor.
 In particular, you will find:
 - 4 .py files which contain the main steps of the process,
-- two folders Datasets and Datasets_created that contains the data retrieved from GMQL and PyGMQL,
-- one folder Graphs that contains the LIHC fused network in the format required by Gephi,
-- one folder Extracted that contains the data regarding all the genes extracted with the pipeline,
-- one folder Auc_acc_f1 that contains the tables with the performances values after having executed extraction_classification.py,
-- one folder Boxplots that contains the boxplots with the comparisons of the performances of the classification,
+- two folders [Datasets](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Datasets) and [Datasets_created](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Datasets_created) that contains the TCGA gene expression data retrieved from [GMQL](http://gmql.eu) and [PyGMQL](https://pygmql.readthedocs.io/en/latest/),
+- one folder [Graphs](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Graphs) that contains the LIHC fused network in the format required by Gephi,
+- one folder [Extracted](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Extracted) that contains the data regarding all the genes extracted with the pipeline,
+- one folder [Auc_acc_f1](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Auc_acc_f1) that contains the tables with the performances values after having executed extraction_classification.py,
+- one folder [Boxplots]((https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Boxplots) that contains the boxplots with the comparisons of the performances of the classification,
 - one file matrix_GTypeGName.xlsx that contains the correspondences between the gene symbols and the gene type.
-- one folder Results containing the gene symbols of the LIHC fused network, the IC gene symbols and the PubMed evaluation results presentd in Knowledge-based evaluation of the results.ipynb.
-- one folder Supplementary data containing the DB_pharmacologically_active.csv file downloaded from DrugBank to be used in the DrugBank evaluation part of Knowledge-based evaluation of the results.ipynb. 
+- one folder [Results](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Results) containing the gene symbols of the LIHC fused network, the IC gene symbols and the PubMed evaluation results presented in [Knowledge-based evaluation of the results.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Knowledge-based%20evaluation%20of%20the%20results.ipynb).
+- one folder [Supplementary data](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Supplementary%20data) containing the DB_pharmacologically_active.csv file downloaded from DrugBank to be used in the DrugBank evaluation part of [Knowledge-based evaluation of the results.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Knowledge-based%20evaluation%20of%20the%20results.ipynb). 
 
-# How to run the notebook
+### How to run the notebook
 pip install -r requirements.txt
 
-Execute the jupyter notebook Pipeline.ipynb until the part 'After extraction of communities with Gephi'.
-Use Gephi in order to extract the relevant communities and save the genes in the folder Extracted with the name 'comm_'+str(tumor)+'.csv'.
+Execute the jupyter notebook [Pipeline.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Pipeline.ipynb) until the part 'After extraction of communities with Gephi'.
+Use [Gephi](https://gephi.org) in order to extract the relevant communities and save the genes in the folder [Extracted](https://github.com/DEIB-GECO/GeneNetFusion/tree/master/Extracted) with the name 'comm_'+str(tumor)+'.csv'.

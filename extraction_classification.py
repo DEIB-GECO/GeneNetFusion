@@ -98,7 +98,7 @@ class RF:
         self.lasso_fused_norm, self.lasso_fused_canc = lasso(self.fused_norm, self.fused_canc)
         self.lasso_fused_norm.to_csv('./Extracted/lasso_norm' + str(tumor) + '.csv', sep=';')
         self.lasso_fused_canc.to_csv('./Extracted/lasso_canc' + str(tumor) + '.csv', sep=';')
-        pd.DataFrame(N.index[self.lasso_fused_norm.index]).to_csv('./Extracted/genes_comm_lasso_' + str(tumor) + '.csv')
+        pd.DataFrame(N.index[self.lasso_fused_norm.index]).to_csv('./Extracted/IC_genes_lasso_' + str(tumor) + '.csv')
         self.lasso_de_norm, self.lasso_de_canc = lasso(self.de_norm, self.de_canc)
         self.lasso_random_values = self.RF_classifier_random(self.normal, self.cancer, self.fused_norm, self.fused_canc, self.tumor)
         self.lasso_de_values = self.RF_classifier(self.lasso_de_norm, self.lasso_de_canc, self.tumor, 'DE')

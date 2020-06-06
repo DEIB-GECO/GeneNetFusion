@@ -14,6 +14,18 @@ os.environ["VECLIB_MAXIMUM_THREADS"] = "10"
 
 warnings.filterwarnings('ignore')
 
+#Takes the adjacency matrix and transform it into a list of edges and saves it into output_filename
+def adj_to_list(A):
+    List=[]
+    A=pd.DataFrame(A)
+    for source in A.index.values:
+        for target in A.index.values:
+            if source>target:
+                if A[source][target]!=0:
+                    List.append((target,source,A[source][target]))
+    List1=pd.DataFrame(List)
+    return List1
+   
 #It allows to read a file (as a Dataframe) that has 3 or more columns (sep: tab) nd one line header with column names
 # ('src' and 'trg' that indicates the source and destination, the column of interest indicate the weights)
 #It return the parsed network data, the number of nodes in the network and the number of edges.

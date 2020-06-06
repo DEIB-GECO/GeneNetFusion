@@ -5,7 +5,7 @@ import warnings
 from scipy.stats import binom
 import snf
 import os
-from creation_matrices import adj_to_list
+#from creation_matrices import adj_to_list
 os.environ["MKL_NUM_THREADS"] = "10"
 os.environ["NUMEXPR_NUM_THREADS"] = "10"
 os.environ["OMP_NUM_THREADS"] = "10"

@@ -2,9 +2,9 @@
 
 This repository has been created to present the work done on computational analysis of fused co-expression networks for the identification of candidate cancer gene biomarkers. 
 
-The jupyter notebook [Pipeline.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Pipeline.ipynb) contains the complete pipeline for the construction of the fused co-expression networks and the extraction of relevant gene biomarkers. It can be executed online by clicking on [Pipeline.ipynb](https://colab.research.google.com/drive/16BHMZ83Y8RCctTLzwFhnlUB4oNU-o-GT).
+The jupyter notebook [Pipeline.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Pipeline.ipynb) contains the complete pipeline for the construction of the fused co-expression networks and the extraction of relevant gene biomarkers.
 
-The jupyter notebook [Knowledge-based evaluation of the results.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Knowledge-based%20evaluation%20of%20the%20results.ipynb) contains systematic and statistic evaluation of the extracted genes (here called IC genes). It can be executed online by clicking on [Knowledge-based evaluation of the results.ipynb](https://colab.research.google.com/drive/1MPzlkCioSXXaL-EqpInR98P1QAM4lRMR).
+The jupyter notebook [Knowledge-based evaluation of the results.ipynb](https://github.com/DEIB-GECO/GeneNetFusion/blob/master/Knowledge-based%20evaluation%20of%20the%20results.ipynb) contains systematic and statistic evaluation of the extracted genes (here called IC genes). 
 
 ### What can you find in this repository?
 This repository contains all data, scripts and results related to the LIHC tumor analysis.
